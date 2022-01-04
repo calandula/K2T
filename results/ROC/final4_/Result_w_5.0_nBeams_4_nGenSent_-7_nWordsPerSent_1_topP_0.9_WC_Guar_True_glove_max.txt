@@ -1,0 +1,380 @@
+Keywords: 
+kate needed decided bought home 
+
+Final sequence: 
+
+<|endoftext|>Even if you needed to get home to see your family, there was a good chance you would have decided to stay in bought-in hotel rooms. Kate Rooke, a sociology professor at the University of Oxford
+
+Success_rate: 1.0
+Perplexity: 23.008172430005768
+Time_needed: 143.5097098350525
+Success_length: 0.7380952380952381
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+today nervous worried luckily ended 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B C D E F G H I J K L nervous worried but luckily today is a good day to end some... less nervous anxious anxious worried trying to end something but trying
+
+Success_rate: 1.0
+Perplexity: 198.938065080765
+Time_needed: 172.6235635280609
+Success_length: 0.6904761904761905
+2_distint_rate: 0.9500
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+loved decided store bought home 
+
+Final sequence: 
+
+<|endoftext|>If you loved the home videos of the early 2000s and decided you wanted to store them on your computer, you bought a Google Drive instead of taking the time to take videos off of your computer and onto your
+
+Success_rate: 1.0
+Perplexity: 30.767753592555767
+Time_needed: 102.64724802970886
+Success_length: 0.5714285714285714
+2_distint_rate: 0.9512
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+shopping decided store bought happy 
+
+Final sequence: 
+
+<|endoftext|>O shopping. I bought this to store my stuff but decided to put it on the back of my car so I could keep it happy. Not sure how it'll hold up though. I bought it to store
+
+Success_rate: 1.0
+Perplexity: 21.846659635494245
+Time_needed: 84.91647362709045
+Success_length: 0.6428571428571429
+2_distint_rate: 0.9048
+3_distint_rate: 0.9512
+4_distint_rate: 1.0000
+
+Keywords: 
+vegas decided drove found trip 
+
+Final sequence: 
+
+<|endoftext|>More than a dozen people were found dead in a home in the city of Vegas on Sunday night, police said. They decided to call it a suicide after trip to the home drove them to their deaths.
+
+
+Success_rate: 1.0
+Perplexity: 20.50734157290486
+Time_needed: 180.72498536109924
+Success_length: 0.8571428571428571
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+wanted decided applied finally happy 
+
+Final sequence: 
+
+<|endoftext|>I finally decided to take the plunge and buy the Happy to be here 5 wanted to give it a try. It applied to my skin very well. I started with 2 layers, they lasted a good amount of
+
+Success_rate: 1.0
+Perplexity: 44.182620421982854
+Time_needed: 91.22079610824585
+Success_length: 0.5714285714285714
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+wanted decided signed worked year 
+
+Final sequence: 
+
+<|endoftext|>If you want to know how to decide if a working day is a good day to work or a good year to work, look no further than signed employee memorandums of understanding (MOUs) or
+
+Success_rate: 1.0
+Perplexity: 30.698671188320052
+Time_needed: 120.21826028823853
+Success_length: 0.7142857142857143
+2_distint_rate: 0.9024
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+she decided wanted store bought 
+
+Final sequence: 
+
+<|endoftext|>Just wanted to let you know that I decided to make a new She bought jewelry store. It was actually a fun one and I am very thankful for the time I had with the company. The business was great
+
+Success_rate: 1.0
+Perplexity: 25.90529687061284
+Time_needed: 92.70184779167175
+Success_length: 0.40476190476190477
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+flowers bought thought loved happy 
+
+Final sequence: 
+
+<|endoftext|>I thought I would share a happy story with you all today. I bought my wife flowers for her birthday and I loved how she took the time to make the bouquet. She really knocked it out of the
+
+Success_rate: 1.0
+Perplexity: 22.0648489270495
+Time_needed: 106.14195084571838
+Success_length: 0.5714285714285714
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+walk started began falling ended 
+
+Final sequence: 
+
+<|endoftext|>So I started this blog because I began to feel like I was falling behind in my studies. I ended up going to a walk-through when I had free time, but it wasn't any easier than my
+
+Success_rate: 1.0
+Perplexity: 19.867470916088536
+Time_needed: 123.85744285583496
+Success_length: 0.6190476190476191
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+wanted decided practiced hard finally 
+
+Final sequence: 
+
+<|endoftext|>Final Fantasy Type-0 HD is a hard-hitting action game that will keep you wanting more and more as you play it over and over again to decide if you should practice your skills or just let them do
+
+Success_rate: 1.0
+Perplexity: 23.46126875844725
+Time_needed: 159.58018136024475
+Success_length: 0.8333333333333334
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+loved decided hiked trail glad 
+
+Final sequence: 
+
+<|endoftext|>What is a trail- loved to hike, to bike or to just to enjoy the beautiful decided to take a trip to the Gladstone Mountains near Kirkland, Washington?
+
+
+For the last couple of
+
+Success_rate: 1.0
+Perplexity: 75.995177164683
+Time_needed: 104.96503472328186
+Success_length: 0.6190476190476191
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+wanted decided bought home happy 
+
+Final sequence: 
+
+<|endoftext|>I have been wanting to do a home made dutch oven for a while now and decided to make one for my happy place. I bought a whole oven from Home Depot and turned it into a dutch oven
+
+Success_rate: 1.0
+Perplexity: 17.985239633569506
+Time_needed: 135.24431943893433
+Success_length: 0.6666666666666666
+2_distint_rate: 0.9512
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+walk suddenly rain decided home 
+
+Final sequence: 
+
+<|endoftext|>Another home game for the Walk suddenly came to an end as the Rainiers decided to pull the plug to it after three quarters. The only reason to continue to watch a game like that is to see the players
+
+Success_rate: 1.0
+Perplexity: 52.219837725480915
+Time_needed: 81.9804310798645
+Success_length: 0.38095238095238093
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+he garage decided bought happy 
+
+Final sequence: 
+
+<|endoftext|>A few years ago he decided to go to the gym and bought a pair of garage-door opener and a pair of sandals so happy he didn't know if it was wise to talk about it.
+
+
+Success_rate: 1.0
+Perplexity: 28.52234972000592
+Time_needed: 114.65364694595337
+Success_length: 0.5952380952380952
+2_distint_rate: 0.9024
+3_distint_rate: 0.9500
+4_distint_rate: 1.0000
+
+Keywords: 
+home house called told decided 
+
+Final sequence: 
+
+<|endoftext|>House and home office calls can take up to 30 minutes to be decided upon. If you are told a call can't be taken, call back at the earliest opportunity.
+
+
+Using time zones can give
+
+Success_rate: 1.0
+Perplexity: 59.32431505352006
+Time_needed: 76.55973410606384
+Success_length: 0.47619047619047616
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+party wanted decided cake friends 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B C D E F G H I J K decided to make a party cake for friends who wanted to get together for a long time. As I am not a professional cake
+
+Success_rate: 1.0
+Perplexity: 31.516364711547933
+Time_needed: 181.23474788665771
+Success_length: 0.6428571428571429
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+wanted decided looked found bought 
+
+Final sequence: 
+
+<|endoftext|>The University of California decided to take a page out of the book found on the streets of New York City and bought a pair of $1 wanted posters for a student looking for trouble.
+
+
+MORE:
+
+Success_rate: 1.0
+Perplexity: 40.43312335031494
+Time_needed: 165.0516607761383
+Success_length: 0.8095238095238095
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+jake wanted decided worked happy 
+
+Final sequence: 
+
+<|endoftext|>Not to be confused with the Happy Jake Thing.
+
+
+ wanted to work with you to make sure that you have decided to do the Star Wars Holiday Special in the way you think it should be done.
+
+Success_rate: 1.0
+Perplexity: 38.1105174846087
+Time_needed: 114.07094025611877
+Success_length: 0.5714285714285714
+2_distint_rate: 1.0000
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+school team game ball scored 
+
+Final sequence: 
+
+<|endoftext|>Game Front Baller Team Ball Scoreplayer Ball Scorer Ball School Total First Off. Time Turnovers Lost Last Start Time Up Winning Percentages Stopped Alt Chassis All Team, Home Team Off. Start Time
+
+Success_rate: 1.0
+Perplexity: 437.0885570583728
+Time_needed: 50.92851114273071
+Success_length: 0.35714285714285715
+2_distint_rate: 0.9512
+3_distint_rate: 1.0000
+4_distint_rate: 1.0000
+
+Keywords: 
+kate needed decided bought home 
+
+Final sequence: 
+
+<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><|endoftext|></s></s></s></s></s></s></s></s></s>.</s> (</s></s></s>-</s>(</s>.</s> "</s> home</s> "</s></s></s> (</s>.</s> "</s> bought</s> "</s>.</s> "</s> "</s>.</s> decided</s> needed</s> "</s> "</s>.</s> "</s> "</s> "</s></s></s> Participants</s> deriv</s> deriv</s> deriv</s> deriv</s> deriv</s> deriv</s> deriv</s> deriv</s> kate
+
+Success_rate: 1.0
+Perplexity: 7.021488309179581
+Time_needed: 198.31920289993286
+Success_length: 1.0
+2_distint_rate: 0.0909
+3_distint_rate: 0.0930
+4_distint_rate: 0.0952
+
+Keywords: 
+kate needed decided bought home 
+
+Final sequence: 
+
+<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s></s></s> home</s></s></s>/</s>.</s></s></s> F</s>.</s>�</s>.</s>.</s>.</s></s></s> X</s></s></s> X</s> X</s> X</s> X</s> X</s> Ma</s> Advent</s> kind</s> Ma</s> Ma</s> Ma</s> bought</s> [</s> "</s> decided</s> "</s>.</s> "</s> needed</s>.</s> [</s>.</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> kate
+
+Success_rate: 1.0
+Perplexity: 5.256795912052121
+Time_needed: 205.52188372612
+Success_length: 1.0
+2_distint_rate: 0.1860
+3_distint_rate: 0.3203
+4_distint_rate: 0.4488
+
+Keywords: 
+kate needed decided bought home 
+
+Final sequence: 
+
+<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s></s></s> home</s></s></s>/</s>.</s></s></s> A</s></s></s> "</s> "</s> "</s> bought</s> decided</s> "</s> "</s> "</s> "</s> "</s> "</s> "</s> "</s>...</s> "</s> needed</s> "</s> "</s>"</s> "</s> "</s>"</s>"</s> "</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> Participants</s> kate
+
+Success_rate: 1.0
+Perplexity: 3.3623328722855597
+Time_needed: 146.79387640953064
+Success_length: 1.0
+2_distint_rate: 0.1705
+3_distint_rate: 0.2500
+4_distint_rate: 0.3228
+
+Keywords: 
+today nervous worried luckily ended 
+
+Final sequence: 
+
+<s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s><s></s></s> ended</s></s></s>.</s></s></s> A</s></s></s> A</s></s></s> A</s></s></s> A</s></s></s> A</s> A</s> "</s> A</s>Amid</s>Advertisement</s> luckily</s></s></s> worried</s> A</s> [</s> "</s> nervous</s> "</s>advertisement</s> (</s>.</s>Advertisement</s>​</s>​</s>M</s>></s>></s>UES</s>UES</s>UES</s>UES</s> listening</s> listening</s> today
+
+Success_rate: 1.0
+Perplexity: 6.527380855836098
+Time_needed: 173.75634813308716
+Success_length: 1.0
+2_distint_rate: 0.1860
+3_distint_rate: 0.3516
+4_distint_rate: 0.5118
+

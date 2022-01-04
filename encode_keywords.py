@@ -17,7 +17,7 @@ word_embedding = {
     'word2vec': "word2vec-google-news-300"
     }
 
-def create_enc_dict(file_name, embedding, task):
+def create_enc_dict(file_name, embedding, task, input=None):
 
     embedding_file = word_embedding[embedding]
     if task == 'key2article':
@@ -35,7 +35,16 @@ def create_enc_dict(file_name, embedding, task):
     print('{} word embeddings loaded'.format(embedding))
     glove_dict = {}
 
-    if not task == 'key2article':
+    if task == 'input':
+        keywords = input[0][1]
+        print(keywords)
+        try:
+            for word in keywords:
+                glove_dict[word] = encoder[word]
+        except KeyError:
+            print(KeyError)
+
+    elif not task == 'key2article':
         file1 = open(file_name, "r+")
         lines = file1.readlines()
 
@@ -43,17 +52,20 @@ def create_enc_dict(file_name, embedding, task):
         for line in lines:
             keywords = list(line.strip().split(", "))
             print(keywords)
-            for word in keywords:
-                glove_dict[word] = encoder[word]
+            try:
+                for word in keywords:
+                    glove_dict[word] = encoder[word]
 
-            # save_path = folder_name + '/' + str(embedding) + '_set_' +str(i) + '.npy'
-            # np.save(save_path, glove_words)
-            i=i+1
+                # save_path = folder_name + '/' + str(embedding) + '_set_' +str(i) + '.npy'
+                # np.save(save_path, glove_words)
+                i=i+1
+            except KeyError:
+                continue
     else:
         keyword_sets = []
         for filename in os.listdir(folder_name):
             if filename.endswith('txt'):
-                file1 = open(folder_name + filename, "r+")
+                file1 = open(folder_name + filename, "r+", encoding='utf-8')
                 lines = file1.readlines()
                 keywords = list(lines[2].strip().split(", "))
                 in_text = lines[1].split()[:30]

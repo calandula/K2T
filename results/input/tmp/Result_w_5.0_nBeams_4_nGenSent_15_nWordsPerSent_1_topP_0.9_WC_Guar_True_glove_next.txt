@@ -1,0 +1,15 @@
+Keywords: 
+get more cat 
+
+Final sequence: 
+
+Goal! Get out of the way more Catawba!
+
+
+At the
+
+Success_rate: 1.0
+Perplexity: 64.95790425759465
+Time_needed: 242.79248929023743
+Success_length: 0.5333333333333333
+

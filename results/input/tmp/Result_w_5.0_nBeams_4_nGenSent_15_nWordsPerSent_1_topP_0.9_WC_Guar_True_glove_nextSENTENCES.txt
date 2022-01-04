@@ -1,0 +1,25 @@
+Goal! Get out of the way more Catawba!
+
+
+At the
+
+
+
+Success_rate: 1.0
+Perplexity: 64.95790425759465Goal! Get out of the way more quickly Catcher! I'm sorry that I
+
+
+
+Success_rate: 1.0
+Perplexity: 65.87822992665448Goal! Get out of the way more! Catches you against the wall twice on
+
+
+
+Success_rate: 1.0
+Perplexity: 131.1869795727198Goal! Get out of the way more quickly Catchers! Get your equipment down to
+
+
+
+Success_rate: 1.0
+Perplexity: 94.97744210957048
+###############################

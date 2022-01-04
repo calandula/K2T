@@ -1,0 +1,370 @@
+Keywords: 
+football score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>The football team beat another scoreless game on the player-choice right in fourth minute of halftime to
+
+Success_rate: 1.0
+Perplexity: 217.93425187810112
+Time_needed: 2.3792502880096436
+Success_length: 0.85
+
+Keywords: 
+football foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>More results from the football game that could foul your players up better Minute 20 second second fifth century a
+
+Success_rate: 1.0
+Perplexity: 1058.8393422038014
+Time_needed: 1.5116057395935059
+Success_length: 0.9
+
+Keywords: 
+football substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>This document provides general football rules for determining substitution and play- player replacement on fourth sixth minute kickoff and
+
+Success_rate: 1.0
+Perplexity: 931.8963746135863
+Time_needed: 1.5119922161102295
+Success_length: 0.9
+
+Keywords: 
+football score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>The University of Illinois football team is ranked first score-wise in Player Ball right now third fourth overall
+
+Success_rate: 1.0
+Perplexity: 372.1128180115946
+Time_needed: 1.568796157836914
+Success_length: 0.95
+
+Keywords: 
+football yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>All of our Football Color Cab Yellow Soccer Cards can be player discontinued at box office first third fourth at
+
+Success_rate: 1.0
+Perplexity: 1791.4469478234646
+Time_needed: 1.5618031024932861
+Success_length: 0.95
+
+Keywords: 
+football red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>A campground in Football Federation Australia red card player Juan Carlos Me box named fourth third fifth spot and
+
+Success_rate: 1.0
+Perplexity: 1148.98990139235
+Time_needed: 1.5175395011901855
+Success_length: 0.9
+
+Keywords: 
+football goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>Originally the players team and team manager team football goal was more pass and move left player to right player
+
+Success_rate: 1.0
+Perplexity: 628.5617282697517
+Time_needed: 1.440363883972168
+Success_length: 0.85
+
+Keywords: 
+football substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>The U.S football team has simply substituted itself for sixth place minute to second minute half when it
+
+Success_rate: 1.0
+Perplexity: 272.9834688323965
+Time_needed: 1.501932144165039
+Success_length: 0.9
+
+Keywords: 
+football foul minute 
+
+Final sequence: 
+
+<|endoftext|>Part of the problem is football-related fouls instead of kick minute calls — fouls called at
+
+Success_rate: 1.0
+Perplexity: 179.35127509304752
+Time_needed: 1.261195421218872
+Success_length: 0.7
+
+Keywords: 
+football score minute 
+
+Final sequence: 
+
+<|endoftext|>The Football League has been one of the scorers of time minute crimes in recent years, helping show
+
+Success_rate: 1.0
+Perplexity: 108.5137888055659
+Time_needed: 1.20821213722229
+Success_length: 0.65
+
+Keywords: 
+football penalty player team 
+
+Final sequence: 
+
+<|endoftext|>The reason that football is a great social penalty game is because players get paid team bonuses and don't
+
+Success_rate: 1.0
+Perplexity: 78.38987807025283
+Time_needed: 1.3859188556671143
+Success_length: 0.8
+
+Keywords: 
+football penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>Many football fans are coming to terms with penalty points after Player of the Team minute and sixth seventh spot
+
+Success_rate: 1.0
+Perplexity: 351.53154187587137
+Time_needed: 1.5627827644348145
+Success_length: 0.95
+
+Keywords: 
+football red card player 
+
+Final sequence: 
+
+<|endoftext|>As some of you might know football season is finally over red card and player suspensions are finally in full
+
+Success_rate: 1.0
+Perplexity: 86.97556293993568
+Time_needed: 1.3218793869018555
+Success_length: 0.75
+
+Keywords: 
+football goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>Football Goalkeeper Jobs in Leftfield Through the Years Pass the Goal Area Tracker to the best area for
+
+Success_rate: 1.0
+Perplexity: 773.8969406224908
+Time_needed: 1.2638945579528809
+Success_length: 0.7
+
+Keywords: 
+football foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>WASHINGTON – In a football-playing generation, foul play has played Team Football player second fifth most,
+
+Success_rate: 1.0
+Perplexity: 475.1814665403259
+Time_needed: 1.4994137287139893
+Success_length: 0.9
+
+Keywords: 
+football start second half 
+
+Final sequence: 
+
+<|endoftext|>Football World Cup 16 Day Four Starting 15 and Goal Score Second Half
+
+
+United States v Chile
+
+Success_rate: 1.0
+Perplexity: 318.9542100126004
+Time_needed: 1.2069129943847656
+Success_length: 0.65
+
+Keywords: 
+football end second half team 
+
+Final sequence: 
+
+<|endoftext|>On the football field at the end of last season the second half was always team possession. Then,
+
+Success_rate: 1.0
+Perplexity: 46.6290456539037
+Time_needed: 1.387831449508667
+Success_length: 0.8
+
+Keywords: 
+football score end second half 
+
+Final sequence: 
+
+<|endoftext|>New York basketball coach Jim Boeheim football coach Chris Ash score the end of second half of the NCAA
+
+Success_rate: 1.0
+Perplexity: 113.99200680956598
+Time_needed: 1.4496879577636719
+Success_length: 0.85
+
+Keywords: 
+football begin match first half 
+
+Final sequence: 
+
+<|endoftext|>Once again we hope to play football with some of the Beginner Match Teams first half and then the
+
+Success_rate: 1.0
+Perplexity: 117.51424976538651
+Time_needed: 1.4434845447540283
+Success_length: 0.85
+
+Keywords: 
+football score pass player 
+
+Final sequence: 
+
+<|endoftext|>This is an ever-changing football team and player with a score to pass. In one offseason,
+
+Success_rate: 1.0
+Perplexity: 77.87488440470968
+Time_needed: 1.323453664779663
+Success_length: 0.75
+
+Keywords: 
+football substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>The Football Association of Ireland has refused substitution of player Farhad Moshiri eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 458.59288737394814
+Time_needed: 1.6255171298980713
+Success_length: 1.0
+
+Keywords: 
+football penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>MORE than 10 football fans have been injured after penalty goals went right through side- box doors on Friday
+
+Success_rate: 1.0
+Perplexity: 371.5707875865822
+Time_needed: 1.4458165168762207
+Success_length: 0.85
+
+Keywords: 
+football goal player 
+
+Final sequence: 
+
+<|endoftext|>Drone As A Weapon Of War Football (The Goal is Player As A Weapon Of War)<|endoftext|>
+
+Success_rate: 1.0
+Perplexity: 95.13821731404353
+Time_needed: 1.205845832824707
+Success_length: 0.65
+
+Keywords: 
+football penalty player 
+
+Final sequence: 
+
+<|endoftext|>Advertisement 1 / 24 Back to Gallery football BACK TO SLIDE Penalty day player injury files revealed
+
+
+
+Success_rate: 1.0
+Perplexity: 1027.336987938927
+Time_needed: 1.3271152973175049
+Success_length: 0.75
+
+Keywords: 
+football score player 
+
+Final sequence: 
+
+<|endoftext|>The High Court will today football clubs in England be allowed scorecards that players have had removed.
+
+
+Success_rate: 1.0
+Perplexity: 225.3440371223749
+Time_needed: 1.3249106407165527
+Success_length: 0.75
+
+Keywords: 
+football substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>"So what you got footballers to do is substitution in the fourth minute in total offence for a
+
+Success_rate: 1.0
+Perplexity: 147.44256656077764
+Time_needed: 1.328352451324463
+Success_length: 0.75
+
+Keywords: 
+football red card 
+
+Final sequence: 
+
+<|endoftext|>Much to the chagrin of football fans across the Red and Yellow carded list, there were
+
+Success_rate: 1.0
+Perplexity: 43.71851564555757
+Time_needed: 1.3228094577789307
+Success_length: 0.75
+
+Keywords: 
+football yellow card 
+
+Final sequence: 
+
+<|endoftext|>Don't let the football stop you from following Yellow card Carlos Vela.
+
+
+Don't
+
+Success_rate: 1.0
+Perplexity: 123.42012631138293
+Time_needed: 1.0898771286010742
+Success_length: 0.55
+
+Keywords: 
+football penalty first half 
+
+Final sequence: 
+
+<|endoftext|>West Ham play home football next month after penalty shoot-out first leg draw half-time played
+
+
+Success_rate: 1.0
+Perplexity: 143.04149537655528
+Time_needed: 1.3840203285217285
+Success_length: 0.8
+
+Keywords: 
+football substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>In the year that football's greatest ever substitution of a second half goal player was never even deemed,
+
+Success_rate: 1.0
+Perplexity: 151.91311627537834
+Time_needed: 1.3297019004821777
+Success_length: 0.75
+

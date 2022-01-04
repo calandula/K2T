@@ -1,0 +1,376 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>16 reviews:
+
+
+4 score 3 star 2 star Player Right Second Third Fourth Minute First Minute
+
+Success_rate: 1.0
+Perplexity: 495.51559730050735
+Time_needed: 1.939911127090454
+Success_length: 0.9
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>After a rough first half foul play ruled him out of player off hours minute in fourth fifth inning,
+
+Success_rate: 1.0
+Perplexity: 492.85351585120804
+Time_needed: 1.5132200717926025
+Success_length: 0.9
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>Subject: Document on PID substitution in example 2 player-12 First fourth sixth Half minute Figure 1:
+
+Success_rate: 1.0
+Perplexity: 1931.9278884750865
+Time_needed: 1.4331316947937012
+Success_length: 0.85
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>The half- score will be different if Player one has a right to take second third fourth or whoever
+
+Success_rate: 1.0
+Perplexity: 391.9508973086536
+Time_needed: 1.4957892894744873
+Success_length: 0.9
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>Canada does a huge amount of yellow card printing in the player box for third fourth, fifth and even
+
+Success_rate: 1.0
+Perplexity: 214.76870797645074
+Time_needed: 1.381068229675293
+Success_length: 0.8
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>It can be said that Red Bull could be a card player in BoxNation the fourth fifth season.
+
+Success_rate: 1.0
+Perplexity: 147.6253349796054
+Time_needed: 1.4850518703460693
+Success_length: 0.9
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>General Manager Craig HeGoal GoalPlayer Player Rating Goal Passes Pass Left Pass Player Minutes Pass Attempt
+
+Success_rate: 1.0
+Perplexity: 1067.521558468541
+Time_needed: 1.372101068496704
+Success_length: 0.8
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>Zabihullah Mujahid substitution not allowed sixth Test minute of first second half after Fletcher
+
+
+Success_rate: 1.0
+Perplexity: 528.523485379151
+Time_needed: 1.4304277896881104
+Success_length: 0.85
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>There are numerous reasons why foul smelling food and liquids should put minute amounts of medicine into your system,
+
+Success_rate: 1.0
+Perplexity: 135.84308786656135
+Time_needed: 1.205284595489502
+Success_length: 0.65
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>His goal score of 48 minutes allowed at Everton last weekend was not enough to give him any real hope
+
+Success_rate: 1.0
+Perplexity: 49.167515643930955
+Time_needed: 0.794299840927124
+Success_length: 0.3
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>{is_A} [39] Penalty {$ player_ team_goal_taken_
+
+Success_rate: 1.0
+Perplexity: 244.26537893193645
+Time_needed: 1.2482144832611084
+Success_length: 0.7
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>Sorry about the mess. This article or penalty section is a player stub. Team minute eighth seventh will
+
+Success_rate: 1.0
+Perplexity: 796.9476508103476
+Time_needed: 1.5400636196136475
+Success_length: 0.95
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>Red card in Manchester City player's second yellow card for attacking John Stones at Wolves
+
+
+John
+
+Success_rate: 1.0
+Perplexity: 180.56282484789864
+Time_needed: 0.794079065322876
+Success_length: 0.3
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>Got the chance to play Goal that I left as a pass through this area...
+
+
+Seriously
+
+Success_rate: 1.0
+Perplexity: 210.01579679084122
+Time_needed: 1.319762945175171
+Success_length: 0.75
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>My first thought was that it had foul play on its team and players probably have second fifth gen consoles
+
+Success_rate: 1.0
+Perplexity: 261.7668803628546
+Time_needed: 1.4664461612701416
+Success_length: 0.9
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>Something to add to the start of the third round of the Second World War half way through at Stoke
+
+Success_rate: 1.0
+Perplexity: 83.934564269344
+Time_needed: 1.3487787246704102
+Success_length: 0.8
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>If you ever wanted to go back and end the Second World War in half the team you drafted,
+
+Success_rate: 1.0
+Perplexity: 52.89722538494316
+Time_needed: 1.4104537963867188
+Success_length: 0.85
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>By Seneca Croydon Score in the end, the second half of the season was decided when
+
+Success_rate: 1.0
+Perplexity: 91.75081294680572
+Time_needed: 1.2414932250976562
+Success_length: 0.7
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>My book and first two work will begin with the time match that should not half-heartedly warn of
+
+Success_rate: 1.0
+Perplexity: 304.9489153277504
+Time_needed: 1.3544654846191406
+Success_length: 0.8
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>There was a time when some scorekeeper was expected to pass the player at the halfway line and extend
+
+Success_rate: 1.0
+Perplexity: 61.23981758919111
+Time_needed: 1.2345986366271973
+Success_length: 0.7
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Honey's first usage was substitution for the name Player's Honey during eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 996.2254420451164
+Time_needed: 1.6007046699523926
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>Episode 12 - The Penalty of Seeing Right Side Up in Boxes
+
+
+This week we compare
+
+Success_rate: 1.0
+Perplexity: 135.26258718122511
+Time_needed: 1.137963056564331
+Success_length: 0.6
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>A failed attempt to create a goal with the player picking the kick up off the ground in that last
+
+Success_rate: 1.0
+Perplexity: 106.50784161970705
+Time_needed: 1.008659839630127
+Success_length: 0.5
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>A flat penalty on take off does not just make player better, but ultimately the success of your team
+
+Success_rate: 1.0
+Perplexity: 123.96446183865993
+Time_needed: 1.0644564628601074
+Success_length: 0.55
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>May 1st, 2013 by score5 player
+
+
+Tales of Phantasia: Dragon's
+
+Success_rate: 1.0
+Perplexity: 135.80442267617485
+Time_needed: 0.9576616287231445
+Success_length: 0.45
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>Created by the very talented Aurion substitutionist and in game second fourth timer Minute Storm for the clan
+
+Success_rate: 1.0
+Perplexity: 1043.8501211126177
+Time_needed: 1.3525443077087402
+Success_length: 0.8
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>When the University of the Redwoods opens on May 19 cardinals will know which "scientists,
+
+Success_rate: 1.0
+Perplexity: 131.7016240923294
+Time_needed: 1.1251938343048096
+Success_length: 0.6
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>Most commentators have come to see yellow card-plagued Newcastle United as the sport's big problem
+
+Success_rate: 1.0
+Perplexity: 53.67921072715298
+Time_needed: 0.8954896926879883
+Success_length: 0.4
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The Fast and the Furious penalty is another in a first for the half-dozen rulings that have been
+
+Success_rate: 1.0
+Perplexity: 86.39023965334727
+Time_needed: 1.2387421131134033
+Success_length: 0.7
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>Uncertainty casts a shadow over substitution for the first time in Second Half Player of the Month competition
+
+Success_rate: 1.0
+Perplexity: 148.50462070368522
+Time_needed: 1.352421760559082
+Success_length: 0.8
+

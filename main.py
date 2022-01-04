@@ -304,7 +304,7 @@ def conditional_language_generation(
     number_of_concurrent_sentences = 10,
     number_of_generated_sentences = 20,
     number_of_words_per_sentence = 5,
-    number_of_beams = 3,
+    number_of_beams = 4,
     save_path='dummy.txt',
     only_max = False,
     no_do_wc=False,
@@ -569,9 +569,9 @@ def conditional_language_generation(
     text_file.write("\nPerplexity: " + str(distilGPT2_perplexity))
     text_file.write("\nTime_needed: " + str(time_needed))
     text_file.write("\nSuccess_length: " + str(success_length))
-    text_file.write("\n2_distint_rate: " + '{0:.4f}'.format(distinct_2/total_2))
-    text_file.write("\n3_distint_rate: " + '{0:.4f}'.format(distinct_3/total_3))
-    text_file.write("\n4_distint_rate: " + '{0:.4f}'.format(distinct_4/total_4))
+    # text_file.write("\n2_distint_rate: " + '{0:.4f}'.format(distinct_2/total_2))
+    # text_file.write("\n3_distint_rate: " + '{0:.4f}'.format(distinct_3/total_3))
+    # text_file.write("\n4_distint_rate: " + '{0:.4f}'.format(distinct_4/total_4))
     text_file.write("\n\n")
     text_file.close()
     text_file_sentences.close()
@@ -654,20 +654,24 @@ def get_keywordsets(task, folder_name, file_name):
         keyword_sets = []
         for filename in os.listdir(folder_name):
             if filename.endswith('txt'):
-                file1 = open(os.path.join(folder_name, filename), "r+")
+                file1 = open(os.path.join(folder_name, filename), "r+", encoding='utf-8')
                 lines = file1.readlines()
                 keywords = list(lines[2].strip().split(", "))
                 in_text = lines[1].split()[:30]
                 keyword_sets.append((' '.join(in_text), keywords))
     else:
         #File containing the keywords as text
-        in_text = '<|endoftext|>' # 'Start with EOS
+        #in_text = '<|endoftext|>' # 'Start with EOS
         #in_texts = ['I', 'It', 'A'] #Other possible start tokens
-        file1 = open(file_name, "r+")
-        lines = file1.readlines()
-        if task == 'commongen':
-            keyword_sets = [(in_text, list(line.strip().split())) for line in lines]
+        in_text = '<|endoftext|>'
+        if task != 'input':
+            file1 = open(file_name, "r+")
+            lines = file1.readlines()
+            keyword_sets = [(in_text, list(line.strip().split(", "))) for line in lines]
         else:
+            lines = []
+            line = input("please, choose words:")
+            lines.append(line)
             keyword_sets = [(in_text, list(line.strip().split(", "))) for line in lines]
             # keyword_sets = [(random.choice(in_texts), list(line.strip().split(", "))) for line in lines]
 
@@ -680,7 +684,7 @@ def get_args(parser):
     # Default is GPT-3 Beam Search except det_BS
 
     parser.add_argument('-top_p', type=float, default=0.9)
-    parser.add_argument('-weight', type=float, default=5.0) #20.0
+    parser.add_argument('-weight', type=float, default=5.0)
     parser.add_argument('-n_generated_sentences', type=int, default=90)
     parser.add_argument('-n_words_per_sentence', type=int, default=1)
     parser.add_argument('-n_beams', type=int, default=1)
@@ -698,7 +702,7 @@ def get_args(parser):
     parser.add_argument('-guide', type=bool, default=True)
     parser.add_argument('-results_subfolder', type=str, default='tmp')
     parser.add_argument('-task', type=str, default='50keywords',
-                        choices=['50keywords', 'ROC', 'key2article', 'commongen'], help='tasks: 50keywords, ROC, key2article, commongen')
+                        choices=['50keywords', 'ROC', 'key2article', 'commongen', 'input'], help='tasks: 50keywords, ROC, key2article, commongen, input')
     args = parser.parse_args()
 
     return args
@@ -718,7 +722,7 @@ if __name__ == '__main__':
     model = GPT2LMHeadModel.from_pretrained('gpt2-large')
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
     model.eval()   
-    model.to('cuda') #
+    model.to('cuda')
 
     # Get keywords and save path  
     folder_name, file_name = get_folderfile_name(args.task, file_name)
@@ -730,10 +734,11 @@ if __name__ == '__main__':
     print('Save path: ', save_path)
            
     # Create file containing the keyword embeddings
-    save_path_dict = os.path.join(folder_name, 'dict_' + str(args.embedding) + '.pkl')
-    if not os.path.isfile(save_path_dict):
-        create_enc_dict(file_name, args.embedding, task=args.task)
-    with open(save_path_dict, 'rb') as f:
+    # save_path_dict = os.path.join(folder_name, 'dict_' + str(args.embedding) + '.pkl')
+    # if not os.path.isfile(save_path_dict) or args.task == 'input':
+    #     create_enc_dict(file_name, args.embedding, task=args.task, input=keyword_sets)
+
+    with open(f'./gensim-data/{word_embedding[args.embedding]}.pkl', 'rb') as f:
         enc_dict = pickle.load(f)
 
     ################ RUN ################

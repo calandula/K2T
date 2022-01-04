@@ -66,7 +66,7 @@ def main():
     # Self-BLEU
     random.seed(0)
     nlp = spacy.load('en_core_web_sm', disable=['parser', 'tagger', 'ner'])
-    nlp.add_pipe(nlp.create_pipe('sentencizer'))
+    nlp.add_pipe("sentencizer")
 
     all_sentences = []
     #save_path = str(os.path.dirname(os.path.abspath(__file__))) + "/results/50_keywordsets_eval/progressive/"
