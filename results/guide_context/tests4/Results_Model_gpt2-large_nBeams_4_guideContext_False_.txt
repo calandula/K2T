@@ -1,0 +1,387 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>What is the score of the player right in front of fourth minute?
+
+
+Find out here
+
+Success_rate: 1.0
+Perplexity: 79.87337908320127
+Time_needed: 18.564106702804565
+Success_length: 0.65
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>Get daily updates directly to your inbox Subscribe Thank fouli player for minutes of fifth.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 1845.7990514741196
+Time_needed: 22.17475914955139
+Success_length: 0.8
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>For the first time, a substitution player has been selected sixth overall in Minute Maid Park.
+
+
+
+Success_rate: 1.0
+Perplexity: 47.03826628674718
+Time_needed: 22.328643321990967
+Success_length: 0.75
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Double Score - The first player to score a right handed double in fourth quarter of a head to head
+
+Success_rate: 1.0
+Perplexity: 94.75099688418479
+Time_needed: 19.88522958755493
+Success_length: 0.7
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>I have a yellow card in my player box and I'm fourth on the PFA League table with
+
+Success_rate: 1.0
+Perplexity: 65.94435643976628
+Time_needed: 19.108203649520874
+Success_length: 0.7
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>The Red Card allows players to take a box of 10 Fifth Dawn cards and is sold separately.
+
+
+Success_rate: 1.0
+Perplexity: 120.85424442524568
+Time_needed: 20.86974287033081
+Success_length: 0.6
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>When a goal is scored, players pass the ball left to right to player A, to player B
+
+Success_rate: 1.0
+Perplexity: 45.40982203264429
+Time_needed: 19.92372965812683
+Success_length: 0.75
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>A federal appeals court has ruled substitution of a second-round sixth- minute penalty half in the 1
+
+Success_rate: 1.0
+Perplexity: 138.44383841306401
+Time_needed: 24.51539421081543
+Success_length: 0.85
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>How do you foul up a minute from an NCAA tournament? It's enough to make you flinch
+
+Success_rate: 1.0
+Perplexity: 63.43681944532823
+Time_needed: 9.988666296005249
+Success_length: 0.35
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>Game Score
+
+
+The Minute Maid Park entrance gates will open at 4:15 p.m
+
+Success_rate: 1.0
+Perplexity: 50.708610275940856
+Time_needed: 9.659718036651611
+Success_length: 0.35
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>His team was in the penalty area and he was playing player-of-the-moment skills
+
+Success_rate: 1.0
+Perplexity: 41.259594527615896
+Time_needed: 13.941507816314697
+Success_length: 0.6
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>In a minute-by-minute penalty shootout between player teams in the seventh and eighth rounds of the
+
+Success_rate: 1.0
+Perplexity: 37.871700678868436
+Time_needed: 24.239365816116333
+Success_length: 0.75
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>RED CARD: A player can receive a RED CARD at any point during the match. If a player
+
+Success_rate: 1.0
+Perplexity: 25.768446846565052
+Time_needed: 6.427633047103882
+Success_length: 0.25
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>Four goals from left-back David Passmore and two from area-stretching midfielder Scott McInt
+
+Success_rate: 1.0
+Perplexity: 141.74072655628788
+Time_needed: 16.20805287361145
+Success_length: 0.65
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>This is a very foul team to play against as players will be in fifth and sixth gear. Just
+
+Success_rate: 1.0
+Perplexity: 100.12692556156564
+Time_needed: 19.45202398300171
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>As we start the second half of the season with the Washington Capitals hosting the Pittsburgh Penguins, we're
+
+Success_rate: 1.0
+Perplexity: 12.950789476521969
+Time_needed: 8.026916265487671
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>This is the second part of a two part end-of- half- team tour that will take
+
+Success_rate: 1.0
+Perplexity: 49.75843867741585
+Time_needed: 21.19849443435669
+Success_length: 0.8
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>It was a scoreline that would end up being second only to half time in last Saturday's clash
+
+Success_rate: 1.0
+Perplexity: 57.2099125946585
+Time_needed: 16.896228551864624
+Success_length: 0.7
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>The first part of the Beginner's Matchbook is half finished, and there are a few pages
+
+Success_rate: 1.0
+Perplexity: 37.45810342251586
+Time_needed: 18.92936635017395
+Success_length: 0.6
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>Pass a score of at least 70 on player's first year to get bonus
+
+
+Achieve
+
+Success_rate: 1.0
+Perplexity: 193.57195788094745
+Time_needed: 10.277721643447876
+Success_length: 0.45
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>"No substitution for the player who has the highest number of nineteenth nineteenth eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 184.21412160417105
+Time_needed: 26.363290071487427
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>A week after the penalty was handed down to right- side box-to-box midfielder Ihab
+
+Success_rate: 1.0
+Perplexity: 48.21656429308011
+Time_needed: 19.355496406555176
+Success_length: 0.65
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>There are many goals to be achieved by PlayerUnknown's Battlegrounds; to be one of them
+
+Success_rate: 1.0
+Perplexity: 21.163808685310833
+Time_needed: 12.297977209091187
+Success_length: 0.45
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>In 2013, the penalty for a player agreeing to a "confidential and non-disclosure agreement
+
+Success_rate: 1.0
+Perplexity: 22.02323423498095
+Time_needed: 11.287097930908203
+Success_length: 0.4
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>SHARE THIS ARTICLE Share Tweet Post Email Scoreboard
+
+
+Player salaries in the U.S.
+
+Success_rate: 1.0
+Perplexity: 54.65496065367428
+Time_needed: 16.73991584777832
+Success_length: 0.65
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>Trivia
+
+
+The substitution of the second fourth- minute time-jump for the second-half
+
+Success_rate: 1.0
+Perplexity: 102.86168085724611
+Time_needed: 15.947968244552612
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>Redshift is a new card series that aims to combine the cards traditionally found in other card series with
+
+Success_rate: 1.0
+Perplexity: 48.75227632415214
+Time_needed: 4.524490833282471
+Success_length: 0.3
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>With the yellow card being shown, only Yaya Toure has been booked so far.
+
+
+
+Success_rate: 1.0
+Perplexity: 52.725556885776264
+Time_needed: 5.758786201477051
+Success_length: 0.2
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not penalty free.
+ first half audio
+
+
+AMY
+
+Success_rate: 1.0
+Perplexity: 455.28822124594495
+Time_needed: 21.846216678619385
+Success_length: 0.75
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>The Liberal government is considering substitution of the second half of the year for player contracts, which currently stip
+
+Success_rate: 1.0
+Perplexity: 52.589553634932116
+Time_needed: 18.136051893234253
+Success_length: 0.65
+

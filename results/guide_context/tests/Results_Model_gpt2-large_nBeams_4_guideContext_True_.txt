@@ -1,0 +1,390 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>While the score is less than player-friendly right now with fourth- minute strikes coming off of missed
+
+Success_rate: 1.0
+Perplexity: 226.62711198187003
+Time_needed: 30.994110345840454
+Success_length: 0.75
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>Critical foul by player Klay Thompson ( minute 3 ) and fifth-quarter foul by Michael Beasley
+
+Success_rate: 1.0
+Perplexity: 166.16445347992206
+Time_needed: 30.798835515975952
+Success_length: 0.65
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>The 2014-15 season substitution rate is player-by-player sixth minute action.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 146.1465785460379
+Time_needed: 33.74348831176758
+Success_length: 0.75
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Score Player Position Right Guard Left Guard Fourth-Rd Tackle Second-Rd Tackle Quarterback Backup
+
+Success_rate: 1.0
+Perplexity: 100.13036320575878
+Time_needed: 19.510417222976685
+Success_length: 0.4
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>1. Yellow Card Player, Box 2-3 Fourth Division London United (London)
+
+
+
+
+Success_rate: 1.0
+Perplexity: 164.15177453143053
+Time_needed: 28.20704197883606
+Success_length: 0.65
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>Red card for player in box
+
+
+This player was fifth yellow carded in the draw and
+
+Success_rate: 1.0
+Perplexity: 212.54976706663155
+Time_needed: 24.40408229827881
+Success_length: 0.55
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>After the goal, the players and coaches were passing around leftovers from players' meals with team chefs
+
+Success_rate: 1.0
+Perplexity: 166.1531234920412
+Time_needed: 30.42550539970398
+Success_length: 0.75
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>Two minutes later, a second shot rang out, substitution by substitute and sixth half by substitution, three
+
+Success_rate: 1.0
+Perplexity: 211.11312009318428
+Time_needed: 33.92422413825989
+Success_length: 0.8
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>For the first time in a foul-mouthed minute of television, Donald Trump learned his way
+
+Success_rate: 1.0
+Perplexity: 35.05794647293052
+Time_needed: 23.291964054107666
+Success_length: 0.6
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>The first score of minute eight of the game came to us via Carlos Rogers, who pushed the ball
+
+Success_rate: 1.0
+Perplexity: 91.44616222908255
+Time_needed: 13.371177434921265
+Success_length: 0.3
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>If you are a penalty team player who is looking for advice on training with the goal of becoming a
+
+Success_rate: 1.0
+Perplexity: 43.300860271696486
+Time_needed: 14.279273271560669
+Success_length: 0.35
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>We are a team of people who have a penalty for player- minute usage in seventh and eighth grade
+
+Success_rate: 1.0
+Perplexity: 124.28341990621273
+Time_needed: 35.556326150894165
+Success_length: 0.85
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>First Red Card
+
+
+Player, 2-1 vs. Spurs (Alfonso Pelado
+
+Success_rate: 1.0
+Perplexity: 440.6874926962668
+Time_needed: 10.282935857772827
+Success_length: 0.35
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to investigate left-handed passivity in area VI of the left middle
+
+Success_rate: 1.0
+Perplexity: 69.39297733360307
+Time_needed: 30.45608639717102
+Success_length: 0.75
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>A lot of players in the NBA foul their team in the fourth quarter fifth time through the quarter.
+
+Success_rate: 1.0
+Perplexity: 95.02373851601989
+Time_needed: 33.912713050842285
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>I am starting this second half of my "Redefine YOLO" series. YOL
+
+Success_rate: 1.0
+Perplexity: 50.429897411571226
+Time_needed: 12.832860708236694
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>This is the second part of a two-part end-of- half team wrap-up for
+
+Success_rate: 1.0
+Perplexity: 35.782761298713766
+Time_needed: 35.96377491950989
+Success_length: 0.8
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>Score 9/10 end of second half.Story 9/10I've seen this anime plenty of
+
+Success_rate: 1.0
+Perplexity: 145.37432142239325
+Time_needed: 17.65432381629944
+Success_length: 0.4
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>The following is the beginning of a match report for first half of the third round of the HS2
+
+Success_rate: 1.0
+Perplexity: 47.633309921369126
+Time_needed: 26.461150884628296
+Success_length: 0.6
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>This is the scorecard for the pass/fail player scorecard we released over a year ago (
+
+Success_rate: 1.0
+Perplexity: 64.74153792956062
+Time_needed: 22.89840340614319
+Success_length: 0.55
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Getty Images
+
+
+The substitution player is a staple of nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 796.9848930773059
+Time_needed: 41.61257529258728
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>It was a penalty that could have been righted if the side had been box-to-box
+
+Success_rate: 1.0
+Perplexity: 31.083561951355247
+Time_needed: 31.6304988861084
+Success_length: 0.8
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>Please enable Javascript to watch this video goalWA.com player
+
+
+JACKSON, Wash
+
+Success_rate: 1.0
+Perplexity: 103.07255905092264
+Time_needed: 22.37740683555603
+Success_length: 0.6
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>The European Union penalty for failing to provide player transfers will be assessed after the 2017-18 season,
+
+Success_rate: 1.0
+Perplexity: 34.50613790404527
+Time_needed: 18.656532526016235
+Success_length: 0.45
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>The score of the game is Player R5 and Player B5:
+
+
+Player R5:
+
+Success_rate: 1.0
+Perplexity: 40.5033828606154
+Time_needed: 13.309981346130371
+Success_length: 0.35
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>At the beginning of the substitution of the fourth minute with the score in the ninetieth minutes of
+
+Success_rate: 1.0
+Perplexity: 73.4058286357996
+Time_needed: 22.965856313705444
+Success_length: 0.5
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>The Red Card is a society-wide initiative that seeks to empower adults, students, and community members
+
+Success_rate: 1.0
+Perplexity: 23.65939821815665
+Time_needed: 6.158807277679443
+Success_length: 0.15
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>The White House has a yellow card for press secretary Sean Spicer.
+
+
+The controversial press secretary
+
+Success_rate: 1.0
+Perplexity: 29.29015306416436
+Time_needed: 14.309474468231201
+Success_length: 0.35
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The long-awaited penalty for the first half of the Collingwood clash against Greater Western Sydney has
+
+Success_rate: 1.0
+Perplexity: 21.52470254138635
+Time_needed: 18.414573192596436
+Success_length: 0.45
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B substitution for the second half of player any default
+
+
+
+
+Success_rate: 1.0
+Perplexity: 290.94821447057575
+Time_needed: 27.879300594329834
+Success_length: 0.75
+

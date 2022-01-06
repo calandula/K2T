@@ -1,0 +1,393 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>We will score points for players who play right-back or fourth- minute minutes. We will score
+
+Success_rate: 1.0
+Perplexity: 71.67198684646642
+Time_needed: 26.58037805557251
+Success_length: 0.75
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>.
+
+
+The foul play was the player's second minute of the fifth quarter, but the
+
+Success_rate: 1.0
+Perplexity: 36.160613267953245
+Time_needed: 29.459160804748535
+Success_length: 0.8
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>
+A few minutes later, the substitution team player in the sixth line was given a few minutes off
+
+Success_rate: 1.0
+Perplexity: 49.77586897055152
+Time_needed: 25.444758653640747
+Success_length: 0.65
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Don't get me wrong. Score is a player right now and fourth in the league in points per
+
+Success_rate: 1.0
+Perplexity: 31.874248587943065
+Time_needed: 26.08223056793213
+Success_length: 0.7
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>In this episode of Yellow Cards we take players through the box art for fourth and fifth paperbacks of
+
+Success_rate: 1.0
+Perplexity: 83.36843401473914
+Time_needed: 28.143203496932983
+Success_length: 0.75
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>The red card is a player-generated box score that is scored on fifth, sixth, eighth,
+
+Success_rate: 1.0
+Perplexity: 38.110608347271295
+Time_needed: 27.464523315429688
+Success_length: 0.75
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>A young man who left his goal-scoring player to pass a player was found dead in his bed
+
+Success_rate: 1.0
+Perplexity: 55.387701074043136
+Time_needed: 26.483505964279175
+Success_length: 0.7
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>Washington (CNN) The substitution of a second half of the sixth minute from the Spurs' 2-
+
+Success_rate: 1.0
+Perplexity: 34.598814812058
+Time_needed: 25.12486743927002
+Success_length: 0.7
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>A few minutes later, I was back at foul trouble. We had spent several hours trying to come
+
+Success_rate: 1.0
+Perplexity: 27.692873297699556
+Time_needed: 16.355658054351807
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>For those who score more than 50 minutes in a team's preseason, this'll be no problem for
+
+Success_rate: 1.0
+Perplexity: 43.001007885270496
+Time_needed: 14.508394002914429
+Success_length: 0.4
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>
+The penalty of a player's team record is assessed based on the player's career output, provided
+
+Success_rate: 1.0
+Perplexity: 40.8580063734033
+Time_needed: 14.471309661865234
+Success_length: 0.4
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>What is the penalty for a player who team-mates minute in seventh place?
+
+
+A
+
+Success_rate: 1.0
+Perplexity: 43.575190896106655
+Time_needed: 26.47240972518921
+Success_length: 0.7
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>3 red cards for players
+
+
+- Elimination:
+
+
+1.
+
+
+2
+
+Success_rate: 1.0
+Perplexity: 60.952712703607844
+Time_needed: 8.752066373825073
+Success_length: 0.25
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to evaluate left-handed pass- area performance (ROEAS)
+
+Success_rate: 1.0
+Perplexity: 65.20300084894623
+Time_needed: 26.050199031829834
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>He said foul play was the team player's responsibility and the fifth man's responsibility.<|endoftext|>While gaming
+
+Success_rate: 1.0
+Perplexity: 61.582311576098284
+Time_needed: 21.6352481842041
+Success_length: 0.65
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>In the second half of the season the start of the season is being called, when we've had
+
+Success_rate: 1.0
+Perplexity: 20.2262135877816
+Time_needed: 14.471905708312988
+Success_length: 0.35
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>The end of the second half of the team's World Cup campaign confirmed this year's end of the
+
+Success_rate: 1.0
+Perplexity: 22.567463462170227
+Time_needed: 15.931927919387817
+Success_length: 0.45
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>There are two ways to score a second-round end-of- half score:
+
+
+
+
+Success_rate: 1.0
+Perplexity: 49.32925783466507
+Time_needed: 27.88922667503357
+Success_length: 0.75
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>They are not going to begin to match the first half.
+
+
+As the first league match
+
+Success_rate: 1.0
+Perplexity: 44.51202776336052
+Time_needed: 20.201316118240356
+Success_length: 0.55
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>Out of all the players in the world scored at least one pass in Saturday's 1-0 draw
+
+Success_rate: 1.0
+Perplexity: 19.10136353470343
+Time_needed: 22.138086080551147
+Success_length: 0.65
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>1 2 3 4 5 6 substitution_ player_ name_ the eighteenth eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 233.31016212533876
+Time_needed: 37.40447783470154
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>I have always been a penalty-happy right- side man and box-to-box right-
+
+Success_rate: 1.0
+Perplexity: 56.05459796931105
+Time_needed: 24.543060064315796
+Success_length: 0.7
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>This goal is to have player 1 start the game in the QPR's home jersey
+
+
+
+
+Success_rate: 1.0
+Perplexity: 74.21263039835354
+Time_needed: 9.2221097946167
+Success_length: 0.3
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>For the first time in the penalty shootout against the player-coached Boston Bruins, the Bruins landed
+
+Success_rate: 1.0
+Perplexity: 22.521174112331536
+Time_needed: 20.19998812675476
+Success_length: 0.55
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>Check out the scorecard below for players who finished high school, college and now live in Japan
+
+
+Success_rate: 1.0
+Perplexity: 36.57700748579457
+Time_needed: 13.44647216796875
+Success_length: 0.4
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>New York, D.C. substitution of the fourth minute of the second half.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 47.33410824331196
+Time_needed: 22.078006744384766
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>The first red card for a defender is a yellow card, but that didn't stop the winner of
+
+Success_rate: 1.0
+Perplexity: 28.585130692988194
+Time_needed: 8.436058521270752
+Success_length: 0.2
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|> Yellow Carpet Card
+
+
+Yes, you read that right. A Yellow Carpet Card.
+
+Success_rate: 1.0
+Perplexity: 31.654746488667108
+Time_needed: 5.141594886779785
+Success_length: 0.1
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>If you are a first time home buyer, penalty fees and half-price, you can pick up
+
+Success_rate: 1.0
+Perplexity: 49.03936900157724
+Time_needed: 23.251630306243896
+Success_length: 0.6
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>CAMDEN, N.Y. -- substitution of second half goals by player and coach will be
+
+Success_rate: 1.0
+Perplexity: 71.02544253517681
+Time_needed: 31.208646297454834
+Success_length: 0.8
+

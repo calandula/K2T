@@ -1,0 +1,384 @@
+Keywords: 
+soccer score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>American soccer players score a lot right now. The fourth minute of Sunday's US Open Cup semifinal
+
+Success_rate: 1.0
+Perplexity: 44.972127528840815
+Time_needed: 16.320446968078613
+Success_length: 0.6
+
+Keywords: 
+soccer foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>Most Popular Soccer Goal of the Week foul on player minutes penalty on fifth minute Red cards
+
+
+
+
+Success_rate: 1.0
+Perplexity: 499.243402621326
+Time_needed: 18.954546213150024
+Success_length: 0.7
+
+Keywords: 
+soccer substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>The Socceroos are back in action in substitution player for the sixth time in minute six of the opening
+
+Success_rate: 1.0
+Perplexity: 103.0697084584251
+Time_needed: 20.547046899795532
+Success_length: 0.8
+
+Keywords: 
+soccer score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Fans of soccer and score-settling player-to-player right-to fourth contract clauses will
+
+Success_rate: 1.0
+Perplexity: 319.25305315159176
+Time_needed: 22.603326320648193
+Success_length: 0.8
+
+Keywords: 
+soccer yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>The players on soccer's world stage are yellow cards away from box-office fourth place.
+
+
+
+Success_rate: 1.0
+Perplexity: 130.59479996732242
+Time_needed: 21.803869009017944
+Success_length: 0.8
+
+Keywords: 
+soccer red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>The Great Soccer Red Card is a player- box in the fifth episode of The Sopranos.
+
+Success_rate: 1.0
+Perplexity: 114.49541544484502
+Time_needed: 17.822274923324585
+Success_length: 0.65
+
+Keywords: 
+soccer goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>Government players prefer to talk soccer rather than goals, and pass the left- player off to the right
+
+Success_rate: 1.0
+Perplexity: 183.9499124404492
+Time_needed: 22.846400260925293
+Success_length: 0.8
+
+Keywords: 
+soccer substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>Are you a soccer fan? Do you substitution your sixth minute goal for second half stoppage time?
+
+Success_rate: 1.0
+Perplexity: 49.296467276660664
+Time_needed: 24.634302854537964
+Success_length: 0.8
+
+Keywords: 
+soccer foul minute 
+
+Final sequence: 
+
+<|endoftext|>The first thing you need to know soccer is that fouls are minute at best, especially in a
+
+Success_rate: 1.0
+Perplexity: 44.340912665591205
+Time_needed: 21.65480065345764
+Success_length: 0.7
+
+Keywords: 
+soccer score minute 
+
+Final sequence: 
+
+<|endoftext|>This post is part of a soccer- scorecard series on MinutePhysics.com. Click here
+
+Success_rate: 1.0
+Perplexity: 86.51283774495124
+Time_needed: 20.017115592956543
+Success_length: 0.65
+
+Keywords: 
+soccer penalty player team 
+
+Final sequence: 
+
+<|endoftext|>When it comes to soccer players in the penalty box, teams tend to get all the credit. They
+
+Success_rate: 1.0
+Perplexity: 32.430149973736455
+Time_needed: 18.67011857032776
+Success_length: 0.6
+
+Keywords: 
+soccer penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>All players are required to be soccer-ready and penalty team minutes per game seventh-highest in Major
+
+Success_rate: 1.0
+Perplexity: 177.15986160421613
+Time_needed: 24.622029066085815
+Success_length: 0.8
+
+Keywords: 
+soccer red card player 
+
+Final sequence: 
+
+<|endoftext|>This is a soccer specific red card. Players must be within 10 meters of the ball at the time
+
+Success_rate: 1.0
+Perplexity: 42.30405991207141
+Time_needed: 13.695527791976929
+Success_length: 0.45
+
+Keywords: 
+soccer goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>A soccer- goal-taking left-back has passed a landmark area test of physical fitness after completing
+
+Success_rate: 1.0
+Perplexity: 336.1295921683567
+Time_needed: 21.984082221984863
+Success_length: 0.75
+
+Keywords: 
+soccer foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>Community Rating:
+
+
+Community Soccer Teams 2 foul players 2 minutes in fifth
+
+
++
+
+Success_rate: 1.0
+Perplexity: 1358.4807997939147
+Time_needed: 23.186877250671387
+Success_length: 0.8
+
+Keywords: 
+soccer start second half 
+
+Final sequence: 
+
+<|endoftext|>Former soccer star David Beckham is starting a second career as a half-marathon runner.
+
+
+
+Success_rate: 1.0
+Perplexity: 39.74936326491138
+Time_needed: 17.994446754455566
+Success_length: 0.65
+
+Keywords: 
+soccer end second half team 
+
+Final sequence: 
+
+<|endoftext|>We are a team of professional soccer players and end users of Second Half End User Software. The Second
+
+Success_rate: 1.0
+Perplexity: 66.15332254450288
+Time_needed: 20.486003160476685
+Success_length: 0.7
+
+Keywords: 
+soccer score end second half 
+
+Final sequence: 
+
+<|endoftext|>The Socceroos have scored in each half of their last two end-to second-half wins over
+
+Success_rate: 1.0
+Perplexity: 73.65603282481825
+Time_needed: 21.51927900314331
+Success_length: 0.8
+
+Keywords: 
+soccer begin match first half 
+
+Final sequence: 
+
+<|endoftext|>0
+
+
+The Socceroos begin their match against the first half-finalists from Group B
+
+Success_rate: 1.0
+Perplexity: 63.009665517003356
+Time_needed: 18.887409210205078
+Success_length: 0.7
+
+Keywords: 
+soccer score pass player 
+
+Final sequence: 
+
+<|endoftext|>About Us
+
+
+The Soccer Players Association of Scoreboard and Pass (SPPA) is a
+
+Success_rate: 1.0
+Perplexity: 81.16227288549858
+Time_needed: 18.545971155166626
+Success_length: 0.65
+
+Keywords: 
+soccer substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Thousands of soccer players and fans flocked to substitution time in the eighteenth eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 487.9975953162881
+Time_needed: 26.743406772613525
+Success_length: 1.0
+
+Keywords: 
+soccer penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>As a soccer fan in the penalty box right now, I side with Dick Federer. He's
+
+Success_rate: 1.0
+Perplexity: 58.08656925513766
+Time_needed: 17.676409006118774
+Success_length: 0.65
+
+Keywords: 
+soccer goal player 
+
+Final sequence: 
+
+<|endoftext|>The Department of Soccer has announced the goal of a player-elected captain in the 2016 MLS All-
+
+Success_rate: 1.0
+Perplexity: 38.9627197705911
+Time_needed: 14.13034963607788
+Success_length: 0.55
+
+Keywords: 
+soccer penalty player 
+
+Final sequence: 
+
+<|endoftext|>AP Soccer's penalty shootout is a player vs. player competition, pitting three-time world champion
+
+Success_rate: 1.0
+Perplexity: 85.44326697448169
+Time_needed: 10.526211500167847
+Success_length: 0.4
+
+Keywords: 
+soccer score player 
+
+Final sequence: 
+
+<|endoftext|>For the first time in soccer history, players from both teams score the same amount of goals on the
+
+Success_rate: 1.0
+Perplexity: 21.659279338840964
+Time_needed: 15.67523741722107
+Success_length: 0.65
+
+Keywords: 
+soccer substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>The US Soccer Federation (USSF) substitution policy is one of fourth- minute replacement, and the
+
+Success_rate: 1.0
+Perplexity: 93.92993512204139
+Time_needed: 20.910438537597656
+Success_length: 0.8
+
+Keywords: 
+soccer red card 
+
+Final sequence: 
+
+<|endoftext|>PHOTOS: Soccer star Red Cardes gets 10-year sentence for prostituting 6 girls
+
+
+
+Success_rate: 1.0
+Perplexity: 175.19009126183667
+Time_needed: 8.513651847839355
+Success_length: 0.3
+
+Keywords: 
+soccer yellow card 
+
+Final sequence: 
+
+<|endoftext|>A group of soccer fans in Yellowknife is trying to card $500,000 in refundable tickets
+
+Success_rate: 1.0
+Perplexity: 55.42989536729526
+Time_needed: 16.28930425643921
+Success_length: 0.6
+
+Keywords: 
+soccer penalty first half 
+
+Final sequence: 
+
+<|endoftext|>Community Rating:
+
+
+Community Soccer 5 out of 5 penalty kicks First Half 2nd Half Complete
+
+Success_rate: 1.0
+Perplexity: 620.0407809596826
+Time_needed: 21.52781915664673
+Success_length: 0.8
+
+Keywords: 
+soccer substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>This is the second part of a soccer-themed substitution in Half-Life player profiles. If you
+
+Success_rate: 1.0
+Perplexity: 83.57899372248806
+Time_needed: 21.544055938720703
+Success_length: 0.8
+

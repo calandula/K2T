@@ -1,0 +1,763 @@
+soccer<|endoftext|>While the score is less than player-friendly right now with fourth- minute strikes coming off of missed
+
+
+
+Success_rate: 1.0
+Perplexity: 226.62711198187003soccer<|endoftext|>While the score is less than player-friendly right now with fourth- minute forward Danny Barrera's
+
+
+
+Success_rate: 1.0
+Perplexity: 207.43140780248115soccer<|endoftext|>While the score is less than player-friendly right now with fourth- minute coming up in the score
+
+
+
+Success_rate: 1.0
+Perplexity: 155.2448292272182soccer<|endoftext|>While the score is less than player-friendly right now with fourth- minute shooting looking like it's
+
+
+
+Success_rate: 1.0
+Perplexity: 165.22172514724974
+###############################
+soccer<|endoftext|>Critical foul by player Klay Thompson ( minute 3 ) and fifth-quarter foul by Michael Beasley
+
+
+
+Success_rate: 1.0
+Perplexity: 166.16445347992206soccer<|endoftext|>Critical foul by player Klay Thompson ( minute 2 fifth quarter ): Personal foul on Stephen Curry ( minute
+
+
+
+Success_rate: 1.0
+Perplexity: 250.8715280252413soccer<|endoftext|>Critical foul by player Klay Thompson on minute one of the second fifth quarter. This foul will be
+
+
+
+Success_rate: 1.0
+Perplexity: 129.01542176739684soccer<|endoftext|>Critical foul by player Klay Thompson on minute one of the third quarter Fifth quarter
+
+
+Man
+
+
+
+Success_rate: 1.0
+Perplexity: 227.84577527185183
+###############################
+soccer<|endoftext|>The 2014-15 season substitution rate is player-by-player sixth minute action.
+
+
+
+
+
+
+Success_rate: 1.0
+Perplexity: 146.1465785460379soccer<|endoftext|>The 2014-15 season substitution rate is player-by-player sixth minute substitution rate. A player
+
+
+
+Success_rate: 1.0
+Perplexity: 121.77621518674987soccer<|endoftext|>The 2014-15 season substitution rate is player-by-player sixth minute effects.
+
+
+W
+
+
+
+Success_rate: 1.0
+Perplexity: 232.36334039828284soccer<|endoftext|>The 2014-15 season substitution rate is player-by-player sixth minute replacement - tracking the number
+
+
+
+Success_rate: 1.0
+Perplexity: 253.98769088168595
+###############################
+soccer<|endoftext|>Score Player Position Right Guard Left Guard Fourth-Rd Tackle Second-Rd Tackle Quarterback Backup
+
+
+
+Success_rate: 1.0
+Perplexity: 100.13036320575878soccer<|endoftext|>Score Player Position Right Guard Left Guard Fourth Down Tight End Power Forward Center Guard Defensive Tackle Linebacker Defensive
+
+
+
+Success_rate: 1.0
+Perplexity: 76.79696074712142soccer<|endoftext|>Score Player Position Right Guard Left Guard Fourth Down Linebacker Center Running Back Fullback Fullback Bench Forward
+
+
+
+Success_rate: 1.0
+Perplexity: 126.76624005047907soccer<|endoftext|>Score Player Position Right Guard Left Guard Fourth-Down Edge Quality Grade The line changed not that many times
+
+
+
+Success_rate: 1.0
+Perplexity: 580.1872337316796
+###############################
+soccer<|endoftext|>1. Yellow Card Player, Box 2-3 Fourth Division London United (London)
+
+
+
+
+
+
+Success_rate: 1.0
+Perplexity: 164.15177453143053soccer<|endoftext|>1. Yellow Card Player, Box 2-2-3 Fourth Line (6'6-6
+
+
+
+Success_rate: 1.0
+Perplexity: 127.79898783252276soccer<|endoftext|>1. Yellow Card Player, Box 2-3 Fourth Zone
+
+
+Michael Bradley has dominated this position
+
+
+
+Success_rate: 1.0
+Perplexity: 290.263670530917soccer<|endoftext|>1. Yellow Card Player, Box 2A, Fourth Plate Box, Demuth, RAAF,
+
+
+
+Success_rate: 1.0
+Perplexity: 342.51865462722066
+###############################
+soccer<|endoftext|>Red card for player in box
+
+
+This player was fifth yellow carded in the draw and
+
+
+
+Success_rate: 1.0
+Perplexity: 212.54976706663155soccer<|endoftext|>Red card for player in box
+
+
+The fifth Yellow card for Vazquez who was injured
+
+
+
+Success_rate: 1.0
+Perplexity: 152.97629492272597soccer<|endoftext|>Red card for player in box
+
+
+The fifth ball was into the box where Joao Pedro
+
+
+
+Success_rate: 1.0
+Perplexity: 191.43066137650501soccer<|endoftext|>Red card for player in box
+
+
+This player is fifth in the time for which first three
+
+
+
+Success_rate: 1.0
+Perplexity: 222.07298227057763
+###############################
+soccer<|endoftext|>After the goal, the players and coaches were passing around leftovers from players' meals with team chefs
+
+
+
+Success_rate: 1.0
+Perplexity: 166.1531234920412soccer<|endoftext|>After the goal, the players and coaches were passing around leftovers from players from the league's European
+
+
+
+Success_rate: 1.0
+Perplexity: 71.25703318858183soccer<|endoftext|>After the goal, the players and coaches were passing around leftovers from players around the world. Sergio
+
+
+
+Success_rate: 1.0
+Perplexity: 73.49230101362717soccer<|endoftext|>After the goal, the players and coaches were passing around leftovers from player's pasts and eventually
+
+
+
+Success_rate: 1.0
+Perplexity: 126.92386246461083
+###############################
+soccer<|endoftext|>Two minutes later, a second shot rang out, substitution by substitute and sixth half by substitution, three
+
+
+
+Success_rate: 1.0
+Perplexity: 211.11312009318428soccer<|endoftext|>Two minutes later, a second shot rang out, substitution by substitute and sixth half goal by Ibrahimovic
+
+
+
+Success_rate: 1.0
+Perplexity: 114.23779576995202soccer<|endoftext|>Two minutes later, a second shot rang out, substitution by substitute and sixth half with neither team able
+
+
+
+Success_rate: 1.0
+Perplexity: 178.91649924556862soccer<|endoftext|>Two minutes later, a second shot rang out, substitution by substitute and sixth half minutes went past us
+
+
+
+Success_rate: 1.0
+Perplexity: 160.435932376252
+###############################
+soccer<|endoftext|>For the first time in a foul-mouthed minute of television, Donald Trump learned his way
+
+
+
+Success_rate: 1.0
+Perplexity: 35.05794647293052soccer<|endoftext|>For the first time in a foul-mouthed minute or two, from the heat of Thursday
+
+
+
+Success_rate: 1.0
+Perplexity: 36.54316963006203soccer<|endoftext|>For the first time in a foul-mouthed minute of game, Milan at 1-1
+
+
+
+Success_rate: 1.0
+Perplexity: 33.61108292918574soccer<|endoftext|>For the first time in a foul-mouthed minute, Tom Brady talked about selling: his
+
+
+
+Success_rate: 1.0
+Perplexity: 54.8034781652914
+###############################
+soccer<|endoftext|>The first score of minute eight of the game came to us via Carlos Rogers, who pushed the ball
+
+
+
+Success_rate: 1.0
+Perplexity: 91.44616222908255soccer<|endoftext|>The first score of the minute before the kickoff came off a 21-yard bomb by center Brendan Mills
+
+
+
+Success_rate: 1.0
+Perplexity: 99.1253293117603soccer<|endoftext|>The first score of the day came when minute 33 came into play as Southampton dominated an adventurous West Brom
+
+
+
+Success_rate: 1.0
+Perplexity: 127.61715254678168soccer<|endoftext|>The first score of the minute came as Leith brought on Nicky Stransky and Daran Mc
+
+
+
+Success_rate: 1.0
+Perplexity: 204.25083300737393
+###############################
+soccer<|endoftext|>If you are a penalty team player who is looking for advice on training with the goal of becoming a
+
+
+
+Success_rate: 1.0
+Perplexity: 43.300860271696486soccer<|endoftext|>If you are a penalty team player or player (i.e., a four-quarterback team
+
+
+
+Success_rate: 1.0
+Perplexity: 35.621262961659184soccer<|endoftext|>If you are a penalty team player with a high importance to your team, you're probably looking to
+
+
+
+Success_rate: 1.0
+Perplexity: 31.399459996116803soccer<|endoftext|>If you are a penalty team player and make an expensive mistake, don't argue with someone who wants
+
+
+
+Success_rate: 1.0
+Perplexity: 55.52012498250231
+###############################
+soccer<|endoftext|>We are a team of people who have a penalty for player- minute usage in seventh and eighth grade
+
+
+
+Success_rate: 1.0
+Perplexity: 124.28341990621273soccer<|endoftext|>We are a team of people who have a penalty for player- minute usage in seventh and eighth grade
+
+
+
+Success_rate: 1.0
+Perplexity: 124.28341990621273soccer<|endoftext|>We are a team of people who have a penalty for player- minute usage in seventh and eighth grades
+
+
+
+Success_rate: 1.0
+Perplexity: 132.89264555170203soccer<|endoftext|>We are a team of people who have a penalty for player- minute error in seventh-grade.
+
+
+
+Success_rate: 1.0
+Perplexity: 124.39862118186426
+###############################
+soccer<|endoftext|>First Red Card
+
+
+Player, 2-1 vs. Spurs (Alfonso Pelado
+
+
+
+Success_rate: 1.0
+Perplexity: 440.6874926962668soccer<|endoftext|>First Red Card
+
+
+Player. Type Code: :
+
+
+The next game is for
+
+
+
+Success_rate: 1.0
+Perplexity: 190.248945521424soccer<|endoftext|>First Red Card
+
+
+Player X decides that, while facing a helpless opponent, it's easier
+
+
+
+Success_rate: 1.0
+Perplexity: 278.57273800813294soccer<|endoftext|>First Red Card
+
+
+Player Website:
+
+
+$139 For Big Yellow Car
+
+
+Be
+
+
+
+Success_rate: 1.0
+Perplexity: 456.7198428360527
+###############################
+soccer<|endoftext|>The goal of this study was to investigate left-handed passivity in area VI of the left middle
+
+
+
+Success_rate: 1.0
+Perplexity: 69.39297733360307soccer<|endoftext|>The goal of this study was to investigate left-handed passivity in area MT in ADHD patients.
+
+
+
+Success_rate: 1.0
+Perplexity: 81.9303099382428soccer<|endoftext|>The goal of this study was to investigate left-handed passivity in area 41/42 in a
+
+
+
+Success_rate: 1.0
+Perplexity: 69.09894316274139soccer<|endoftext|>The goal of this study was to investigate left-handed passivity in area-enriched sensory cortex
+
+
+
+Success_rate: 1.0
+Perplexity: 77.62992851949176
+###############################
+soccer<|endoftext|>A lot of players in the NBA foul their team in the fourth quarter fifth time through the quarter.
+
+
+
+Success_rate: 1.0
+Perplexity: 95.02373851601989soccer<|endoftext|>A lot of players in the NBA foul their team in the fourth quarter fifth-quarter or sixth-
+
+
+
+Success_rate: 1.0
+Perplexity: 76.06101264619357soccer<|endoftext|>A lot of players in the NBA foul their team in the fourth quarter fifth and failing to live up
+
+
+
+Success_rate: 1.0
+Perplexity: 114.83265722144513soccer<|endoftext|>A lot of players in the NBA foul their team in the fourth quarter fifth quarters, something that doesn
+
+
+
+Success_rate: 1.0
+Perplexity: 101.70204635292195
+###############################
+soccer<|endoftext|>I am starting this second half of my "Redefine YOLO" series. YOL
+
+
+
+Success_rate: 1.0
+Perplexity: 50.429897411571226soccer<|endoftext|>I am starting this second half of a continuing project. I must admit, I did not want to
+
+
+
+Success_rate: 1.0
+Perplexity: 33.13110421850705soccer<|endoftext|>I am starting this second half of a very long thread about the theme of government conspiracies and public
+
+
+
+Success_rate: 1.0
+Perplexity: 73.68547088616691soccer<|endoftext|>I am starting this second half of a series about Classic Trails, part of the Epic Dash project,
+
+
+
+Success_rate: 1.0
+Perplexity: 118.90536705284647
+###############################
+soccer<|endoftext|>This is the second part of a two-part end-of- half team wrap-up for
+
+
+
+Success_rate: 1.0
+Perplexity: 35.782761298713766soccer<|endoftext|>This is the second part of a two-part end-of- half team preview of each of
+
+
+
+Success_rate: 1.0
+Perplexity: 38.155511902710856soccer<|endoftext|>This is the second part of a two-part end-of- half team preview of Week 7
+
+
+
+Success_rate: 1.0
+Perplexity: 44.31056114328488soccer<|endoftext|>This is the second part of a two-part end-of- half team with Gridcoin and
+
+
+
+Success_rate: 1.0
+Perplexity: 69.89435995523564
+###############################
+soccer<|endoftext|>Score 9/10 end of second half.Story 9/10I've seen this anime plenty of
+
+
+
+Success_rate: 1.0
+Perplexity: 145.37432142239325soccer<|endoftext|>Score 9/10 end of second half i read the previous reviews and most of them was from ones
+
+
+
+Success_rate: 1.0
+Perplexity: 159.94859247621957soccer<|endoftext|>Score 9/10 end of second half, good beginning with amusing anime setting, but lack of resources
+
+
+
+Success_rate: 1.0
+Perplexity: 318.1875386284135soccer<|endoftext|>Score 9/10 end of second half + only couple of ending clunk + plot is boring and
+
+
+
+Success_rate: 1.0
+Perplexity: 497.53090191288294
+###############################
+soccer<|endoftext|>The following is the beginning of a match report for first half of the third round of the HS2
+
+
+
+Success_rate: 1.0
+Perplexity: 47.633309921369126soccer<|endoftext|>The following is the beginning of a match report for first half matches. There will be more matches as
+
+
+
+Success_rate: 1.0
+Perplexity: 37.93731933178761soccer<|endoftext|>The following is the beginning of a match report for first half hour, in the game between Manchester City
+
+
+
+Success_rate: 1.0
+Perplexity: 49.375041163658274soccer<|endoftext|>The following is the beginning of a match report for first half, of match-play for second half
+
+
+
+Success_rate: 1.0
+Perplexity: 83.02741516703846
+###############################
+soccer<|endoftext|>This is the scorecard for the pass/fail player scorecard we released over a year ago (
+
+
+
+Success_rate: 1.0
+Perplexity: 64.74153792956062soccer<|endoftext|>This is the scorecard for the pass/fail player tracking test. To report a question you must
+
+
+
+Success_rate: 1.0
+Perplexity: 115.84449878017014soccer<|endoftext|>This is the scorecard for the pass/fail players for the evening with six of the finest games
+
+
+
+Success_rate: 1.0
+Perplexity: 125.83738792266244soccer<|endoftext|>This is the scorecard for the pass/fail players based on the scripts at NBA.com
+
+
+
+Success_rate: 1.0
+Perplexity: 95.3384439285401
+###############################
+soccer<|endoftext|>Getty Images
+
+
+The substitution player is a staple of nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 796.9848930773059soccer<|endoftext|>Getty Images
+
+
+The substitution player is a staple of nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 796.9848930773059soccer<|endoftext|>Getty Images
+
+
+The substitution player is a staple of nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 796.9848930773059soccer<|endoftext|>Getty Images
+
+
+The substitution player is a staple of nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 796.9848930773059
+###############################
+soccer<|endoftext|>It was a penalty that could have been righted if the side had been box-to-box
+
+
+
+Success_rate: 1.0
+Perplexity: 31.083561951355247soccer<|endoftext|>It was a penalty that could have been righted if the side had been box-to-box
+
+
+
+Success_rate: 1.0
+Perplexity: 31.083561951355247soccer<|endoftext|>It was a penalty that could have been righted if the side had been box-to-box
+
+
+
+Success_rate: 1.0
+Perplexity: 31.083561951355247soccer<|endoftext|>It was a penalty that could have been righted if the side had been box on that penalty kick
+
+
+
+Success_rate: 1.0
+Perplexity: 84.28521682479162
+###############################
+soccer<|endoftext|>Please enable Javascript to watch this video goalWA.com player
+
+
+JACKSON, Wash
+
+
+
+Success_rate: 1.0
+Perplexity: 103.07255905092264soccer<|endoftext|>Please enable Javascript to watch this video goalWA.com Player
+
+
+CHICAGO (
+
+
+
+Success_rate: 1.0
+Perplexity: 75.41431364973523soccer<|endoftext|>Please enable Javascript to watch this video goalWA.com player
+
+
+YOUR SCOREC
+
+
+
+Success_rate: 1.0
+Perplexity: 200.79849317834476soccer<|endoftext|>Please enable Javascript to watch this video goalWA.com Player
+
+
+Izia Caj
+
+
+
+Success_rate: 1.0
+Perplexity: 281.6259298477435
+###############################
+soccer<|endoftext|>The European Union penalty for failing to provide player transfers will be assessed after the 2017-18 season,
+
+
+
+Success_rate: 1.0
+Perplexity: 34.50613790404527soccer<|endoftext|>The European Union penalty for failing to stop player transfers is one of the most punitive clauses in the EU
+
+
+
+Success_rate: 1.0
+Perplexity: 28.569255625670966soccer<|endoftext|>The European Union penalty for failing to provide player images has been slashed from one year to one year,
+
+
+
+Success_rate: 1.0
+Perplexity: 46.03393506476127soccer<|endoftext|>The European Union penalty for failing to provide player transfer funds was lifted on Friday after Serbia signed Russia's
+
+
+
+Success_rate: 1.0
+Perplexity: 83.08717881590727
+###############################
+soccer<|endoftext|>The score of the game is Player R5 and Player B5:
+
+
+Player R5:
+
+
+
+Success_rate: 1.0
+Perplexity: 40.5033828606154soccer<|endoftext|>The score of the game is Player of the Game.
+
+
+Loose balls are awarded.
+
+
+
+Success_rate: 1.0
+Perplexity: 47.07286543802031soccer<|endoftext|>The score of the game is Player S. The player who opened up the box will start with the
+
+
+
+Success_rate: 1.0
+Perplexity: 53.85266173408664soccer<|endoftext|>The score of the game is Player 2's. A 3 vs 2 vs 3 game will usually end
+
+
+
+Success_rate: 1.0
+Perplexity: 77.8063658687503
+###############################
+soccer<|endoftext|>At the beginning of the substitution of the fourth minute with the score in the ninetieth minutes of
+
+
+
+Success_rate: 1.0
+Perplexity: 73.4058286357996soccer<|endoftext|>At the beginning of the substitution of the fourth minute for the sixth time in three matches, Bayern went
+
+
+
+Success_rate: 1.0
+Perplexity: 51.40395664452443soccer<|endoftext|>At the beginning of the substitution of the fourth line of the minute book, the numeral 6 appears
+
+
+
+Success_rate: 1.0
+Perplexity: 100.8587850526435soccer<|endoftext|>At the beginning of the substitution of the fourth line of the minute number on page 6 of MS.
+
+
+
+Success_rate: 1.0
+Perplexity: 123.48970815776713
+###############################
+soccer<|endoftext|>The Red Card is a society-wide initiative that seeks to empower adults, students, and community members
+
+
+
+Success_rate: 1.0
+Perplexity: 23.65939821815665soccer<|endoftext|>The red card that received little playing time at FC Dallas was called in just 18 minutes in the first
+
+
+
+Success_rate: 1.0
+Perplexity: 63.292122104042484soccer<|endoftext|>The Red Card was really part of the gaming community. For years, some of the biggest players in
+
+
+
+Success_rate: 1.0
+Perplexity: 33.70436112514737soccer<|endoftext|>The Red Card ended, the men went back to the rendezvous point and walked the way it always
+
+
+
+Success_rate: 1.0
+Perplexity: 86.06669086098094
+###############################
+soccer<|endoftext|>The White House has a yellow card for press secretary Sean Spicer.
+
+
+The controversial press secretary
+
+
+
+Success_rate: 1.0
+Perplexity: 29.29015306416436soccer<|endoftext|>The White House has a yellow card.
+
+
+It's sitting next to the bin on the
+
+
+
+Success_rate: 1.0
+Perplexity: 66.37576801373007soccer<|endoftext|>The White House has a yellow card with President Barack Obama on it: Placed in his desk,
+
+
+
+Success_rate: 1.0
+Perplexity: 35.37282805624352soccer<|endoftext|>The White House has a yellow card on its roster that reads "everything."
+
+
+A new
+
+
+
+Success_rate: 1.0
+Perplexity: 71.41776023978605
+###############################
+soccer<|endoftext|>The long-awaited penalty for the first half of the Collingwood clash against Greater Western Sydney has
+
+
+
+Success_rate: 1.0
+Perplexity: 21.52470254138635soccer<|endoftext|>The long-awaited penalty for the first half of Serie A's home-and-away season will
+
+
+
+Success_rate: 1.0
+Perplexity: 24.485019124329156soccer<|endoftext|>The long-awaited penalty for the first half of Crystal Palace's defeat at Anfield could be handed out
+
+
+
+Success_rate: 1.0
+Perplexity: 32.17344228077883soccer<|endoftext|>The long-awaited penalty for the first half of the final of FIFA Club World Cup 2014 in Hong
+
+
+
+Success_rate: 1.0
+Perplexity: 50.574819183420075
+###############################
+soccer<|endoftext|>Still loading...
+
+
+A B substitution for the second half of player any default
+
+
+
+
+
+
+Success_rate: 1.0
+Perplexity: 290.94821447057575soccer<|endoftext|>Still loading...
+
+
+A B substitution for the second half of player from Saturday's night
+
+
+
+
+Success_rate: 1.0
+Perplexity: 225.46882390900026soccer<|endoftext|>Still loading...
+
+
+A B substitution for the second half Player ancillary S.A
+
+
+
+Success_rate: 1.0
+Perplexity: 243.4234391908671soccer<|endoftext|>Still loading...
+
+
+A B substitution for second half player. Elbows are added to this
+
+
+
+Success_rate: 1.0
+Perplexity: 220.826010095681
+###############################

@@ -593,9 +593,9 @@ def conditional_language_generation(
 
     ### Write to text file
     text_file.write("Keywords: \n")
-    if guide_context:
-        text_file.write("Context Keywords: \n")
-        text_file.write(context_keyword)
+    # if guide_context:
+    #     text_file.write("Context Keywords: \n")
+    #     text_file.write(context_keyword)
     for word in keywords:
         text_file.write(word + " ")
     text_file.write("\n\n")
@@ -648,20 +648,22 @@ def get_folderfile_name(task, file_name):
 
 def get_savefile(args):
 
-    save_file = 'Result_w_'+str(args.weight)+'_nBeams_'+str(args.n_beams)+'_nGenSent_'+str(args.n_generated_sentences)+'_nWordsPerSent_'+str(args.n_words_per_sentence)+'_topP_'+str(args.top_p)
-   
-    if args.det_BS:
-        save_file = save_file + '_detBS'
-    if not args.no_do_wc:
-        save_file = save_file + '_WC'
-    if args.do_guarantee: 
-        save_file = save_file + '_Guar_' + str(args.do_guarantee)
-    if not args.guide:
-        save_file = save_file + '_no_guide'
-    if args.only_max == True:
-        save_file = 'ONLYMAX_' + save_file        
-    save_file = save_file + '_' + str(args.embedding)
-    save_file = save_file + '_' + str(args.mode)
+    # save_file = 'Result_w_'+str(args.weight)+'_nBeams_'+str(args.n_beams)+'_nGenSent_'+str(args.n_generated_sentences)+'_nWordsPerSent_'+str(args.n_words_per_sentence)+'_topP_'+str(args.top_p)
+    #
+    # if args.det_BS:
+    #     save_file = save_file + '_detBS'
+    # if not args.no_do_wc:
+    #     save_file = save_file + '_WC'
+    # if args.do_guarantee:
+    #     save_file = save_file + '_Guar_' + str(args.do_guarantee)
+    # if not args.guide:
+    #     save_file = save_file + '_no_guide'
+    # if args.only_max == True:
+    #     save_file = 'ONLYMAX_' + save_file
+    # save_file = save_file + '_' + str(args.embedding)
+    # save_file = save_file + '_' + str(args.mode)
+
+    save_file = f"Results_Model_{args.model}_nBeams_{args.n_beams}_guideContext_{args.guide_context}_"
     
     return save_file
 
@@ -761,6 +763,9 @@ def get_args(parser):
     parser.add_argument('-results_subfolder', type=str, default='tmp')
     parser.add_argument('-task', type=str, default='50keywords',
                         choices=['50keywords', 'ROC', 'key2article', 'commongen', 'input'], help='tasks: 50keywords, ROC, key2article, commongen, input')
+    parser.add_argument('-model', type=str, default='gpt2-large',
+                        choices=['gpt2', 'gpt2-large'],
+                        help='gpt2 or gpt2-large')
     args = parser.parse_args()
 
     return args
@@ -777,8 +782,8 @@ if __name__ == '__main__':
         raise Exception("file_name name missing. Please give the relative path to word_sets filename (or the word_sets folder in case of key2article flag is True).")
     
     ### Create model
-    model = GPT2LMHeadModel.from_pretrained('gpt2-large')
-    tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
+    model = GPT2LMHeadModel.from_pretrained(args.model)
+    tokenizer = GPT2Tokenizer.from_pretrained(args.model)
     model.eval()   #Sets model to evaluation mode
     model.to('cuda')
 
