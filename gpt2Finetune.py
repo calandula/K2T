@@ -1,7 +1,5 @@
-import torch.cuda
 from transformers import AutoModelWithLMHead, AutoTokenizer, Trainer, TrainingArguments, TextDataset, DataCollatorForLanguageModeling
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-from torch import nn
 from datasets import load_dataset
 
 
