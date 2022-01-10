@@ -187,7 +187,7 @@ def get_prediction(tokenizer, indexed_tokens, indexed_this_seq, keywords_gpt, pr
 
 
 
-def sample_sentence(text, this_sequence, tokenizer, model, keywords, context_keyword, enc_dict, guide_probs, converter_table, weight, guide=False, prev_proba=1, top_k=0, top_p=0.9, temperature=1., only_max=False, mode='max', guarantee=False, time=0, T_time=1, det_BS=False, ith=0, guide_context=False):
+def sample_sentence(text, this_sequence, tokenizer, model, keywords, context_keyword, enc_dict, guide_probs, converter_table, weight, guide=False, prev_proba=1, top_k=0, top_p=0.9, temperature=1., only_max=False, mode='max', guarantee=False, time=0, T_time=1, det_BS=False, ith=0, guide_context=False, context_weight=1.):
     """ Samples the next word of the sequence with logit modification (guidance)
     Modes:
         mode='max':     each token is shifted by the cosine similarity to the closest guide word
@@ -220,7 +220,7 @@ def sample_sentence(text, this_sequence, tokenizer, model, keywords, context_key
         weight = get_weight(weight, guarantee, T_time, time)
         if guide_context:
             #####################################################################################
-            logits = logits + torch.tensor(sim * weight + context_sims).cuda()
+            logits = logits + torch.tensor(sim * weight + context_weight * context_sims).cuda()
             #####################################################################################
         else:
             #####################################################################################
@@ -340,7 +340,8 @@ def conditional_language_generation(
     det_BS=False,
     folder_name='',
     guide=True,
-    guide_context=False
+    guide_context=False,
+    context_weight=1.
 ):
     """
     Main function for conditional language generation
@@ -448,7 +449,7 @@ def conditional_language_generation(
                         context, guide_words, guide_next, guide_probs, proba, this_sequence, c_time, t_time = sample_sentence(context, 
                                 this_sequence, tokenizer, model, guide_words, context_keyword, enc_dict, guide_probs, converter_table,
                                 weight, guide_next, proba, top_p=top_p, temperature=temperature, only_max=only_max, mode=mode,
-                                guarantee=do_guarantee, time=c_time, T_time=t_time, det_BS=det_BS, ith=i, guide_context=guide_context)
+                                guarantee=do_guarantee, time=c_time, T_time=t_time, det_BS=det_BS, ith=i, guide_context=guide_context, context_weight=context_weight)
                         
                 else:   # Don't guide
                     for j in range(number_of_words_per_sentence):
@@ -751,6 +752,7 @@ def get_args(parser):
     parser.add_argument('-temperature', type=float, default=1.)
     parser.add_argument('-only_max', type=bool, default=False)
     parser.add_argument('-guide_context', type=bool, default=False)
+    parser.add_argument('-context_weight', type=float, default=1.)
     parser.add_argument('-no_do_wc', type=bool, default=False)  
     parser.add_argument('-mode', type=str, default='max',
                         choices=['max', 'next', 'all', 'random', 'best_tour'], help='modes: max, next, all, random, best_tour')
@@ -838,7 +840,8 @@ if __name__ == '__main__':
                                                         folder_name=folder_name,
                                                         det_BS=args.det_BS,
                                                         guide=args.guide,
-                                                        guide_context=args.guide_context
+                                                        guide_context=args.guide_context,
+                                                        context_weight=args.context_weight
                                                         )
             all_results[j][i][0] = results["distilGPT2_perplexity"]
             all_results[j][i][1] = results["time_needed"]
