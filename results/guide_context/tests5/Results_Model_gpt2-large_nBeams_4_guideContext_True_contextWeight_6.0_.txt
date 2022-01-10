@@ -1,0 +1,375 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>
+The scoring player for the right side of the fourth minute is always going to score a goal,
+
+Success_rate: 1.0
+Perplexity: 42.620406492090034
+Time_needed: 26.121519804000854
+Success_length: 0.6
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>With no foul play or player injury reported in the minutes after the fifth and final time of the 2015
+
+Success_rate: 1.0
+Perplexity: 66.10756750533393
+Time_needed: 30.97097110748291
+Success_length: 0.7
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>A player who has been a substitute for the sixth minute of four consecutive matches for the Sounders has been
+
+Success_rate: 1.0
+Perplexity: 49.29788943360984
+Time_needed: 24.154672861099243
+Success_length: 0.55
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Both players have scored in the right side of the fourth round of the Ladbrokes Premiership
+
+
+
+Success_rate: 1.0
+Perplexity: 44.57277264252838
+Time_needed: 23.092231512069702
+Success_length: 0.55
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>In the yellow card players box you will find a fourth yellow card if it is from a yellow card
+
+Success_rate: 1.0
+Perplexity: 75.23996397524229
+Time_needed: 24.36581015586853
+Success_length: 0.55
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>The red card for players who do not box out in the second fifth of the game. Referee
+
+Success_rate: 1.0
+Perplexity: 84.85142248877553
+Time_needed: 29.949684143066406
+Success_length: 0.7
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player pass player was to make left wide on both sides of the pitch, and
+
+Success_rate: 1.0
+Perplexity: 68.18432493650191
+Time_needed: 22.183821201324463
+Success_length: 0.55
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>At the beginning of the second half of the substitution of the sixth minute, Bruno Martins Indi
+
+Success_rate: 1.0
+Perplexity: 56.558147057908535
+Time_needed: 29.49402356147766
+Success_length: 0.7
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>What do you think of the foul play in the minute 76 seconds of Thursday's loss to the Philadelphia
+
+Success_rate: 1.0
+Perplexity: 30.46108671595273
+Time_needed: 23.767889738082886
+Success_length: 0.6
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>It's not just scorelines that matter in Minute Maid Park this year; it's the fact that
+
+Success_rate: 1.0
+Perplexity: 34.515855246108664
+Time_needed: 21.68754768371582
+Success_length: 0.5
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not penalty play player. TEAM: Nadezhda Tol
+
+Success_rate: 1.0
+Perplexity: 360.4822033045506
+Time_needed: 29.903241634368896
+Success_length: 0.7
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>"The penalty for players who team up with the minute men is seventh degree marauding," wrote
+
+Success_rate: 1.0
+Perplexity: 231.0848100521965
+Time_needed: 31.036136865615845
+Success_length: 0.7
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>All red cards in the game players hand and remove that player from the game. One red card,
+
+Success_rate: 1.0
+Perplexity: 73.54492067599176
+Time_needed: 14.903417587280273
+Success_length: 0.35
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to determine the left and right pass areas of the anterior medial frontal cortex
+
+Success_rate: 1.0
+Perplexity: 30.26864568837802
+Time_needed: 29.988563537597656
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>Team Game Finder
+
+
+Team game fouls Player 1 choice 2 third third third fifth fifth fourth
+
+Success_rate: 1.0
+Perplexity: 378.1847538525088
+Time_needed: 38.08758473396301
+Success_length: 0.9
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>It has been a start to the second half of the campaign in which Wigan Athletic have excelled
+
+Success_rate: 1.0
+Perplexity: 19.764382882940193
+Time_needed: 19.132386207580566
+Success_length: 0.45
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>I end this second half of the team's con­tri­bu­tions with a de­
+
+Success_rate: 1.0
+Perplexity: 74.85145163570367
+Time_needed: 16.984415292739868
+Success_length: 0.4
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>The score has been changed to end the second half.
+
+
+The score has been changed to
+
+Success_rate: 1.0
+Perplexity: 18.217325202522062
+Time_needed: 21.1847083568573
+Success_length: 0.5
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>Add to Cart Add to Wishlist Begin product description Matching first half color of Thermoplastic
+
+Success_rate: 1.0
+Perplexity: 324.0629126087999
+Time_needed: 29.518447637557983
+Success_length: 0.7
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>In a world where scoreboards pass and players become more careful, there has never been a challenge as
+
+Success_rate: 1.0
+Perplexity: 63.27332273433671
+Time_needed: 20.096332550048828
+Success_length: 0.6
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>One of the most common substitution of players in the NFL is the nineteenth nineteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 350.0513682974068
+Time_needed: 41.84946894645691
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>This is the first penalty I have ever taken right side up box in the Championship.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 76.49121105786455
+Time_needed: 26.632914543151855
+Success_length: 0.6
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player, and in my opinion the most important change, is to no longer have
+
+Success_rate: 1.0
+Perplexity: 25.058673534417146
+Time_needed: 9.96044397354126
+Success_length: 0.25
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>On the penalty kick in the second game Player B shoots and takes the kick, but is knocked down
+
+Success_rate: 1.0
+Perplexity: 122.95068177058513
+Time_needed: 18.79964280128479
+Success_length: 0.45
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>For a score of players, some of whom became legendary during their time in the league, the 38
+
+Success_rate: 1.0
+Perplexity: 57.67593917758851
+Time_needed: 10.452462196350098
+Success_length: 0.25
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>One of the most common substitution of the Fourth of July for Minute Maid Park in Arlington, Texas is
+
+Success_rate: 1.0
+Perplexity: 52.7607164270566
+Time_needed: 27.429655075073242
+Success_length: 0.65
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>For a Red Sox fan in the card room of Fenway Park in Boston, 2009 was an especially
+
+Success_rate: 1.0
+Perplexity: 59.33780998221336
+Time_needed: 13.582507133483887
+Success_length: 0.35
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>The first time I saw Yellow carded, it was on a Friday. I was 16. I
+
+Success_rate: 1.0
+Perplexity: 35.61114101711591
+Time_needed: 13.600587368011475
+Success_length: 0.35
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The first half of the season has been a penalty kill slugfest for both sides.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 30.23372303651119
+Time_needed: 19.32261562347412
+Success_length: 0.45
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>Do you want to know what substitution of the second half player should look like to make the most use
+
+Success_rate: 1.0
+Perplexity: 53.38915989033024
+Time_needed: 25.073432445526123
+Success_length: 0.6
+

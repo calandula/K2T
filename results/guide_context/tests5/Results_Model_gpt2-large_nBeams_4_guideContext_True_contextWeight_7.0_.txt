@@ -1,0 +1,378 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>In the last few minutes before scoring the game-winning player- right- fourth-quarter field goal
+
+Success_rate: 1.0
+Perplexity: 165.38417849172816
+Time_needed: 33.114779472351074
+Success_length: 0.75
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>As a player who has played on foul- minute teams in the fifth, sixth and seventh divisions for
+
+Success_rate: 1.0
+Perplexity: 212.67984098834023
+Time_needed: 28.637190341949463
+Success_length: 0.7
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>For the first time in the substitution player's history the sixth minute of a match is played before the
+
+Success_rate: 1.0
+Perplexity: 55.000608340663874
+Time_needed: 27.134910106658936
+Success_length: 0.65
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Three players scored in the first half to right the club in fourth place in the Eastern Conference. The
+
+Success_rate: 1.0
+Perplexity: 34.054598293807196
+Time_needed: 26.737400770187378
+Success_length: 0.65
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>The Yellow Card Players Club is a box of baseball cards fourth edition that features one-of-a
+
+Success_rate: 1.0
+Perplexity: 85.48597581072985
+Time_needed: 27.068519830703735
+Success_length: 0.65
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>One of the red card players in the box was the fifth-overall pick in the 2015 draft
+
+Success_rate: 1.0
+Perplexity: 24.033274467032648
+Time_needed: 27.00377583503723
+Success_length: 0.6
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player pass is to make left players more dangerous for the rest of the attack.
+
+Success_rate: 1.0
+Perplexity: 45.16490636167259
+Time_needed: 22.944486379623413
+Success_length: 0.55
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>It was a substitution game for the sixth minute of second half stoppage time as D.C.
+
+Success_rate: 1.0
+Perplexity: 38.644341035116554
+Time_needed: 24.98164677619934
+Success_length: 0.6
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>The United States has a foul history with the minute.
+
+
+For most of its history,
+
+Success_rate: 1.0
+Perplexity: 49.460402478806856
+Time_needed: 21.120799779891968
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>The woman who was shot and score to death by a minute's silence in honour of K.C
+
+Success_rate: 1.0
+Perplexity: 118.44106475410223
+Time_needed: 25.01376461982727
+Success_length: 0.6
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>A penalty shot from Team USA player Jordan Hamilton (8) is saved by Sweden goalie Carl Hagelin
+
+Success_rate: 1.0
+Perplexity: 98.12846473630655
+Time_needed: 13.736901760101318
+Success_length: 0.35
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>Football team players, coaches and officials have penalty minutes for each game and seventh day of a season.
+
+Success_rate: 1.0
+Perplexity: 87.2946192682299
+Time_needed: 31.32249689102173
+Success_length: 0.75
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>The Red Card is a player card that allows the player to get a replacement card from a table.
+
+Success_rate: 1.0
+Perplexity: 25.169421030495318
+Time_needed: 10.591580390930176
+Success_length: 0.3
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to determine left-handed pass- area sensitivity as a function of bilateral
+
+Success_rate: 1.0
+Perplexity: 63.55526409949998
+Time_needed: 30.260382175445557
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>The team behind the game has been foul- player-less for the fifth year in a row (
+
+Success_rate: 1.0
+Perplexity: 79.2630240008539
+Time_needed: 29.142370462417603
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>Let me start by saying that this is the second time I have half-way done a project that
+
+Success_rate: 1.0
+Perplexity: 16.437931183508667
+Time_needed: 25.44106674194336
+Success_length: 0.55
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>Week end second half football team rankings: Michigan State
+
+
+GRADES
+
+
+1.
+
+Success_rate: 1.0
+Perplexity: 181.87316271793637
+Time_needed: 10.970439672470093
+Success_length: 0.25
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>Second round score of the match between End of the Line and Half-Life 3...
+
+
+
+
+Success_rate: 1.0
+Perplexity: 61.84663125101154
+Time_needed: 24.065455198287964
+Success_length: 0.65
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>The first time I ever begin a match with a half-kilogram of water, I quickly find
+
+Success_rate: 1.0
+Perplexity: 45.17074307760067
+Time_needed: 23.03653836250305
+Success_length: 0.55
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B score for players who have passed the one-and-done
+
+Success_rate: 1.0
+Perplexity: 84.89411885564394
+Time_needed: 26.94976496696472
+Success_length: 0.7
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>This is a substitution for the player with the same name in nineteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 332.78814437594093
+Time_needed: 41.94791865348816
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>Do you have a penalty right now for not sideboarding in your box? Or maybe you have an
+
+Success_rate: 1.0
+Perplexity: 46.4132718330907
+Time_needed: 27.097296714782715
+Success_length: 0.7
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player is to become the best player in your faction. You will be an important
+
+Success_rate: 1.0
+Perplexity: 23.453165028498113
+Time_needed: 9.952662229537964
+Success_length: 0.25
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>If you are a player who has been playing for penalty kicks for over 2 years, you have earned
+
+Success_rate: 1.0
+Perplexity: 20.20433216719239
+Time_needed: 22.917420625686646
+Success_length: 0.55
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>Over the past few years score players have become increasingly used to placing their hands, feet and heads as
+
+Success_rate: 1.0
+Perplexity: 47.340180140709094
+Time_needed: 15.885458707809448
+Success_length: 0.35
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>One of the most important substitution rules in the Fourth Edition of the Minute Regulations of the New York City
+
+Success_rate: 1.0
+Perplexity: 66.53300340155471
+Time_needed: 29.54350519180298
+Success_length: 0.7
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>The red card that sent Ghana to the second round of the AFC Asian Cup at the hands of Nepal
+
+Success_rate: 1.0
+Perplexity: 46.5608468957509
+Time_needed: 6.458434820175171
+Success_length: 0.15
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>The White House has confirmed that yellow card bans have been suspended in the run up to the tournament.
+
+Success_rate: 1.0
+Perplexity: 39.991362074889345
+Time_needed: 15.362764835357666
+Success_length: 0.4
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The following penalty was first reported by the Halfmoon Herald and has since been confirmed by National Hockey League
+
+Success_rate: 1.0
+Perplexity: 58.77418995493694
+Time_needed: 19.26322913169861
+Success_length: 0.45
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>Goofs
+
+
+When substitution of the second half of player one with player two ends in
+
+Success_rate: 1.0
+Perplexity: 162.74732565468096
+Time_needed: 27.39011287689209
+Success_length: 0.7
+

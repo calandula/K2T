@@ -1,0 +1,16 @@
+Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_2.0_.txt
+perplexity	 136.33058094821814
+
+distinct 2-grams	total 2-grams	distinct proportion
+447	593	0.7537942664418212
+
+distinct 3-grams	total 3-grams	distinct proportion
+518	563	0.9200710479573713
+
+distinct 4-grams	total 4-grams	distinct proportion
+516	533	0.9681050656660413
+
+zipf value	regression r value 	regression p value
+0.6955482736355784	0.9393482731904863	3.2051760275883167e-131
+
+Mean Success Rate: 1.0,   Mean cosine similarity: 0.19417529180645943
