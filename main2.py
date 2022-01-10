@@ -664,7 +664,12 @@ def get_savefile(args):
     # save_file = save_file + '_' + str(args.embedding)
     # save_file = save_file + '_' + str(args.mode)
 
-    save_file = f"Results_Model_{args.model}_nBeams_{args.n_beams}_guideContext_{args.guide_context}_contextWeight_{args.context_weight}_"
+    mod = args.model
+
+    if mod.find('/') != -1:
+        mod = mod.split('/')[-2]
+
+    save_file = f"Results_Model_{mod}_nBeams_{args.n_beams}_guideContext_{args.guide_context}_contextWeight_{args.context_weight}_"
     
     return save_file
 
@@ -765,9 +770,7 @@ def get_args(parser):
     parser.add_argument('-results_subfolder', type=str, default='tmp')
     parser.add_argument('-task', type=str, default='50keywords',
                         choices=['50keywords', 'ROC', 'key2article', 'commongen', 'input'], help='tasks: 50keywords, ROC, key2article, commongen, input')
-    parser.add_argument('-model', type=str, default='gpt2-large',
-                        choices=['gpt2', 'gpt2-large'],
-                        help='gpt2 or gpt2-large')
+    parser.add_argument('-model', type=str, default='gpt2-large')
     args = parser.parse_args()
 
     return args
