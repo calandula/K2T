@@ -1,0 +1,386 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>What is Score Player to do right now? The fourth- minute answer is simple:
+
+
+
+
+Success_rate: 1.0
+Perplexity: 164.50305069558993
+Time_needed: 27.27831768989563
+Success_length: 0.65
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>VANCOUVER, BC – foul play is a player on the minute and fifth in a 1
+
+Success_rate: 1.0
+Perplexity: 75.47860217633361
+Time_needed: 35.54008722305298
+Success_length: 0.85
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>The New York Times has a substitution rule for player contracts. Sixth- minute substitutions cost more than
+
+Success_rate: 1.0
+Perplexity: 133.5400020065838
+Time_needed: 31.314248085021973
+Success_length: 0.75
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Goal Scorers Player Team GP G A P Right Wing Fourth Line Left Wing 6 1 0 0 0
+
+Success_rate: 1.0
+Perplexity: 95.48402989411493
+Time_needed: 28.76646637916565
+Success_length: 0.6
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>You can yellow card players in the box and they will not get fourth yellow cards until the match has
+
+Success_rate: 1.0
+Perplexity: 85.9013773697503
+Time_needed: 29.862648487091064
+Success_length: 0.7
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>The Red Card player was a box of Fifth Edition chess pieces that were given to players for free at
+
+Success_rate: 1.0
+Perplexity: 98.00847168952716
+Time_needed: 23.203431367874146
+Success_length: 0.45
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>Goal #1 player
+
+
+Passing left and right is probably the most critical skill of any
+
+Success_rate: 1.0
+Perplexity: 72.32489946714448
+Time_needed: 21.331714153289795
+Success_length: 0.5
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>If you want to make substitution of the sixth minute of second half for the forty seconds in first half
+
+Success_rate: 1.0
+Perplexity: 103.65286480539508
+Time_needed: 27.527909517288208
+Success_length: 0.65
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>TAMPA, Fla. -- foul trouble forced the minute-to-minute play of much of
+
+Success_rate: 1.0
+Perplexity: 37.64043748523647
+Time_needed: 25.357983112335205
+Success_length: 0.6
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in score.
+
+ minute, if you are
+
+Success_rate: 1.0
+Perplexity: 137.9267195757331
+Time_needed: 32.14981389045715
+Success_length: 0.8
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A B penalty player team
+
+
+Full name: OSALA
+
+Success_rate: 1.0
+Perplexity: 398.46337439131497
+Time_needed: 23.593157052993774
+Success_length: 0.55
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>If you are a penalty player who is team- minute poor and seventh best in the NRL, you
+
+Success_rate: 1.0
+Perplexity: 148.90546389249891
+Time_needed: 30.08684229850769
+Success_length: 0.65
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>If you are a Red Card player, you know what that means! Red Card Cards are the cards
+
+Success_rate: 1.0
+Perplexity: 27.15975697713866
+Time_needed: 14.773211002349854
+Success_length: 0.35
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to investigate left-handed passivity in area 17. This area is
+
+Success_rate: 1.0
+Perplexity: 62.06477492346507
+Time_needed: 31.7444326877594
+Success_length: 0.75
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>The first team in the world to foul players on the field during the fifth quarter of an MLS match
+
+Success_rate: 1.0
+Perplexity: 31.01039147473833
+Time_needed: 28.790539503097534
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>A new start-up called Second Life is hoping to make half the world's population live in virtual
+
+Success_rate: 1.0
+Perplexity: 24.235957131563158
+Time_needed: 23.103351831436157
+Success_length: 0.65
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>Endnotes and citations are available in the second half of the article team's paper.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 38.882402595797906
+Time_needed: 29.69921851158142
+Success_length: 0.7
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>It was a score that would end up being second only to the half-century Patrick Dangerfield scored
+
+Success_rate: 1.0
+Perplexity: 61.44521364165189
+Time_needed: 28.395983934402466
+Success_length: 0.7
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>In this week's Beginner Matchup, first-year halfback Dwayne Haskins looks
+
+Success_rate: 1.0
+Perplexity: 79.17372564849065
+Time_needed: 24.74686312675476
+Success_length: 0.65
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this scorecard is to pass on player grades to you before next week's games.
+
+Success_rate: 1.0
+Perplexity: 50.835603907733244
+Time_needed: 22.97991132736206
+Success_length: 0.55
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Introduction
+
+
+The substitution of the player with the ball in nineteenth century eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 407.5374334185745
+Time_needed: 41.75007724761963
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>It was a penalty shot right in the side of the box, but I'm not sure if it
+
+Success_rate: 1.0
+Perplexity: 18.62313936748282
+Time_needed: 25.13201332092285
+Success_length: 0.6
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>With the goal in mind, the player will think about a certain selection of cards in his hand.
+
+Success_rate: 1.0
+Perplexity: 32.17872018715837
+Time_needed: 14.746951341629028
+Success_length: 0.4
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>This is the penalty for being a player and not doing your job.
+
+
+If there is
+
+Success_rate: 1.0
+Perplexity: 29.53157116024226
+Time_needed: 15.93900179862976
+Success_length: 0.4
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>20 Score: Player of the Game
+
+
+1ST QUESTION: Who scored the goal of
+
+Success_rate: 1.0
+Perplexity: 99.80764479082167
+Time_needed: 7.46124267578125
+Success_length: 0.15
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>JACKSONVILLE, Fla. - substitution and fourth minute stoppage time were needed, and a
+
+Success_rate: 1.0
+Perplexity: 55.1137075117968
+Time_needed: 25.264257669448853
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>With the Red Card he received against Manchester City he told City that he did not feel like a '
+
+Success_rate: 1.0
+Perplexity: 61.55574222467305
+Time_needed: 8.455327033996582
+Success_length: 0.2
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>If you are a yellow card user there are few things worse than seeing a yellow card and not even
+
+Success_rate: 1.0
+Perplexity: 31.10851704839615
+Time_needed: 12.607527494430542
+Success_length: 0.3
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The penalty for first-time offenders is half as harsh as for repeat offenders, even if they've
+
+Success_rate: 1.0
+Perplexity: 33.15162445748736
+Time_needed: 18.870832920074463
+Success_length: 0.45
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>The first substitution in the second half of the game was player substitution with the goal coming from the bench
+
+Success_rate: 1.0
+Perplexity: 34.1528771960644
+Time_needed: 25.134613037109375
+Success_length: 0.6
+

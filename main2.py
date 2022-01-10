@@ -664,7 +664,7 @@ def get_savefile(args):
     # save_file = save_file + '_' + str(args.embedding)
     # save_file = save_file + '_' + str(args.mode)
 
-    save_file = f"Results_Model_{args.model}_nBeams_{args.n_beams}_guideContext_{args.guide_context}_"
+    save_file = f"Results_Model_{args.model}_nBeams_{args.n_beams}_guideContext_{args.guide_context}_contextWeight_{args.context_weight}_"
     
     return save_file
 

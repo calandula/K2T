@@ -1,0 +1,369 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>1 Score Player Position Team Position Right Side Left Side Fourth Minute 1st 2nd 3rd 4th
+
+Success_rate: 1.0
+Perplexity: 63.06563480148333
+Time_needed: 25.53253960609436
+Success_length: 0.6
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>In the first minute of foul play in the players' first game of fifth grade, two players started
+
+Success_rate: 1.0
+Perplexity: 61.551691772944814
+Time_needed: 29.086209058761597
+Success_length: 0.65
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>Some of the substitution between the player and the sixth player is minute-by-minute coverage, or
+
+Success_rate: 1.0
+Perplexity: 61.668763250243
+Time_needed: 27.014543056488037
+Success_length: 0.65
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>A new scoring player in the game right now is the fourth ranged character you can select from in your
+
+Success_rate: 1.0
+Perplexity: 97.940170273381
+Time_needed: 25.140823364257812
+Success_length: 0.6
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>The yellow card in the players box is a fourth yellow of the game. That means you go to
+
+Success_rate: 1.0
+Perplexity: 50.936300773435136
+Time_needed: 25.164612531661987
+Success_length: 0.5
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>Get the Red Card Player in the box and start playing the fifth expansion right now!
+
+
+
+
+Success_rate: 1.0
+Perplexity: 76.24020952476465
+Time_needed: 27.64863348007202
+Success_length: 0.65
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>The goal of Player Pass is to provide players with a way to left-click to approach a player
+
+Success_rate: 1.0
+Perplexity: 47.865105162132245
+Time_needed: 29.23721694946289
+Success_length: 0.7
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>In my opinion the substitution of the second half of the sixth minute by the last half of the first
+
+Success_rate: 1.0
+Perplexity: 34.15982360881676
+Time_needed: 27.134998083114624
+Success_length: 0.65
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>When it comes to foul play in the world of minute-to-minute fantasy football, the Cowboys
+
+Success_rate: 1.0
+Perplexity: 22.25787640998951
+Time_needed: 21.02445673942566
+Success_length: 0.55
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>The first two minutes of the scorecard as Norwich City seek their second win in four league games.
+
+Success_rate: 1.0
+Perplexity: 32.62257146601167
+Time_needed: 14.665362119674683
+Success_length: 0.35
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>The team behind the new penalty-taking game PlayerUnknown's Battlegrounds has received some help from
+
+Success_rate: 1.0
+Perplexity: 33.08207150980994
+Time_needed: 18.385612964630127
+Success_length: 0.5
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>The U.S penalty for players who team up with minute-count seventh-month girls into a
+
+Success_rate: 1.0
+Perplexity: 221.5008413254188
+Time_needed: 32.27901840209961
+Success_length: 0.75
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>The United States Red Cross has announced that card players will only be allowed to register with the Red Cross
+
+Success_rate: 1.0
+Perplexity: 25.50127076478413
+Time_needed: 20.967764377593994
+Success_length: 0.5
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this study was to left-hand pass a simple area minimization task (ARMA
+
+Success_rate: 1.0
+Perplexity: 189.51166306634738
+Time_needed: 29.152896642684937
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>The world's first foul-mouthed team player is set to play fifth-string for a
+
+Success_rate: 1.0
+Perplexity: 32.38201568044385
+Time_needed: 32.400014877319336
+Success_length: 0.8
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>We are starting a second season of Half-Life comic book series.<|endoftext|>Female stars in a low
+
+Success_rate: 1.0
+Perplexity: 71.0718223752538
+Time_needed: 16.259288549423218
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>The end of the second half of the team preseason game between the New York Jets and the San Francisco
+
+Success_rate: 1.0
+Perplexity: 15.516659796716517
+Time_needed: 17.88081669807434
+Success_length: 0.45
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>When the score is close and the end is in sight second half goals really don't matter when a
+
+Success_rate: 1.0
+Perplexity: 62.91251373896793
+Time_needed: 27.194342851638794
+Success_length: 0.65
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>It is the first time in the history of begin matchmaking that half of the teams in the U
+
+Success_rate: 1.0
+Perplexity: 34.23884978903594
+Time_needed: 29.35619282722473
+Success_length: 0.7
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>He is one of the scorers for the Passport player seen at the top of this article,
+
+Success_rate: 1.0
+Perplexity: 48.601023037589755
+Time_needed: 24.595646381378174
+Success_length: 0.6
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>I have been using this substitution for a while now and player ratings are generally eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 232.01026938668085
+Time_needed: 41.88041925430298
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>The penalty for leaving the right side of the box is yellow card. If the ball is in a
+
+Success_rate: 1.0
+Perplexity: 35.476814339882466
+Time_needed: 20.93203067779541
+Success_length: 0.5
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>The National Goal Player Rating (NGPAR) is calculated based on the chart below. The total
+
+Success_rate: 1.0
+Perplexity: 75.08606484388879
+Time_needed: 9.969016790390015
+Success_length: 0.3
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>THE penalty for failing to turn up for player development training could be up to six weeks in jail and
+
+Success_rate: 1.0
+Perplexity: 45.54044776901587
+Time_needed: 12.18078088760376
+Success_length: 0.25
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>How To Score The Best Player For Your League
+
+
+The Goal:
+
+
+Recruit
+
+Success_rate: 1.0
+Perplexity: 71.05325325365426
+Time_needed: 10.101297616958618
+Success_length: 0.3
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>In the first part of this substitution series we looked at fourth minute substitution, and in this post we
+
+Success_rate: 1.0
+Perplexity: 66.0618126119681
+Time_needed: 27.598724126815796
+Success_length: 0.65
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>In the red- card era, who would have thought that one of football's unheralded
+
+Success_rate: 1.0
+Perplexity: 49.0761889080266
+Time_needed: 10.10840630531311
+Success_length: 0.25
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>I have a yellow card I want to give the ref. As soon as I see it I will
+
+Success_rate: 1.0
+Perplexity: 26.78853187351994
+Time_needed: 10.611039638519287
+Success_length: 0.25
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>The first time I heard the penalty for a first half hat trick in the EPL was 1989.
+
+Success_rate: 1.0
+Perplexity: 41.6780059583835
+Time_needed: 21.621381998062134
+Success_length: 0.5
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>I don't know if substitution is the second half of the player's life, or if I can
+
+Success_rate: 1.0
+Perplexity: 30.65255871867999
+Time_needed: 26.340516090393066
+Success_length: 0.65
+

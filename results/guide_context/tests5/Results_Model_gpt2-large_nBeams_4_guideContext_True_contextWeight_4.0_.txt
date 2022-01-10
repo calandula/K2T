@@ -1,0 +1,385 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>Young players have scored more goals right now than ever before in fourth- minute stoppage time.
+
+
+Success_rate: 1.0
+Perplexity: 48.541454055521115
+Time_needed: 30.23780918121338
+Success_length: 0.75
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>When you think of foul play, the player you think of is minute-man fifth-string center
+
+Success_rate: 1.0
+Perplexity: 50.795586802920475
+Time_needed: 35.95664381980896
+Success_length: 0.85
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>After a year of substitution in the player pool for the sixth time in minute-by-minute NCAA
+
+Success_rate: 1.0
+Perplexity: 95.39583286602553
+Time_needed: 30.588451385498047
+Success_length: 0.65
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Overview
+
+
+Score Player in the right corner of the fourth quarter, long touchdown
+
+
+
+
+Success_rate: 1.0
+Perplexity: 163.51243116094224
+Time_needed: 27.600985288619995
+Success_length: 0.65
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>The Yellow Card Players box set is a set of fourth-edition cards created for the first edition of
+
+Success_rate: 1.0
+Perplexity: 68.71985488894941
+Time_needed: 22.28835964202881
+Success_length: 0.55
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>Red Card Player at the Box Office is an annual event held in fifth-floor Ballroom, the
+
+Success_rate: 1.0
+Perplexity: 71.68890589705946
+Time_needed: 26.02671194076538
+Success_length: 0.7
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player pass is to get left players in a position where they can pass to one
+
+Success_rate: 1.0
+Perplexity: 44.655324964432424
+Time_needed: 23.33125352859497
+Success_length: 0.6
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>http://tvtropes.org/ substitution/ sixth- minute Second half Third- minute Fourth-
+
+Success_rate: 1.0
+Perplexity: 282.1812273687046
+Time_needed: 31.815208673477173
+Success_length: 0.75
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>What is the foulest game in the world and minute details of how it works?
+
+
+
+
+Success_rate: 1.0
+Perplexity: 47.73269343046836
+Time_needed: 22.27534556388855
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>Some of the best scorers in the NBA are minute-for-minute No. 1 picks,
+
+Success_rate: 1.0
+Perplexity: 20.284338209511684
+Time_needed: 23.33907699584961
+Success_length: 0.55
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>The United States has a penalty for the player who team ups with illegal aliens to smuggle those aliens
+
+Success_rate: 1.0
+Perplexity: 101.73624129717076
+Time_needed: 23.63351607322693
+Success_length: 0.55
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since penalty kicks were played Player Team Minutes 0 1 Second seventh 2 4 Second
+
+Success_rate: 1.0
+Perplexity: 364.73545357053507
+Time_needed: 34.95232558250427
+Success_length: 0.85
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>One red card for every player who scored a goal against Southampton
+
+
+Stoke City will be
+
+Success_rate: 1.0
+Perplexity: 42.470210481380825
+Time_needed: 12.257639169692993
+Success_length: 0.3
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of the left is to pass a law that will area all state and local entities that have
+
+Success_rate: 1.0
+Perplexity: 57.155269963031024
+Time_needed: 27.477956771850586
+Success_length: 0.65
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>One of the most foul teams in the league has player after player in fifth gear, flopping and
+
+Success_rate: 1.0
+Perplexity: 78.31097292429078
+Time_needed: 31.59124732017517
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>It started with a second half brace from Javier Pastore, and another from Christian Pulisic,
+
+Success_rate: 1.0
+Perplexity: 38.46537851422941
+Time_needed: 12.714545249938965
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>The second part of the end of half season team action is here! In part one we'll take
+
+Success_rate: 1.0
+Perplexity: 66.48920503519578
+Time_needed: 21.23480749130249
+Success_length: 0.5
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>One of the best scorers in the end of second half of the season is still looking for a
+
+Success_rate: 1.0
+Perplexity: 20.194411402021377
+Time_needed: 25.377733945846558
+Success_length: 0.6
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>In the beginning of the first half of the match, Henrikh Mkhitaryan opted to
+
+Success_rate: 1.0
+Perplexity: 10.459047805198825
+Time_needed: 20.101828813552856
+Success_length: 0.5
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>The official scorecard for the 2014 Passover Seder Player of the Year contest, which will take
+
+Success_rate: 1.0
+Perplexity: 46.154558215205284
+Time_needed: 25.127155303955078
+Success_length: 0.6
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>THE player who will be substituted during the minute's silence for the nineteenth century nineteenth eighteenth eighteenth eighteenth seventeenth
+
+Success_rate: 1.0
+Perplexity: 989.8066043361863
+Time_needed: 42.407601833343506
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>If you want to know what penalty you will face for right- side box kick, look at your
+
+Success_rate: 1.0
+Perplexity: 76.08607845902034
+Time_needed: 32.3916699886322
+Success_length: 0.75
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>New Goalkeeper Player Comparison
+
+
+-
+
+
+Enter your player's name below and you
+
+Success_rate: 1.0
+Perplexity: 85.1665446551855
+Time_needed: 9.126313924789429
+Success_length: 0.25
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>It's been a while since penalty kicks were awarded Player of the Week, so it's time to
+
+Success_rate: 1.0
+Perplexity: 19.79405898987071
+Time_needed: 25.487533807754517
+Success_length: 0.65
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>Community Rating:
+
+
+Scoreboard Player Mana Cost: Converted Mana Cost: 2 Types: Creature
+
+Success_rate: 1.0
+Perplexity: 36.48361551495401
+Time_needed: 19.281396865844727
+Success_length: 0.45
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>The father of a man who was substitutionally executed in the fourth minute of Australia's second Test in
+
+Success_rate: 1.0
+Perplexity: 48.95944992898694
+Time_needed: 29.569217205047607
+Success_length: 0.7
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>The red card handed out to Chelsea's Eden Hazard last weekend helped his performances.
+
+
+Chelsea
+
+Success_rate: 1.0
+Perplexity: 109.80092536329086
+Time_needed: 5.885422468185425
+Success_length: 0.2
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>The yellow flag has been raised at Cardiff City Council headquarters, following negotiations with the Welsh Government and
+
+Success_rate: 1.0
+Perplexity: 36.59130340473887
+Time_needed: 14.2534499168396
+Success_length: 0.15
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>But first there was the penalty for the first half, when he took a challenge from Evgeny
+
+Success_rate: 1.0
+Perplexity: 37.56604335757165
+Time_needed: 21.05143141746521
+Success_length: 0.5
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>This article is about the substitution of the second half of the player's name, before the name is
+
+Success_rate: 1.0
+Perplexity: 32.494071063897536
+Time_needed: 26.807901620864868
+Success_length: 0.65
+

@@ -1,0 +1,381 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>All Player Scoreboards are right here on the fourth page of the Minute Maid park site:
+
+
+
+Success_rate: 1.0
+Perplexity: 154.68663893411485
+Time_needed: 29.445255756378174
+Success_length: 0.7
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>No player had more foul minutes than the fifth overall pick in the 2012 draft, and no player in
+
+Success_rate: 1.0
+Perplexity: 27.85332802470362
+Time_needed: 18.802042961120605
+Success_length: 0.45
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>Of all the substitution players in the league this season sixth minute substitute Matteo Darmian appears to
+
+Success_rate: 1.0
+Perplexity: 84.02911206510231
+Time_needed: 24.97004270553589
+Success_length: 0.6
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>This is the second scorecard of player ratings right after the first one in fourth place:
+
+
+
+Success_rate: 1.0
+Perplexity: 99.70437603430581
+Time_needed: 33.2555410861969
+Success_length: 0.8
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>As the yellow cards pile up for players in the box and the fourth minute ticked off in the
+
+Success_rate: 1.0
+Perplexity: 67.52186409693292
+Time_needed: 29.83231520652771
+Success_length: 0.7
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>Name Red Card Player Box
+
+
+5 Fifth Avenue
+
+
+New York, NY 10013
+
+Success_rate: 1.0
+Perplexity: 128.13447170651253
+Time_needed: 20.849613189697266
+Success_length: 0.5
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this player pass is to make left players succeed with their left hip.
+
+
+
+
+Success_rate: 1.0
+Perplexity: 132.257129959862
+Time_needed: 22.522642850875854
+Success_length: 0.55
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>The B.C. substitution of the sixth minute for second half stoppage time is another evidence of
+
+Success_rate: 1.0
+Perplexity: 56.145442899847346
+Time_needed: 26.93111515045166
+Success_length: 0.65
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>H foul play is suspected in the death of minute-seven All-Australian Darren Glass, who was
+
+Success_rate: 1.0
+Perplexity: 158.9121078826298
+Time_needed: 20.711267471313477
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>This is a rush transcript. Copy may not be in score.
+
+ minute, minute
+
+
+
+Success_rate: 1.0
+Perplexity: 182.57750685931236
+Time_needed: 31.755088090896606
+Success_length: 0.8
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>2
+
+
+The penalty for a player who team-wipes, or who intentionally throws a
+
+Success_rate: 1.0
+Perplexity: 62.781883798551654
+Time_needed: 24.309203147888184
+Success_length: 0.6
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>In a rare penalty for a player who has been team captain for the minute or two seventh in the
+
+Success_rate: 1.0
+Perplexity: 78.79739516478112
+Time_needed: 37.873586893081665
+Success_length: 0.9
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>The Red Card is a player card used in Kingdom Hearts Birth by Sleep and Kingdom Hearts Re:coded
+
+Success_rate: 1.0
+Perplexity: 26.979204260359086
+Time_needed: 11.70817255973816
+Success_length: 0.3
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>The goal of this left-handed pass is to create area of impact with one touch of your middle
+
+Success_rate: 1.0
+Perplexity: 59.563035929332685
+Time_needed: 23.71964144706726
+Success_length: 0.6
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>The team of foul players from the league are back in fifth place, which is pretty good considering they
+
+Success_rate: 1.0
+Perplexity: 56.224422942770914
+Time_needed: 18.518465757369995
+Success_length: 0.4
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>We are starting the second half of 2017 on a small but encouraging note. Fast forward a couple of
+
+Success_rate: 1.0
+Perplexity: 28.90143144109007
+Time_needed: 12.622397661209106
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>More than half of the world's end-of- second-world team, well over 25,
+
+Success_rate: 1.0
+Perplexity: 49.424107375713554
+Time_needed: 31.749889373779297
+Success_length: 0.75
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>The first score of the end of second quarter was half as strong as the first of the first half
+
+Success_rate: 1.0
+Perplexity: 33.65795452698844
+Time_needed: 20.144200325012207
+Success_length: 0.45
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>To begin with, the first half of the match between Sporting KC and Montreal Impact was full of debate
+
+Success_rate: 1.0
+Perplexity: 26.812582893956783
+Time_needed: 21.27228879928589
+Success_length: 0.5
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>For the first time in the scoreless tie, Passaic players were trying to do something to create
+
+Success_rate: 1.0
+Perplexity: 53.22583026916954
+Time_needed: 27.389285802841187
+Success_length: 0.65
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>One of the most common substitution methods in the player's hand is the eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 208.79620105284485
+Time_needed: 42.01205253601074
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>The first time I saw penalty kicks right side, I was box refereeing in the English Premier League
+
+Success_rate: 1.0
+Perplexity: 71.73917389591291
+Time_needed: 27.29796290397644
+Success_length: 0.65
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>The goal of this project is to make player controllable mini-alarms in an intuitive way
+
+Success_rate: 1.0
+Perplexity: 34.26494924810344
+Time_needed: 12.148319244384766
+Success_length: 0.45
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>While the penalty for the player taking a knee during the national anthem at a recent game in St.
+
+Success_rate: 1.0
+Perplexity: 25.08187709854391
+Time_needed: 12.718331336975098
+Success_length: 0.3
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>The first score of the game was player A's Mozart is playing a harp. Player A
+
+Success_rate: 1.0
+Perplexity: 92.02803841988533
+Time_needed: 13.752671241760254
+Success_length: 0.4
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>This article is a substitution for the fourth edition of the minute book published in the U.S.
+
+Success_rate: 1.0
+Perplexity: 35.09749594908536
+Time_needed: 25.367988109588623
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>The red and white card issued to Arsenal's Alan Smith for diving in their Premier League match with Blackburn
+
+Success_rate: 1.0
+Perplexity: 128.30658165773022
+Time_needed: 9.561363220214844
+Success_length: 0.25
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>New at SubtleTV! Close
+Yellow card awarded to Yohann Mohamed at the very beginning of
+
+Success_rate: 1.0
+Perplexity: 216.15549223776608
+Time_needed: 18.965906143188477
+Success_length: 0.45
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>In a penalty, the first half of a Division II football game between Loyola (Ill.)
+
+Success_rate: 1.0
+Perplexity: 45.948757482083934
+Time_needed: 14.80241060256958
+Success_length: 0.35
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>The U.S. substitution of second- half players for first- half ones may play a key
+
+Success_rate: 1.0
+Perplexity: 92.33713730756772
+Time_needed: 23.19933772087097
+Success_length: 0.55
+
