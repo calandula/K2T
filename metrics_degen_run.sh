@@ -10,3 +10,5 @@ python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt
 python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_3.0_.txt' -n_sample=30
 python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_4.0_.txt' -n_sample=30
 python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_5.0_.txt' -n_sample=30
+python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_6.0_.txt' -n_sample=30
+python metrics_degen2.py -file='./results/guide_context/tests5/Results_Model_gpt2-large_nBeams_4_guideContext_True_contextWeight_7.0_.txt' -n_sample=30
