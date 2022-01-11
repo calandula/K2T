@@ -1,0 +1,675 @@
+soccer<|endoftext|>14th minute Player score from the penalty spot right into the bottom left fourth corner.<|endoftext|>The referee
+
+
+
+Success_rate: 1.0
+Perplexity: 132.6600347781388soccer<|endoftext|>14th minute Player score from the penalty spot right into the bottom left fourth corner. Terrence Boyd
+
+
+
+Success_rate: 1.0
+Perplexity: 127.81629576738666soccer<|endoftext|>14th minute Player score from the penalty spot right into the bottom left fourth corner. Jonas Gutierrez from
+
+
+
+Success_rate: 1.0
+Perplexity: 167.20103516082037soccer<|endoftext|>14th minute Player score from the penalty spot right into the bottom left fourth corner. Gomez from Ben
+
+
+
+Success_rate: 1.0
+Perplexity: 234.16769906821443
+###############################
+soccer<|endoftext|>suspect foul by players from the minute one side of the pitch after fifth-minute challenge at
+
+
+
+Success_rate: 1.0
+Perplexity: 129.98322641856328soccer<|endoftext|>suspect foul by players from the minute one side of the pitch after fifth minute challenge. The
+
+
+
+Success_rate: 1.0
+Perplexity: 156.85707569825033soccer<|endoftext|>suspect foul by players from the minute one side of the pitch after fifth minute card.<|endoftext|>
+
+
+
+Success_rate: 1.0
+Perplexity: 172.66114043491078soccer<|endoftext|>suspect foul by players from the minute one side of the pitch after fifth minute challenge. Def
+
+
+
+Success_rate: 1.0
+Perplexity: 201.83148738054595
+###############################
+soccer<|endoftext|>the substitution has been made at 64th minute. Player A is replaced by Sixth Generation Divisoner
+
+
+
+Success_rate: 1.0
+Perplexity: 204.38479420028756soccer<|endoftext|>the substitution has been made at 64th minute. Player A is replaced by Sixth Generation Dejan Lov
+
+
+
+Success_rate: 1.0
+Perplexity: 182.56636355272366soccer<|endoftext|>the substitution has been made at 64th minute. Player A is replaced by Sixth Man Ivan Markovic
+
+
+
+Success_rate: 1.0
+Perplexity: 167.50060085899415soccer<|endoftext|>the substitution has been made at 64th minute. Player A is replaced by Sixth Division substitute Sebastian Chal
+
+
+
+Success_rate: 1.0
+Perplexity: 266.24929756479645
+###############################
+soccer<|endoftext|>Despite the scoreline being a goal down players like Christian Pulis right-back fourth from Schal
+
+
+
+Success_rate: 1.0
+Perplexity: 613.1602422860864soccer<|endoftext|>Despite the scoreline being a goal down players like Christian Pulis right-back fourth-choice Mak
+
+
+
+Success_rate: 1.0
+Perplexity: 442.26823349725714soccer<|endoftext|>Despite the scoreline being a goal down players like Christian Pulis right-back fourth-choice him
+
+
+
+Success_rate: 1.0
+Perplexity: 480.4639672157015soccer<|endoftext|>Despite the scoreline being a goal down players like Christian Pulis right-back fourth from Chelsea then
+
+
+
+Success_rate: 1.0
+Perplexity: 876.1606037740256
+###############################
+soccer<|endoftext|>player is yellow carded for box-to-box tackle at fourth minute. Martin Skrtel
+
+
+
+Success_rate: 1.0
+Perplexity: 123.07450663613452soccer<|endoftext|>player is yellow carded for box-to-box tackle at fourth minute. Marko Marinovic
+
+
+
+Success_rate: 1.0
+Perplexity: 139.4584283195598soccer<|endoftext|>player is yellow carded for box-to-box tackle at fourth minute. Gabriel Jesus from Real
+
+
+
+Success_rate: 1.0
+Perplexity: 259.32772106711394soccer<|endoftext|>player is yellow carded for box-to-box tackle at fourth minute. Jaume Mora
+
+
+
+Success_rate: 1.0
+Perplexity: 202.08899929075253
+###############################
+soccer<|endoftext|>13 Red card for players who make a box-to-box challenge in fifth minute. Sadio
+
+
+
+Success_rate: 1.0
+Perplexity: 129.69261374841372soccer<|endoftext|>13 Red card for players who make a box-to-box fifth-minute substitution. Thomas Muller
+
+
+
+Success_rate: 1.0
+Perplexity: 115.69511854508166soccer<|endoftext|>13 Red card for players who make a box-to-box challenge in fifth minute. Ashley Young
+
+
+
+Success_rate: 1.0
+Perplexity: 131.17828473998327soccer<|endoftext|>13 Red card for players who make a box-to-box fifth-minute mistake. As usual
+
+
+
+Success_rate: 1.0
+Perplexity: 88.64660759913983
+###############################
+soccer<|endoftext|>1 goal! The players pass to left side players and Marco Reus from Bayern Munich inside the box
+
+
+
+Success_rate: 1.0
+Perplexity: 129.86087189770703soccer<|endoftext|>1 goal! The players pass to left side players and Galatasaray from Atalanta,
+
+
+
+Success_rate: 1.0
+Perplexity: 110.21706129594993soccer<|endoftext|>1 goal! The players pass to left side players who are then shown a yellow card by referee Jerome
+
+
+
+Success_rate: 1.0
+Perplexity: 100.3231076035483soccer<|endoftext|>1 goal! The players pass to left side players with Ferencvaros coming on in place
+
+
+
+Success_rate: 1.0
+Perplexity: 306.13281710142013
+###############################
+soccer<|endoftext|>For the second half of the match, substitution has been made at sixth minute. Xherdan Sha
+
+
+
+Success_rate: 1.0
+Perplexity: 42.26301942562164soccer<|endoftext|>For the second half of the match, substitution has been made at sixth minute. Marcos Alonso will be
+
+
+
+Success_rate: 1.0
+Perplexity: 51.47858644781382soccer<|endoftext|>For the second half of the match, substitution has been made at sixth minute. Damir Soares
+
+
+
+Success_rate: 1.0
+Perplexity: 80.36950608250119soccer<|endoftext|>For the second half of the match, substitution has been made at sixth minute. Thomas Mason from Barcelona
+
+
+
+Success_rate: 1.0
+Perplexity: 96.61320478744364
+###############################
+soccer<|endoftext|>A foul by the referee is worthy of a minute's pause. Sadio Mane from Liverpool has apparently
+
+
+
+Success_rate: 1.0
+Perplexity: 106.64185090113232soccer<|endoftext|>A foul by the referee is worthy of a minute's silence at 8th minute. Paris SG didn
+
+
+
+Success_rate: 1.0
+Perplexity: 210.6512644327905soccer<|endoftext|>A foul by the referee is worthy of a minute's notice at 39th minute. Allan Steg
+
+
+
+Success_rate: 1.0
+Perplexity: 114.63942011093582soccer<|endoftext|>A foul by the referee is worthy of a minute's warning and it is Bala Jun's decision
+
+
+
+Success_rate: 1.0
+Perplexity: 123.44843703431782
+###############################
+soccer<|endoftext|>In the scoreline after a minute of injury that didn't seem like anything at all at 41st
+
+
+
+Success_rate: 1.0
+Perplexity: 90.91377566494434soccer<|endoftext|>In the scoreline after a minute's break Jermaine Jones bursts through the defence and sends the
+
+
+
+Success_rate: 1.0
+Perplexity: 72.95588937363135soccer<|endoftext|>In the scoreline after a minute Tomas Krzysztofki whipped an unstoppable free kick
+
+
+
+Success_rate: 1.0
+Perplexity: 69.90085926184949soccer<|endoftext|>In the scoreline after a minute substitute Jose Mourinho from Manchester City outgunned the opposing team and
+
+
+
+Success_rate: 1.0
+Perplexity: 150.6076335107797
+###############################
+soccer<|endoftext|>In the penalty area players are team-mates and Marc-Andre ter Stegen from RB Le
+
+
+
+Success_rate: 1.0
+Perplexity: 47.41169069172607soccer<|endoftext|>In the penalty area players are teaming up with Dani Moreno from Liverpool.<|endoftext|>Loading...<|endoftext|>Dem
+
+
+
+Success_rate: 1.0
+Perplexity: 130.4471732110433soccer<|endoftext|>In the penalty area players are being shown team pictures and Roberto Firmino from Liverpool stands at the
+
+
+
+Success_rate: 1.0
+Perplexity: 118.63725908674958soccer<|endoftext|>In the penalty area players are teaming up and bringing on Jesus Manuel from Benfica.<|endoftext|>
+
+
+
+Success_rate: 1.0
+Perplexity: 93.68293403082379
+###############################
+soccer<|endoftext|>2 penalty minutes for player who teams up with the referee in the seventh minute. Luka Modric
+
+
+
+Success_rate: 1.0
+Perplexity: 78.4002327943373soccer<|endoftext|>2 penalty minutes for player who teams up with the referee in the seventh minute.
+
+
+D
+
+
+
+Success_rate: 1.0
+Perplexity: 112.89455686200591soccer<|endoftext|>2 penalty minutes for player who teams up with the referee after a second seventh-minute challenge. Ram
+
+
+
+Success_rate: 1.0
+Perplexity: 171.3640507166824soccer<|endoftext|>2 penalty minutes for player who teams up with the referee after a second seventh-minute cross at 52
+
+
+
+Success_rate: 1.0
+Perplexity: 196.0898624786844
+###############################
+soccer<|endoftext|>c red card for a tackle by player Francis Coquelin.<|endoftext|>See more pictures from today's
+
+
+
+Success_rate: 1.0
+Perplexity: 112.47528376267985soccer<|endoftext|>c red card for a tackle by Player Ayoze Perez from Tottenham. He isn't surprised as
+
+
+
+Success_rate: 1.0
+Perplexity: 226.87265877073781soccer<|endoftext|>c red card for a tackle by Player Odoi from Sporting at 1st minute. The referee doesn
+
+
+
+Success_rate: 1.0
+Perplexity: 319.35125771121824soccer<|endoftext|>c red card for a tackle by Player A at 56th minute. On the spot there are no
+
+
+
+Success_rate: 1.0
+Perplexity: 168.57863299600217
+###############################
+soccer<|endoftext|>Goal! at 32nd minute left-back Passan from Paris SG area the ball inside the box
+
+
+
+Success_rate: 1.0
+Perplexity: 494.9247766252228soccer<|endoftext|>Goal! at 32nd minute left-back Passan from Paris SG area-dispersed Ivan
+
+
+
+Success_rate: 1.0
+Perplexity: 919.804851438284soccer<|endoftext|>Goal! at 32nd minute left-back Passan from Paris SG area and keeps up the pressure
+
+
+
+Success_rate: 1.0
+Perplexity: 660.3035299120812soccer<|endoftext|>Goal! at 32nd minute left-back Passan from Paris SG area quickly finds Martin Keown
+
+
+
+Success_rate: 1.0
+Perplexity: 1028.6506853281696
+###############################
+soccer<|endoftext|>4 fouls team players off the pitch and the match ends for fifth minute.<|endoftext|>SHANGHA
+
+
+
+Success_rate: 1.0
+Perplexity: 151.30592772954682soccer<|endoftext|>4 fouls team players off the pitch and the fifth yellow is duly shown by Marcus Rashford from
+
+
+
+Success_rate: 1.0
+Perplexity: 236.34958564338675soccer<|endoftext|>4 fouls team players off the pitch and the match ends for fifth-placed Sevilla at 4
+
+
+
+Success_rate: 1.0
+Perplexity: 122.84754073783594soccer<|endoftext|>4 fouls team players off the pitch and the match is fifth minute. Mohamed Salah gives the
+
+
+
+Success_rate: 1.0
+Perplexity: 210.1574472159219
+###############################
+soccer<|endoftext|>0 0 start after second half. 0:2.<|endoftext|>Learn More About The National Dao Foundation
+
+
+
+Success_rate: 1.0
+Perplexity: 218.13886075306095soccer<|endoftext|>0 0 start after second half. Jordan Henderson didn't hesitate to show mercy to Roberto Firmino
+
+
+
+Success_rate: 1.0
+Perplexity: 76.04106746730743soccer<|endoftext|>0 0 start after second half break at 18th minute. A great first touch from Jesus Navas
+
+
+
+Success_rate: 1.0
+Perplexity: 129.67356773177966soccer<|endoftext|>0 0 start after second half! Slavko Lozyka finds himself in a good position as he
+
+
+
+Success_rate: 1.0
+Perplexity: 150.64814279594665
+###############################
+soccer<|endoftext|>This end of the second half has brought a team-mate to the pitch and the referee stops play
+
+
+
+Success_rate: 1.0
+Perplexity: 53.429704310487004soccer<|endoftext|>This end of the second half has brought a team-mate into the action after Danilo Castro had
+
+
+
+Success_rate: 1.0
+Perplexity: 51.32967979234334soccer<|endoftext|>This end of the second half has brought a team effort from Barcelona in the area. Jesus Navas
+
+
+
+Success_rate: 1.0
+Perplexity: 62.245892446364145soccer<|endoftext|>This end of the second half has brought a team change at 1st minute. Fredrik Olins
+
+
+
+Success_rate: 1.0
+Perplexity: 103.81367183692035
+###############################
+soccer<|endoftext|>Still loading...
+
+
+A score is being scored for Enda Kenny second half at 97th
+
+
+
+Success_rate: 1.0
+Perplexity: 214.5401488194004soccer<|endoftext|>Still loading...
+
+
+A score is being scored for Enda Kenny second half. Marlos
+
+
+
+Success_rate: 1.0
+Perplexity: 222.73909100848223soccer<|endoftext|>Still loading...
+
+
+A score is being scored for Enda Kenny second half! James Mil
+
+
+
+Success_rate: 1.0
+Perplexity: 231.56628953499867soccer<|endoftext|>Still loading...
+
+
+A score is being scored for Enda Kenny second half. Renata
+
+
+
+Success_rate: 1.0
+Perplexity: 191.63761648352107
+###############################
+soccer<|endoftext|>on the pitch at 8th minute Begin of match at 8th minute First half stoppage time.
+
+
+
+Success_rate: 1.0
+Perplexity: 104.53154855957584soccer<|endoftext|>on the pitch at 8th minute Begin of match at 8th minute First half change at 8th
+
+
+
+Success_rate: 1.0
+Perplexity: 108.64659184199871soccer<|endoftext|>on the pitch at 8th minute Begin of match at 8th minute First half change in position at
+
+
+
+Success_rate: 1.0
+Perplexity: 155.41192287735942soccer<|endoftext|>on the pitch at 8th minute Begin of match at 8th minute First half goal from Sadio
+
+
+
+Success_rate: 1.0
+Perplexity: 118.08432892716239
+###############################
+soccer<|endoftext|>on score in the second half. Pass from Player A keeps the ball out of the penalty area and
+
+
+
+Success_rate: 1.0
+Perplexity: 47.0527468176003soccer<|endoftext|>on score in the second half Pass player Rui Garcia Torres from Atl. Madrid produces a brilliant low
+
+
+
+Success_rate: 1.0
+Perplexity: 645.5386883990323soccer<|endoftext|>on score in the second half Pass players from Valencia pass through the right post to Bekker from
+
+
+
+Success_rate: 1.0
+Perplexity: 235.58221826465115soccer<|endoftext|>on score in the second half Pass player Cody Zeller finds Marquinhos from Sporting with a
+
+
+
+Success_rate: 1.0
+Perplexity: 314.6842477252457
+###############################
+soccer<|endoftext|>Little players are substituted because of injury and Marco Verratti eighteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 1064.2565276750718soccer<|endoftext|>Little players are substituted because of injury and Marco Verratti eighteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 1064.2565276750718soccer<|endoftext|>Little players are substituted because of injury and Marco Verratti eighteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 1064.2565276750718soccer<|endoftext|>Little players are substituted because of injury and Marco Verratti eighteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+
+
+Success_rate: 1.0
+Perplexity: 1064.2565276750718
+###############################
+soccer<|endoftext|>A penalty is being shown to right side of the box. Dries Mertens from Olympiac
+
+
+
+Success_rate: 1.0
+Perplexity: 120.64753761862957soccer<|endoftext|>A penalty is being shown to right side of the box by Jupp Heynckes. He
+
+
+
+Success_rate: 1.0
+Perplexity: 53.38742877879687soccer<|endoftext|>A penalty is being shown to right side of the box after a low effort by Cuneyt C
+
+
+
+Success_rate: 1.0
+Perplexity: 133.58757707492984soccer<|endoftext|>A penalty is being shown to right side of the box by Nicolas Lemaitre from Lyon. His
+
+
+
+Success_rate: 1.0
+Perplexity: 133.85423425675535
+###############################
+soccer<|endoftext|>game goal! Sergio Busquets players come onto the pitch to celebrate and the ball bounces off the
+
+
+
+Success_rate: 1.0
+Perplexity: 73.94163472079958soccer<|endoftext|>game goal! Sergio Busquets players react well to the situation and tries his luck inside the box
+
+
+
+Success_rate: 1.0
+Perplexity: 134.2878074412251soccer<|endoftext|>game goal! Sergio Busquets players celebrate as he ends the ball in his own net after a
+
+
+
+Success_rate: 1.0
+Perplexity: 115.3362584789564soccer<|endoftext|>game goal! Sergio Busquets players rush out to attack, unable to make contact with the goalkeeper
+
+
+
+Success_rate: 1.0
+Perplexity: 105.46720576312053
+###############################
+soccer<|endoftext|>The referee stops play so that penalty can be shown and players are allowed to leave the pitch.<|endoftext|>
+
+
+
+Success_rate: 1.0
+Perplexity: 47.17031486641368soccer<|endoftext|>The referee stops play so that penalty can be shown and players can be given a chance to rest.
+
+
+
+Success_rate: 1.0
+Perplexity: 48.135507172765436soccer<|endoftext|>The referee stops play so that penalty can be shown and players from Chelsea, Manchester City and Manchester United
+
+
+
+Success_rate: 1.0
+Perplexity: 74.63472323631318soccer<|endoftext|>The referee stops play so that penalty can be shown and players from RB Leipzig and Hoffen
+
+
+
+Success_rate: 1.0
+Perplexity: 88.72183782696577
+###############################
+soccer<|endoftext|>The score is 1:0. Player A is booked after bringing down an opponent at 85th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 116.62004205304108soccer<|endoftext|>The score is 1:0. Player Ander Herrera from Lazio receives a yellow card from the
+
+
+
+Success_rate: 1.0
+Perplexity: 65.52274705076073soccer<|endoftext|>The score is 1:0. Player Ander Herrera from Atl at 45th minute. Madrid gives
+
+
+
+Success_rate: 1.0
+Perplexity: 341.29964332099996soccer<|endoftext|>The score is 1:0. Players from Juventus and Bayern Munich jumped out and contributed to the score
+
+
+
+Success_rate: 1.0
+Perplexity: 64.06192031462267
+###############################
+soccer<|endoftext|>If a substitution is made at 49th minute, it will be fourth from FC Porto at 49
+
+
+
+Success_rate: 1.0
+Perplexity: 105.70489551310297soccer<|endoftext|>If a substitution is made at 49th minute, it will be fourth from FC Porto at 49
+
+
+
+Success_rate: 1.0
+Perplexity: 105.70489551310297soccer<|endoftext|>If a substitution is made at 49th minute, it will be fourth-year goalkeeper Jordi Al
+
+
+
+Success_rate: 1.0
+Perplexity: 70.31227390361492soccer<|endoftext|>If a substitution is made at 49th minute, it will be fourth minute substitute Rasmus Hagman
+
+
+
+Success_rate: 1.0
+Perplexity: 157.79262659628606
+###############################
+soccer<|endoftext|>A red card was deserved at 109th minute. The tackle by Michael Oliver from Juventus was quite harsh
+
+
+
+Success_rate: 1.0
+Perplexity: 290.7443455978642soccer<|endoftext|>A red card was deserved at 49th minute. Alan McBride didn't hesitate in pulling the trigger
+
+
+
+Success_rate: 1.0
+Perplexity: 108.87732465047416soccer<|endoftext|>A red card was shown to Denis Savard from Shakhtar for a harsh tackle at 23rd minute
+
+
+
+Success_rate: 1.0
+Perplexity: 183.99903892521053soccer<|endoftext|>A red card is handed to Pedro from Atalanta for a foul on his opponent at 57th
+
+
+
+Success_rate: 1.0
+Perplexity: 131.01762795132743
+###############################
+soccer<|endoftext|>Here is a yellow card to Karim Benzema from Real Madrid for a tackle at 11th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 63.925672587600715soccer<|endoftext|>Here is a yellow card for a tackle by Felix Freuler from B. Monchengladbach
+
+
+
+Success_rate: 1.0
+Perplexity: 182.5092647801422soccer<|endoftext|>Here is a yellow card for a tackle by Nabil Fekir. This is a great performance
+
+
+
+Success_rate: 1.0
+Perplexity: 72.29035154721312soccer<|endoftext|>Here is a yellow card for talking too much about Mourinho at 67th minute. It is not the
+
+
+
+Success_rate: 1.0
+Perplexity: 90.23312359566673
+###############################
+soccer<|endoftext|>In a first half penalty, Nicolas Alba from Manchester City sees a yellow card after bringing down an
+
+
+
+Success_rate: 1.0
+Perplexity: 111.55913250420497soccer<|endoftext|>In a first half that was penalty worthy of a card, Juan Manuel Pasalic from Sevilla
+
+
+
+Success_rate: 1.0
+Perplexity: 183.7027247590889soccer<|endoftext|>In a first half penalty there is no reason for celebration as the ball goes into the box and Javier
+
+
+
+Success_rate: 1.0
+Perplexity: 68.55679757099676soccer<|endoftext|>In a first half penalty at 94th minute Toulouse, Dusan Tolisso shoots
+
+
+
+Success_rate: 1.0
+Perplexity: 148.17069079443215
+###############################
+soccer<|endoftext|>is now substitution for second- half substitute James Milner from Player A. Madrid at 8th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 246.58062008428854soccer<|endoftext|>is now substitution for second- half substitute James Milner from Player A at 26th minute.<|endoftext|>
+
+
+
+Success_rate: 1.0
+Perplexity: 168.83316168917327soccer<|endoftext|>is now substitution for second- half substitute James Milner from Player 2 at 85th minute.<|endoftext|>
+
+
+
+Success_rate: 1.0
+Perplexity: 163.5791080785372soccer<|endoftext|>is now substitution for second- half substitute James Milner player. The injury is too serious for Sad
+
+
+
+Success_rate: 1.0
+Perplexity: 173.53912264687554
+###############################

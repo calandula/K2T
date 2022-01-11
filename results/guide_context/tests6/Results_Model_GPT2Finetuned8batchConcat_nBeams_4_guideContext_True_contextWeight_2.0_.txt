@@ -1,0 +1,360 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, player, team Bayern Munich right-back and fourth minute substitution, 14th
+
+Success_rate: 1.0
+Perplexity: 201.35277704068992
+Time_needed: 29.333760499954224
+Success_length: 0.8
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, players, minute 27 = The game is over for fifth-year team Inter
+
+Success_rate: 1.0
+Perplexity: 431.85729896930064
+Time_needed: 29.434106588363647
+Success_length: 0.8
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, player, team Liverpool, minute 27 = Sixth-minute substitution at 27th
+
+Success_rate: 1.0
+Perplexity: 611.4542577187403
+Time_needed: 27.98613953590393
+Success_length: 0.7
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, team Barcelona, players A, right, team Barcelona fourth, 0, 1
+
+Success_rate: 1.0
+Perplexity: 239.641738075228
+Time_needed: 29.829642057418823
+Success_length: 0.8
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>cer, yellow card, A Player, team Boxer = A Player from fourth division comes onto the
+
+Success_rate: 1.0
+Perplexity: 459.8686541040859
+Time_needed: 29.912322521209717
+Success_length: 0.8
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>cer, red card, players, box, team FC Porto Fifth minute substitution. Miralem
+
+Success_rate: 1.0
+Perplexity: 433.7026170585157
+Time_needed: 26.06892204284668
+Success_length: 0.7
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Real Madrid players, pass, left, players Marco Verratti,
+
+Success_rate: 1.0
+Perplexity: 148.80304085511258
+Time_needed: 28.014752864837646
+Success_length: 0.75
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Second Half, minute 8 = The sixth substitution has been made
+
+Success_rate: 1.0
+Perplexity: 706.6947722438489
+Time_needed: 30.41937279701233
+Success_length: 0.8
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, team Manchester City, minute 6 = Karim Benzema from Manchester City is
+
+Success_rate: 1.0
+Perplexity: 270.1096098155249
+Time_needed: 12.660582304000854
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, team Barcelona, minute 38 = Goal! at 38th minute Edin D
+
+Success_rate: 1.0
+Perplexity: 638.6842434747667
+Time_needed: 13.598374128341675
+Success_length: 0.45
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Barcelona, minute 6 = Player Ccer Cesar Azpilicu
+
+Success_rate: 1.0
+Perplexity: 260.45929563864206
+Time_needed: 22.190614938735962
+Success_length: 0.6
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Real Madrid, minute 27 = Player from Real Madrid seventh minute substitution at
+
+Success_rate: 1.0
+Perplexity: 730.9535108982578
+Time_needed: 31.817687273025513
+Success_length: 0.85
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>cercer, red card, Player A, team Salzburg = Player A from Salzburg
+
+Success_rate: 1.0
+Perplexity: 170.23589566308308
+Time_needed: 13.950669527053833
+Success_length: 0.35
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, left, Kevin Passie, team Liverpool Area, 1, 0, minute
+
+Success_rate: 1.0
+Perplexity: 444.70309807987275
+Time_needed: 25.906233072280884
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, team Barcelona, minute 5 = Player foul at fifth minute. What a foul
+
+Success_rate: 1.0
+Perplexity: 754.2075323817627
+Time_needed: 28.73794198036194
+Success_length: 0.75
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, start, second half, Substitution, Sergio Aguero, team Barcelona = Substitution
+
+Success_rate: 1.0
+Perplexity: 271.44544939198596
+Time_needed: 12.525435209274292
+Success_length: 0.35
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>cercer, team Atalanta end, second half, 2, 2 = Goal! at 2
+
+Success_rate: 1.0
+Perplexity: 288.05811023880887
+Time_needed: 20.126765251159668
+Success_length: 0.55
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, Enda Kenny, team second half, 1, 0 = Enda Kenny
+
+Success_rate: 1.0
+Perplexity: 217.4171411441119
+Time_needed: 22.280290365219116
+Success_length: 0.6
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, begin, match team Club B first half, minute 45 = Goal! at
+
+Success_rate: 1.0
+Perplexity: 1015.94156302005
+Time_needed: 23.91900634765625
+Success_length: 0.65
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, Sergio Passano, team Barcelona, players, team Barcelona, 2, 0
+
+Success_rate: 1.0
+Perplexity: 263.5011096164119
+Time_needed: 22.511734008789062
+Success_length: 0.65
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, players, team FC Porto, minute 55 = Substitution eighteenth eighteenth seventeenth
+
+Success_rate: 1.0
+Perplexity: 966.7809448088213
+Time_needed: 37.35189771652222
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, The, team right side, minute 55 = box score at 55th minute
+
+Success_rate: 1.0
+Perplexity: 578.0079768597477
+Time_needed: 27.791646480560303
+Success_length: 0.75
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Player, team Besiktas, minute 108 = Goal! at
+
+Success_rate: 1.0
+Perplexity: 354.31381058427525
+Time_needed: 19.725709676742554
+Success_length: 0.35
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, players, team Paris SG, minute 5 = The referee signals a substitution at
+
+Success_rate: 1.0
+Perplexity: 839.8709371605831
+Time_needed: 14.621261835098267
+Success_length: 0.3
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, team Barcelona, players, team Barcelona, minute 55 = It's at 55
+
+Success_rate: 1.0
+Perplexity: 519.6917342066603
+Time_needed: 18.930131912231445
+Success_length: 0.45
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Paris SG fourth minute substitution.<|endoftext|>< span class = "
+
+Success_rate: 1.0
+Perplexity: 1036.3023369451703
+Time_needed: 22.34469437599182
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>cercer, red card, Christian Pulisic, team Paris SG, minute 18 = Christian Pul
+
+Success_rate: 1.0
+Perplexity: 324.7424534649105
+Time_needed: 8.822816610336304
+Success_length: 0.25
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>cer, yellow card, Roberto Firmino, team Atl at 44th minute. Madrid, minute
+
+Success_rate: 1.0
+Perplexity: 478.590131095442
+Time_needed: 6.965914011001587
+Success_length: 0.2
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Real Madrid First Half, 4, 2 = Substitution at 4th
+
+Success_rate: 1.0
+Perplexity: 413.6217607385575
+Time_needed: 18.413126230239868
+Success_length: 0.5
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, Half-time substitute Second team Player Club, minute 79 = Half-time
+
+Success_rate: 1.0
+Perplexity: 453.29312961879316
+Time_needed: 25.08863592147827
+Success_length: 0.6
+

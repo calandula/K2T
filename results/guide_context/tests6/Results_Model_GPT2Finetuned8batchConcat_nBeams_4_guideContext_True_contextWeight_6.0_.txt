@@ -1,0 +1,360 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cer, score, players A right team minute 18 = Goal after fourth minute by Pablo Sarabia
+
+Success_rate: 1.0
+Perplexity: 1303.575128398354
+Time_needed: 29.173094987869263
+Success_length: 0.7
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, players, minute 20 = The referee fifthly stops play so that a substitution
+
+Success_rate: 1.0
+Perplexity: 1107.4825880761105
+Time_needed: 28.33313488960266
+Success_length: 0.8
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, players, team FC Porto sixth minute, minute 70 = Substitution at
+
+Success_rate: 1.0
+Perplexity: 780.8061859935157
+Time_needed: 24.163406133651733
+Success_length: 0.65
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>cer, score, players, team Manchester United right back, team Manchester United fourth, 2, 0
+
+Success_rate: 1.0
+Perplexity: 154.53624100746504
+Time_needed: 28.89664101600647
+Success_length: 0.8
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>cer Yellow card, players, team Liverpool, box score, team Liverpool Fourth minute substitution. Edin
+
+Success_rate: 1.0
+Perplexity: 538.5330543365062
+Time_needed: 28.68415641784668
+Success_length: 0.75
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>cer, red card, The player box, team Bayern Munich = The fifth yellow card was deserved.
+
+Success_rate: 1.0
+Perplexity: 497.7729468160875
+Time_needed: 26.70099115371704
+Success_length: 0.75
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Barcelona Player score Pass with left foot and players are now able to carry
+
+Success_rate: 1.0
+Perplexity: 486.8129870731497
+Time_needed: 27.357258081436157
+Success_length: 0.75
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Barcelona sixth minute, second half = The referee stops play so
+
+Success_rate: 1.0
+Perplexity: 1181.1891026103538
+Time_needed: 26.295446634292603
+Success_length: 0.7
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, team Real Madrid, minute 74 = That's the end of the game for
+
+Success_rate: 1.0
+Perplexity: 252.44219432088533
+Time_needed: 12.578022003173828
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>cer, score, team Bayern Munich, minute 70 = Goal! at 70th minute Alvaro
+
+Success_rate: 1.0
+Perplexity: 526.1026016922115
+Time_needed: 13.699518203735352
+Success_length: 0.45
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>cer team Real Madrid, team Real Madrid penalty, team Real Madrid player, team Real Madrid, minute
+
+Success_rate: 1.0
+Perplexity: 93.60171179481064
+Time_needed: 23.940077781677246
+Success_length: 0.7
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>cer team Bayern Munich, minute 5 = Goal penalty at 5th minute player from Bayern seventh minute!
+
+Success_rate: 1.0
+Perplexity: 760.694298863593
+Time_needed: 34.5322470664978
+Success_length: 0.9
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>cercer, red card, The player, team FC Porto, minute 5 = The referee stops
+
+Success_rate: 1.0
+Perplexity: 477.0378621631178
+Time_needed: 15.874381065368652
+Success_length: 0.5
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, left wing, Passan S area, team Basaksehir,
+
+Success_rate: 1.0
+Perplexity: 529.0101071618235
+Time_needed: 25.967705249786377
+Success_length: 0.6
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, team Barcelona, minute 5 = Player foul at 5th fifth minute. Gian
+
+Success_rate: 1.0
+Perplexity: 921.5231235525988
+Time_needed: 33.00699234008789
+Success_length: 0.85
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>cer, score, start of second half, Mateo Kovacic, team Bayern Munich, 1
+
+Success_rate: 1.0
+Perplexity: 118.12115944496544
+Time_needed: 14.841201782226562
+Success_length: 0.4
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>cer, team Barcelona, end of second half, Gian Piero Gasperini, team Barcelona,
+
+Success_rate: 1.0
+Perplexity: 126.38888907756265
+Time_needed: 16.908010482788086
+Success_length: 0.45
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>cer, score, team Bayern Munich end Second Half, 0, 1 = It's at 0:
+
+Success_rate: 1.0
+Perplexity: 409.64159993946873
+Time_needed: 18.785136699676514
+Success_length: 0.5
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, team Atalanta begin play match 1 First Half End 1:2 GO
+
+Success_rate: 1.0
+Perplexity: 397.5374314506071
+Time_needed: 28.08010482788086
+Success_length: 0.75
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>cer, score, team Bayern Munich pass, players Harry Kane, Thomas Muller, team Bayern Munich,
+
+Success_rate: 1.0
+Perplexity: 127.88841706981609
+Time_needed: 21.11465287208557
+Success_length: 0.5
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Player A, minute 105 = The eighteenth eighteenth eighteenth eighteenth seventeenth
+
+Success_rate: 1.0
+Perplexity: 1892.5005896338191
+Time_needed: 37.5055730342865
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Liverpool = Right side of box, Damien Comollin from Liverpool comes
+
+Success_rate: 1.0
+Perplexity: 626.9184086592837
+Time_needed: 21.680680751800537
+Success_length: 0.6
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Player A, minute 101 = Goal! at 101st minute a team
+
+Success_rate: 1.0
+Perplexity: 602.1499474461293
+Time_needed: 15.764452934265137
+Success_length: 0.35
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, Player, team Bayern Munich, minute 75 = Goal! at 75th minute
+
+Success_rate: 1.0
+Perplexity: 737.3221890593152
+Time_needed: 13.579442501068115
+Success_length: 0.3
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>cer, score, players, Clement Kuipers, team RB Leipzig, 2, 0 =
+
+Success_rate: 1.0
+Perplexity: 367.96316065160437
+Time_needed: 14.064905881881714
+Success_length: 0.25
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Liverpool Fourth minute substitution. Salvatore Puccini from
+
+Success_rate: 1.0
+Perplexity: 511.24275680718097
+Time_needed: 25.082190990447998
+Success_length: 0.55
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>cer, red card, Julian Draxler, team AS Roma, minute 28 = Julian Drax
+
+Success_rate: 1.0
+Perplexity: 251.67525635667667
+Time_needed: 6.878767013549805
+Success_length: 0.2
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>cer Yellow card, Felix Brynjolfsson, team Georginio Wijnaldum
+
+Success_rate: 1.0
+Perplexity: 85.72894115175161
+Time_needed: 5.037430047988892
+Success_length: 0.15
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, first team, Halfpenny Zielinski = Halfpenny Ziel
+
+Success_rate: 1.0
+Perplexity: 107.63755257535333
+Time_needed: 14.211440086364746
+Success_length: 0.45
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, second half, players, team Dortmund, minute 89 = Substitution at 89
+
+Success_rate: 1.0
+Perplexity: 861.2728967586219
+Time_needed: 17.872124910354614
+Success_length: 0.45
+

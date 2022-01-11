@@ -1,0 +1,363 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>14th minute Player score from the penalty spot right into the bottom left fourth corner.<|endoftext|>The referee
+
+Success_rate: 1.0
+Perplexity: 132.6600347781388
+Time_needed: 28.37554383277893
+Success_length: 0.75
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>suspect foul by players from the minute one side of the pitch after fifth-minute challenge at
+
+Success_rate: 1.0
+Perplexity: 129.98322641856328
+Time_needed: 28.974308013916016
+Success_length: 0.8
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>the substitution has been made at 64th minute. Player A is replaced by Sixth Generation Divisoner
+
+Success_rate: 1.0
+Perplexity: 204.38479420028756
+Time_needed: 29.704307556152344
+Success_length: 0.8
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Despite the scoreline being a goal down players like Christian Pulis right-back fourth from Schal
+
+Success_rate: 1.0
+Perplexity: 613.1602422860864
+Time_needed: 31.57763409614563
+Success_length: 0.85
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>player is yellow carded for box-to-box tackle at fourth minute. Martin Skrtel
+
+Success_rate: 1.0
+Perplexity: 123.07450663613452
+Time_needed: 26.07659149169922
+Success_length: 0.7
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>13 Red card for players who make a box-to-box challenge in fifth minute. Sadio
+
+Success_rate: 1.0
+Perplexity: 129.69261374841372
+Time_needed: 27.269639015197754
+Success_length: 0.7
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>1 goal! The players pass to left side players and Marco Reus from Bayern Munich inside the box
+
+Success_rate: 1.0
+Perplexity: 129.86087189770703
+Time_needed: 17.777974128723145
+Success_length: 0.5
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>For the second half of the match, substitution has been made at sixth minute. Xherdan Sha
+
+Success_rate: 1.0
+Perplexity: 42.26301942562164
+Time_needed: 27.78098487854004
+Success_length: 0.75
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>A foul by the referee is worthy of a minute's pause. Sadio Mane from Liverpool has apparently
+
+Success_rate: 1.0
+Perplexity: 106.64185090113232
+Time_needed: 15.414319515228271
+Success_length: 0.5
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>In the scoreline after a minute of injury that didn't seem like anything at all at 41st
+
+Success_rate: 1.0
+Perplexity: 90.91377566494434
+Time_needed: 12.554893970489502
+Success_length: 0.35
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>In the penalty area players are team-mates and Marc-Andre ter Stegen from RB Le
+
+Success_rate: 1.0
+Perplexity: 47.41169069172607
+Time_needed: 13.507782459259033
+Success_length: 0.35
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>2 penalty minutes for player who teams up with the referee in the seventh minute. Luka Modric
+
+Success_rate: 1.0
+Perplexity: 78.4002327943373
+Time_needed: 27.301570415496826
+Success_length: 0.7
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>c red card for a tackle by player Francis Coquelin.<|endoftext|>See more pictures from today's
+
+Success_rate: 1.0
+Perplexity: 112.47528376267985
+Time_needed: 10.26374626159668
+Success_length: 0.4
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>Goal! at 32nd minute left-back Passan from Paris SG area the ball inside the box
+
+Success_rate: 1.0
+Perplexity: 494.9247766252228
+Time_needed: 28.058899641036987
+Success_length: 0.75
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>4 fouls team players off the pitch and the match ends for fifth minute.<|endoftext|>SHANGHA
+
+Success_rate: 1.0
+Perplexity: 151.30592772954682
+Time_needed: 23.971736431121826
+Success_length: 0.55
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>0 0 start after second half. 0:2.<|endoftext|>Learn More About The National Dao Foundation
+
+Success_rate: 1.0
+Perplexity: 218.13886075306095
+Time_needed: 10.62870717048645
+Success_length: 0.3
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>This end of the second half has brought a team-mate to the pitch and the referee stops play
+
+Success_rate: 1.0
+Perplexity: 53.429704310487004
+Time_needed: 17.791167974472046
+Success_length: 0.5
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>Still loading...
+
+
+A score is being scored for Enda Kenny second half at 97th
+
+Success_rate: 1.0
+Perplexity: 214.5401488194004
+Time_needed: 31.62179398536682
+Success_length: 0.85
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>on the pitch at 8th minute Begin of match at 8th minute First half stoppage time.
+
+Success_rate: 1.0
+Perplexity: 104.53154855957584
+Time_needed: 29.68150782585144
+Success_length: 0.8
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>on score in the second half. Pass from Player A keeps the ball out of the penalty area and
+
+Success_rate: 1.0
+Perplexity: 47.0527468176003
+Time_needed: 15.347912788391113
+Success_length: 0.5
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Little players are substituted because of injury and Marco Verratti eighteenth century eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 1064.2565276750718
+Time_needed: 37.47987723350525
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>A penalty is being shown to right side of the box. Dries Mertens from Olympiac
+
+Success_rate: 1.0
+Perplexity: 120.64753761862957
+Time_needed: 19.17904543876648
+Success_length: 0.55
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>game goal! Sergio Busquets players come onto the pitch to celebrate and the ball bounces off the
+
+Success_rate: 1.0
+Perplexity: 73.94163472079958
+Time_needed: 11.108961343765259
+Success_length: 0.4
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>The referee stops play so that penalty can be shown and players are allowed to leave the pitch.<|endoftext|>
+
+Success_rate: 1.0
+Perplexity: 47.17031486641368
+Time_needed: 22.24632954597473
+Success_length: 0.6
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>The score is 1:0. Player A is booked after bringing down an opponent at 85th minute
+
+Success_rate: 1.0
+Perplexity: 116.62004205304108
+Time_needed: 14.661348342895508
+Success_length: 0.4
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>If a substitution is made at 49th minute, it will be fourth from FC Porto at 49
+
+Success_rate: 1.0
+Perplexity: 105.70489551310297
+Time_needed: 25.887174129486084
+Success_length: 0.7
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>A red card was deserved at 109th minute. The tackle by Michael Oliver from Juventus was quite harsh
+
+Success_rate: 1.0
+Perplexity: 290.7443455978642
+Time_needed: 4.929834842681885
+Success_length: 0.15
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>Here is a yellow card to Karim Benzema from Real Madrid for a tackle at 11th minute
+
+Success_rate: 1.0
+Perplexity: 63.925672587600715
+Time_needed: 8.731759548187256
+Success_length: 0.25
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>In a first half penalty, Nicolas Alba from Manchester City sees a yellow card after bringing down an
+
+Success_rate: 1.0
+Perplexity: 111.55913250420497
+Time_needed: 9.689283609390259
+Success_length: 0.25
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>is now substitution for second- half substitute James Milner from Player A. Madrid at 8th minute
+
+Success_rate: 1.0
+Perplexity: 246.58062008428854
+Time_needed: 22.333083868026733
+Success_length: 0.65
+

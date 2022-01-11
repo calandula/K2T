@@ -1,0 +1,360 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>our players score in the right place at the right time as fourth minute goal sails in from the edge
+
+Success_rate: 1.0
+Perplexity: 92.9507850352809
+Time_needed: 26.98801040649414
+Success_length: 0.7
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>You can't expect foul play from players like Mohamed Salah minute after minute of fifth minute tackle.
+
+Success_rate: 1.0
+Perplexity: 86.22599043193759
+Time_needed: 31.602153062820435
+Success_length: 0.85
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>'s substitution has been made. Player Azevedo from sixth minute comes on in place of Fernando
+
+Success_rate: 1.0
+Perplexity: 214.76317792382764
+Time_needed: 25.902876615524292
+Success_length: 0.7
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>1st minute players celebrate after scoring a goal right from the edge of the fourth minute box. The
+
+Success_rate: 1.0
+Perplexity: 69.02879754086779
+Time_needed: 29.682119369506836
+Success_length: 0.8
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>Yellow card for player who boxed in a tackle in fourth minute. Vincenzo Montella
+
+Success_rate: 1.0
+Perplexity: 113.84979257013273
+Time_needed: 27.526840448379517
+Success_length: 0.65
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>j red card for players in the box who didn't show up fifth minute.<|endoftext|>Another season for
+
+Success_rate: 1.0
+Perplexity: 207.8270329711083
+Time_needed: 26.907697200775146
+Success_length: 0.7
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|> goal! The players pass the ball to left side player and Vincenzo Montella from At
+
+Success_rate: 1.0
+Perplexity: 100.49580697066664
+Time_needed: 19.198162317276
+Success_length: 0.55
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>am substitution has been made at sixth minute. James Rodriguez from second half makes his way off the pitch
+
+Success_rate: 1.0
+Perplexity: 191.21763826531426
+Time_needed: 25.905792951583862
+Success_length: 0.7
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>at 1st minute a foul by Mirko Koeman from Manchester City is worthy of a card and
+
+Success_rate: 1.0
+Perplexity: 131.9810671474279
+Time_needed: 10.15023136138916
+Success_length: 0.3
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|> score changes at 1 minute. Per Mertens from Olympiacos Piraeus has come onto the
+
+Success_rate: 1.0
+Perplexity: 242.71734645567543
+Time_needed: 8.709048748016357
+Success_length: 0.25
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>a penalty is awarded to team player Kasper Dolberg from Bayern Munich.<|endoftext|>Major League Soccer will
+
+Success_rate: 1.0
+Perplexity: 93.18643512430567
+Time_needed: 13.982297658920288
+Success_length: 0.35
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>A penalty is awarded to players from team B at 7 minute. The game seventh minute.<|endoftext|>About
+
+Success_rate: 1.0
+Perplexity: 183.1910879012939
+Time_needed: 30.499696731567383
+Success_length: 0.75
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>in the red card for a tackle by players from Lokomotiv Moscow.<|endoftext|><|endoftext|>Red Bull
+
+Success_rate: 1.0
+Perplexity: 133.388282683861
+Time_needed: 11.61493730545044
+Success_length: 0.45
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>A goal left the feet of Passan from Manchester City area and he straight into the box, slot
+
+Success_rate: 1.0
+Perplexity: 257.7561219333885
+Time_needed: 23.525895833969116
+Success_length: 0.6
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>Stars players celebrate after a foul by team-mate Jordan Henderson from Fifth Division at 1st minute.
+
+Success_rate: 1.0
+Perplexity: 236.88789069371512
+Time_needed: 25.88990306854248
+Success_length: 0.7
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>in the second half the ball goes into the back of the start-line net and goes into the
+
+Success_rate: 1.0
+Perplexity: 34.74711053149184
+Time_needed: 21.12518286705017
+Success_length: 0.65
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>to end second half for Team Sofia, who are without the ball for the remainder of the match
+
+Success_rate: 1.0
+Perplexity: 51.01286647216519
+Time_needed: 10.629392862319946
+Success_length: 0.3
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>a score of 1:1 at end of second half. The score is 0:3.<|endoftext|>
+
+Success_rate: 1.0
+Perplexity: 29.839037463621395
+Time_needed: 20.16724705696106
+Success_length: 0.55
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>The match ends for the injured Dan Begin and he is replaced by first- half substitute Anthony Taylor from
+
+Success_rate: 1.0
+Perplexity: 240.59320634419166
+Time_needed: 29.752715587615967
+Success_length: 0.8
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>These players have scored a goal in the first pass of the game so far! Klaas-
+
+Success_rate: 1.0
+Perplexity: 36.60206173539014
+Time_needed: 17.32358431816101
+Success_length: 0.5
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>Three players from the substitute side are shown a yellow card during the eighteenth eighteenth eighteenth eighteenth eighteenth seventeenth minute
+
+Success_rate: 1.0
+Perplexity: 348.72139882831
+Time_needed: 37.36994171142578
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>When the penalty is called at right side of box and the ball flies into the back of the net
+
+Success_rate: 1.0
+Perplexity: 43.954152262629
+Time_needed: 17.794971227645874
+Success_length: 0.5
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>on goal! The ball goes into the players hands and Serge Gnabry from Dortmund jumps highest in
+
+Success_rate: 1.0
+Perplexity: 236.0250065569714
+Time_needed: 11.588521957397461
+Success_length: 0.45
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>stopping penalty after one player receives a yellow card. There is a yellow card for a heavy challenge
+
+Success_rate: 1.0
+Perplexity: 86.12207135610515
+Time_needed: 12.572810888290405
+Success_length: 0.4
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>The score is 1:0. Player Ousmane Dembele is booked after bringing down
+
+Success_rate: 1.0
+Perplexity: 55.175500746690375
+Time_needed: 14.800550699234009
+Success_length: 0.4
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>stuck in a substitution at 93rd minute. The result is a fourth minute substitution at 93rd
+
+Success_rate: 1.0
+Perplexity: 88.69053700661162
+Time_needed: 27.784672498703003
+Success_length: 0.75
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>the red card is deserved at 116th minute. Gareth Bale from Real Madrid receives a signal from the
+
+Success_rate: 1.0
+Perplexity: 145.52253350363145
+Time_needed: 4.943936586380005
+Success_length: 0.15
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>cardi yellow card was deserved at 103rd minute. The tackle by Christian Pulisic from Real
+
+Success_rate: 1.0
+Perplexity: 208.57260552456182
+Time_needed: 5.0964195728302
+Success_length: 0.15
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>England penalty spot first half whistle blows as Daniele Orsato fires home from close range.
+
+Success_rate: 1.0
+Perplexity: 264.31656214244566
+Time_needed: 9.019042015075684
+Success_length: 0.25
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>a substitution has been made at second half time. The players are now ready to enter the pitch as
+
+Success_rate: 1.0
+Perplexity: 51.23888118370141
+Time_needed: 21.221574544906616
+Success_length: 0.6
+

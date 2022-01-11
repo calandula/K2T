@@ -1,0 +1,660 @@
+soccer<|endoftext|>cer, score, players, right-back and fourth minute substitution, Raheem Sterling, team
+
+
+
+Success_rate: 1.0
+Perplexity: 142.0072706074555soccer<|endoftext|>cer, score, players, right-back and fourth minute substitution, Real Madrid, 1, 2
+
+
+
+Success_rate: 1.0
+Perplexity: 185.60316592472986soccer<|endoftext|>cer, score, players, right-back and fourth minute substitution, Milan Castro, team Valencia,
+
+
+
+Success_rate: 1.0
+Perplexity: 464.01943334730186soccer<|endoftext|>cer, score, players, right-back and fourth minute substitution. Edson Teravainen
+
+
+
+Success_rate: 1.0
+Perplexity: 163.78109823147153
+###############################
+soccer<|endoftext|>cercer, foul, players, minute 20 = The game ends for fifth minute at 20th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 379.88803189600475soccer<|endoftext|>cercer, foul, players, minute 20 = The game ends for fifth-year team Barcelona at
+
+
+
+Success_rate: 1.0
+Perplexity: 400.4049713479347soccer<|endoftext|>cercer, foul, players, minute 20 = The game ends for fifth-year sub-te
+
+
+
+Success_rate: 1.0
+Perplexity: 344.70617075753376soccer<|endoftext|>cercer, foul, players, minute 20 = The game ends for fifth-year goalkeeper Juan Cu
+
+
+
+Success_rate: 1.0
+Perplexity: 371.9237180011251
+###############################
+soccer<|endoftext|>cercer, substitution, The Player, team Manchester City, minute 41 = The sixth substitution has been
+
+
+
+Success_rate: 1.0
+Perplexity: 683.4627041033376soccer<|endoftext|>cercer, substitution, The Player, team Manchester City, minute 41 = The sixth substitution has been
+
+
+
+Success_rate: 1.0
+Perplexity: 683.4627041033376soccer<|endoftext|>cercer, substitution, The Player, team Manchester City, minute 41 = The sixth substitution has been
+
+
+
+Success_rate: 1.0
+Perplexity: 683.4627041033376soccer<|endoftext|>cercer, substitution, The Player, team Manchester City, minute 41 = The sixth substitution has come
+
+
+
+Success_rate: 1.0
+Perplexity: 786.79279985921
+###############################
+soccer<|endoftext|>cercer, score, players, team Manchester City right back Roberto Firmin Fourth, team Manchester City
+
+
+
+Success_rate: 1.0
+Perplexity: 480.5941153851189soccer<|endoftext|>cercer, score, players, team Manchester City right back Roberto Firmin Fourth from Manchester City,
+
+
+
+Success_rate: 1.0
+Perplexity: 512.6305236535849soccer<|endoftext|>cercer, score, players, team Manchester City right back Roberto Firmin Fourth: 2 = Goal
+
+
+
+Success_rate: 1.0
+Perplexity: 1154.2792293161497soccer<|endoftext|>cercer, score, players, team Manchester City right back Roberto Firmin Fourth of the best coming
+
+
+
+Success_rate: 1.0
+Perplexity: 901.7217851255845
+###############################
+soccer<|endoftext|>cer Yellow card, Player A, team Manchester City box office = Player A fourth yellow card was deserved
+
+
+
+Success_rate: 1.0
+Perplexity: 742.3638147617605soccer<|endoftext|>cer Yellow card, Player A, team Manchester City box office = Player A fourth yellow card to Manchester
+
+
+
+Success_rate: 1.0
+Perplexity: 553.7140970755017soccer<|endoftext|>cer Yellow card, Player A, team Manchester City box office = Player A straight fourth yellow card for
+
+
+
+Success_rate: 1.0
+Perplexity: 834.1146070662955soccer<|endoftext|>cer Yellow card, Player A, team Manchester City box office = Player A straight fourth yellow after a
+
+
+
+Success_rate: 1.0
+Perplexity: 1192.5918456346465
+###############################
+soccer<|endoftext|>cer, red card, Player, team Boxer = Player from Box fifth-minute penalty! Felix
+
+
+
+Success_rate: 1.0
+Perplexity: 989.802828530841soccer<|endoftext|>cer, red card, Player, team Boxer = Player from Box fifth minute penalty. His yellow
+
+
+
+Success_rate: 1.0
+Perplexity: 800.54307139848soccer<|endoftext|>cer, red card, Player, team Boxer = Player from Box second fifth from the penalty spot
+
+
+
+Success_rate: 1.0
+Perplexity: 695.6077865411388soccer<|endoftext|>cer, red card, Player, team Boxer = Player from Box fifth subs, Sean Boyce
+
+
+
+Success_rate: 1.0
+Perplexity: 904.5446770810024
+###############################
+soccer<|endoftext|>cercer, goal, team Player A, minute 20 pass, left player, team Player A,
+
+
+
+Success_rate: 1.0
+Perplexity: 153.60835060444376soccer<|endoftext|>cercer, goal, team Player A, minute 20 pass, left player, team Club Brug
+
+
+
+Success_rate: 1.0
+Perplexity: 362.62844210616225soccer<|endoftext|>cercer, goal, team Player A, minute 20 pass, left side players, team Player A
+
+
+
+Success_rate: 1.0
+Perplexity: 213.85093303385247soccer<|endoftext|>cercer, goal, team Player A, minute 20 pass, left side player, team Player A
+
+
+
+Success_rate: 1.0
+Perplexity: 179.93590912721615
+###############################
+soccer<|endoftext|>cercer, substitution, The, team Second Half, minute 27 = The sixth substitution has been made
+
+
+
+Success_rate: 1.0
+Perplexity: 748.8997555710746soccer<|endoftext|>cercer, substitution, The, team Second Half, minute 27 = The second sixth minute substitution has
+
+
+
+Success_rate: 1.0
+Perplexity: 1247.0026582483729soccer<|endoftext|>cercer, substitution, The, team Second Half, minute 27 = The second sixth minute substitution has
+
+
+
+Success_rate: 1.0
+Perplexity: 1247.0026582483729soccer<|endoftext|>cercer, substitution, The, team Second Half, minute 27 = The second sixth minute substitution has
+
+
+
+Success_rate: 1.0
+Perplexity: 1247.0026582483729
+###############################
+soccer<|endoftext|>cercer, foul, minute 7, minute 7 = Patrick at 7th minute Leonardo at 7th
+
+
+
+Success_rate: 1.0
+Perplexity: 325.88336934076267soccer<|endoftext|>cercer, foul, minute 8, team Napoli = 1:8 foul by Anthony Taylor from
+
+
+
+Success_rate: 1.0
+Perplexity: 561.6110863680934soccer<|endoftext|>cercer, foul, minute 55 = The ball fouls Gianluca Vinicius from the
+
+
+
+Success_rate: 1.0
+Perplexity: 389.31261113069127soccer<|endoftext|>cercer, foul, minute 118 = foul by Nic Milazzo from the Kings sees the ball
+
+
+
+Success_rate: 1.0
+Perplexity: 633.0006197518815
+###############################
+soccer<|endoftext|>cer, score, team Manchester City minute 63 = GOAL at 63rd minute! Sergio Aguero
+
+
+
+Success_rate: 1.0
+Perplexity: 613.9949631983724soccer<|endoftext|>cer, score, team Manchester City minute 78 = Goal! at 78th minute Hector Herrera from Manchester
+
+
+
+Success_rate: 1.0
+Perplexity: 1306.4251355647002soccer<|endoftext|>cer, score, team Manchester City minute 62 = The referee signals that the goal is time for a
+
+
+
+Success_rate: 1.0
+Perplexity: 472.08850614113453soccer<|endoftext|>cer, score, team Manchester City minute 66 = Eder on the edge of the box fires a
+
+
+
+Success_rate: 1.0
+Perplexity: 510.54504872016315
+###############################
+soccer<|endoftext|>cercer, penalty, team Real Madrid = Player Nolito with a yellow card is shown a
+
+
+
+Success_rate: 1.0
+Perplexity: 466.93215446207114soccer<|endoftext|>cercer, penalty, team Real Madrid = Player with a yellow card who shows no mercy is shown
+
+
+
+Success_rate: 1.0
+Perplexity: 430.2516006374523soccer<|endoftext|>cercer, penalty, team Real Madrid = Player Felix Knappenshaw from Real Madrid displays a
+
+
+
+Success_rate: 1.0
+Perplexity: 797.0924493934991soccer<|endoftext|>cercer, penalty, team Real Madrid = Player Verena Pardes departs the pitch
+
+
+
+Success_rate: 1.0
+Perplexity: 283.26863375540387
+###############################
+soccer<|endoftext|>cercer, penalty, team Real Madrid, minute 5 = Player A from Real seventh minute substitution at
+
+
+
+Success_rate: 1.0
+Perplexity: 893.4153360475315soccer<|endoftext|>cercer, penalty, team Real Madrid, minute 5 = Player A from Real seventh minute penalty!
+
+
+
+Success_rate: 1.0
+Perplexity: 800.0805498990806soccer<|endoftext|>cercer, penalty, team Real Madrid, minute 5 = Player A from Real seventh minute substitution.
+
+
+
+Success_rate: 1.0
+Perplexity: 791.6681968700561soccer<|endoftext|>cercer, penalty, team Real Madrid, minute 5 = Player Ccer Seventh Time's a substitution
+
+
+
+Success_rate: 1.0
+Perplexity: 1337.4998636972687
+###############################
+soccer<|endoftext|>cercer Red card for players Ander Herrera, Heung-Min Son, team Valencia, minute
+
+
+
+Success_rate: 1.0
+Perplexity: 243.76702638871078soccer<|endoftext|>cercer Red Card, Player, CSKA Moscow, team Shakhtar = RED CARD! Robert P
+
+
+
+Success_rate: 1.0
+Perplexity: 593.7236949087837soccer<|endoftext|>cercer Red Card, player, team Sevilla, minute 49 = This is probably not the highest
+
+
+
+Success_rate: 1.0
+Perplexity: 513.2892268635798soccer<|endoftext|>cercer Red Card, team Liverpool, team Liverpool players celebrate with an end to an injury-time
+
+
+
+Success_rate: 1.0
+Perplexity: 195.4044710635183
+###############################
+soccer<|endoftext|>cercer, goal, team Paris SG left-back Passan area, 0:1, minute
+
+
+
+Success_rate: 1.0
+Perplexity: 521.3944827628447soccer<|endoftext|>cercer, goal, team Paris SG left-back Passan area, Ander Herrera from Paris
+
+
+
+Success_rate: 1.0
+Perplexity: 407.3963749881425soccer<|endoftext|>cercer, goal, team Paris SG left-back Passan area, Elie Wiesel,
+
+
+
+Success_rate: 1.0
+Perplexity: 401.2114985719023soccer<|endoftext|>cercer, goal, team Paris SG left-back Passan area, ball inside the right post
+
+
+
+Success_rate: 1.0
+Perplexity: 356.4449090626697
+###############################
+soccer<|endoftext|>cercer, foul, team Barcelona, minute 27 = Player foul at 27th fifth minute. That
+
+
+
+Success_rate: 1.0
+Perplexity: 1057.783630721712soccer<|endoftext|>cercer, foul, team Barcelona, minute 27 = Player foul at 27th second fifth minute.
+
+
+
+Success_rate: 1.0
+Perplexity: 1093.3260088225165soccer<|endoftext|>cercer, foul, team Barcelona, minute 27 = Player foul at 27th second fifth minute.
+
+
+
+Success_rate: 1.0
+Perplexity: 1093.3260088225165soccer<|endoftext|>cercer, foul, team Barcelona, minute 27 = Player foul at 27th fifth minute. Fel
+
+
+
+Success_rate: 1.0
+Perplexity: 1183.6027737479699
+###############################
+soccer<|endoftext|>cercer, start, team Real Madrid, second half, 2, 0 = Goal! at 2
+
+
+
+Success_rate: 1.0
+Perplexity: 297.201347631466soccer<|endoftext|>cercer, start, team Real Madrid, second half, 2, 1 = Substitution at 2
+
+
+
+Success_rate: 1.0
+Perplexity: 254.45512360480592soccer<|endoftext|>cercer, start, team Real Madrid, second half = Brought on by a change at half
+
+
+
+Success_rate: 1.0
+Perplexity: 244.3420313809121soccer<|endoftext|>cercer, start, team Real Madrid, second half, minute 63 = Sergio Ramos goes into the
+
+
+
+Success_rate: 1.0
+Perplexity: 386.24280413512105
+###############################
+soccer<|endoftext|>cer, team Atalanta end of second half, 2, 0 = Goal! at 2nd
+
+
+
+Success_rate: 1.0
+Perplexity: 251.8130633865514soccer<|endoftext|>cer, team Atalanta end of second half had a chance to put the ball into the back
+
+
+
+Success_rate: 1.0
+Perplexity: 51.275420946960104soccer<|endoftext|>cer, team Atalanta end of second half for Zlatko Vincic, team At
+
+
+
+Success_rate: 1.0
+Perplexity: 161.16342602186347soccer<|endoftext|>cer, team Atalanta end of second half 3rd minute Substitution. Mehdi Osman
+
+
+
+Success_rate: 1.0
+Perplexity: 146.4760864363976
+###############################
+soccer<|endoftext|>cer, score, Enda Kenny, team second half, 1, 1 = Enda Kenny from
+
+
+
+Success_rate: 1.0
+Perplexity: 231.4543513157671soccer<|endoftext|>cer, score, Enda Kenny, team second half, 1, 2 = It's at 1
+
+
+
+Success_rate: 1.0
+Perplexity: 309.6006913594931soccer<|endoftext|>cer, score, Enda Kenny, team second half, 1, 0, minute 53 = End
+
+
+
+Success_rate: 1.0
+Perplexity: 434.77042550149287soccer<|endoftext|>cer, score, Enda Kenny, team second half, 1, 1, minute 61 = End
+
+
+
+Success_rate: 1.0
+Perplexity: 457.9434481503502
+###############################
+soccer<|endoftext|>cercer, begin, match, first half, team Sevilla, minute 1 = End of first
+
+
+
+Success_rate: 1.0
+Perplexity: 339.68757384559876soccer<|endoftext|>cercer, begin, match, first half, team Atl. Madrid = Alcacer from Atl.
+
+
+
+Success_rate: 1.0
+Perplexity: 515.9455535773241soccer<|endoftext|>cercer, begin, match, First Half, team Real Madrid = Goal! at 19th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 476.4061434074531soccer<|endoftext|>cercer, begin, match, First Half, Andre Georgiuk, team Lokomotiv
+
+
+
+Success_rate: 1.0
+Perplexity: 316.91107557075696
+###############################
+soccer<|endoftext|>cer, score, Marco Passan, team Bayern Munich Player, minute 80 = Goal! at 80
+
+
+
+Success_rate: 1.0
+Perplexity: 919.3216443670412soccer<|endoftext|>cer, score, Marco Passan, team Playerexamples, 0, 3, minute 95
+
+
+
+Success_rate: 1.0
+Perplexity: 592.45530549563soccer<|endoftext|>cer, score, Marco Passan, team Juventus, player, team Juventus, minute 112 = A
+
+
+
+Success_rate: 1.0
+Perplexity: 609.0045000278377soccer<|endoftext|>cer, score, Marco Passan, team Bayern Munich Player, 0, 3 = Cristiano Ronaldo
+
+
+
+Success_rate: 1.0
+Perplexity: 308.7072030621362
+###############################
+soccer<|endoftext|>cercer, substitution, players, team Real Madrid, minute 8 = Substitution eighteenth eighteenth eighteenth seventeenth
+
+
+
+Success_rate: 1.0
+Perplexity: 1184.8275597757552soccer<|endoftext|>cercer, substitution, players, team Real Madrid, minute 8 = Substitution eighteenth eighteenth eighteenth seventeenth
+
+
+
+Success_rate: 1.0
+Perplexity: 1184.8275597757552soccer<|endoftext|>cercer, substitution, players, team Real Madrid, minute 8 = Substitution eighteenth eighteenth eighteenth seventeenth
+
+
+
+Success_rate: 1.0
+Perplexity: 1184.8275597757552soccer<|endoftext|>cercer, substitution, players, team Real Madrid, minute 8 = Substitution eighteenth eighteenth eighteenth seventeenth
+
+
+
+Success_rate: 1.0
+Perplexity: 1184.8275597757552
+###############################
+soccer<|endoftext|>cercer, penalty, right side, team Real Madrid = box-to-box right-hand
+
+
+
+Success_rate: 1.0
+Perplexity: 109.5059754784588soccer<|endoftext|>cercer, penalty, right side, team Real Madrid = Box score! The tackle by Sergio Ramos
+
+
+
+Success_rate: 1.0
+Perplexity: 351.51762941716316soccer<|endoftext|>cercer, penalty, right side, team Real Madrid = Box score! at 92nd minute Michael
+
+
+
+Success_rate: 1.0
+Perplexity: 473.14138934780897soccer<|endoftext|>cercer, penalty, right side, team Real Madrid = Box Score! Bouncer Mario Mand
+
+
+
+Success_rate: 1.0
+Perplexity: 331.5441573403629
+###############################
+soccer<|endoftext|>cercer, goal, team Liverpool, minute 20 = Player from Liverpool fires the rebound onto the top
+
+
+
+Success_rate: 1.0
+Perplexity: 551.0582575861562soccer<|endoftext|>cercer, goal, team Liverpool, minute 20 = Player as the ball flies into the box from
+
+
+
+Success_rate: 1.0
+Perplexity: 330.44077228356343soccer<|endoftext|>cercer, goal, team Liverpool, minute 20 = Player A plays a decent sweet pass into the
+
+
+
+Success_rate: 1.0
+Perplexity: 622.7059405720532soccer<|endoftext|>cercer, goal, team Player A = Goal! at 74th minute Celso Benetto
+
+
+
+Success_rate: 1.0
+Perplexity: 519.6178925708946
+###############################
+soccer<|endoftext|>cercer, penalty, players, team Tottenham = Substitution. Moussa Dembele from Tottenham
+
+
+
+Success_rate: 1.0
+Perplexity: 236.06395051019337soccer<|endoftext|>cercer, penalty, team Liverpool, minute 5 = Player Marko Grujic from Liverpool receives
+
+
+
+Success_rate: 1.0
+Perplexity: 510.600314146118soccer<|endoftext|>cercer, penalty, team Liverpool, minute 5 = Player Yuto Nagatomo from Liverpool receives
+
+
+
+Success_rate: 1.0
+Perplexity: 1023.3576429388331soccer<|endoftext|>cercer, penalty, team Liverpool, minute 5 = Player Filipe Luis Suarez from Liverpool has
+
+
+
+Success_rate: 1.0
+Perplexity: 468.56703884479634
+###############################
+soccer<|endoftext|>cer, score, team Bayern Munich, 2 Player, team Bayern Munich, minute 14 = Goal at
+
+
+
+Success_rate: 1.0
+Perplexity: 308.89199819726457soccer<|endoftext|>cer, score, team Bayern Munich, 2 Player, 1, minute 38 = Goal! at 38
+
+
+
+Success_rate: 1.0
+Perplexity: 630.6906512366473soccer<|endoftext|>cer, score, players, The, team Dynamo Kyiv, minute 83 = The goalkeeper finally finds
+
+
+
+Success_rate: 1.0
+Perplexity: 1376.3869566001663soccer<|endoftext|>cer, score, team Bayern Munich, team Playere, minute 119 = Kevin Busquets from
+
+
+
+Success_rate: 1.0
+Perplexity: 556.0233656918289
+###############################
+soccer<|endoftext|>cercer, substitution, The, team Real Madrid Fourth minute substitution. Antonio Conte from Real Madrid
+
+
+
+Success_rate: 1.0
+Perplexity: 389.8048646812627soccer<|endoftext|>cercer, substitution, The, team Real Madrid Fourth minute substitution. Sergio Conceicao from Real
+
+
+
+Success_rate: 1.0
+Perplexity: 1206.0791034692913soccer<|endoftext|>cercer, substitution, The, team Real Madrid Fourth minute substitution. Manuel Marquez goes off and
+
+
+
+Success_rate: 1.0
+Perplexity: 634.623870573965soccer<|endoftext|>cercer, substitution, The, team Real Madrid Fourth minute substitution. David Pasalic doesn't
+
+
+
+Success_rate: 1.0
+Perplexity: 1005.5596795375187
+###############################
+soccer<|endoftext|>cer, red card, David Ospina, team FC Porto, minute 69 = David O
+
+
+
+Success_rate: 1.0
+Perplexity: 274.0147858452779soccer<|endoftext|>cer, red card, Renato Sanches, team Genk, minute 26 = Renato S
+
+
+
+Success_rate: 1.0
+Perplexity: 376.1494270833481soccer<|endoftext|>cer, red card, Bekker Reus, team Dortmund = Bekker Reus from
+
+
+
+Success_rate: 1.0
+Perplexity: 150.21452768750166soccer<|endoftext|>cer, red card, Isadore Lens, team Chelsea, minute 22 = Isadore Lens
+
+
+
+Success_rate: 1.0
+Perplexity: 374.48880334763703
+###############################
+soccer<|endoftext|>cer Yellow card, The, team FC Porto, minute 104 = Yellow card at 104th minute
+
+
+
+Success_rate: 1.0
+Perplexity: 1119.1072632451246soccer<|endoftext|>cer Yellow card Oumar Niasse.<|endoftext|>« After receiving an injury from Lang Iles,
+
+
+
+Success_rate: 1.0
+Perplexity: 534.2468723262473soccer<|endoftext|>cer Yellow card Lukas Podolsky from Lokomotiv Moscow The foul by Lukas Pod
+
+
+
+Success_rate: 1.0
+Perplexity: 109.0166544587861soccer<|endoftext|>cer Yellow card, Konstantinos Ikeda, team Atl at 27th minute. Madrid =
+
+
+
+Success_rate: 1.0
+Perplexity: 601.6327659742767
+###############################
+soccer<|endoftext|>cercer, penalty, first half, team Inter, minute 51 = Substitution at 51st minute
+
+
+
+Success_rate: 1.0
+Perplexity: 520.435443025318soccer<|endoftext|>cercer, penalty, first half, Sevilla, team Sevilla, minute 83 = Goal!
+
+
+
+Success_rate: 1.0
+Perplexity: 407.6361645038081soccer<|endoftext|>cercer, penalty, first half, Lionel Messi, team Real Madrid = Felipe at half-
+
+
+
+Success_rate: 1.0
+Perplexity: 230.56310009446608soccer<|endoftext|>cercer, penalty, first team Half time substitute, Sarfrazer Ovidiu, team
+
+
+
+Success_rate: 1.0
+Perplexity: 354.49142152600865
+###############################
+soccer<|endoftext|>cercer, substitution, The Second Half, team FC Porto Player, minute 111 = The substitution
+
+
+
+Success_rate: 1.0
+Perplexity: 887.2272909161131soccer<|endoftext|>cercer, substitution, The Second Half, team FC Porto Player, minute 44 = The substitution
+
+
+
+Success_rate: 1.0
+Perplexity: 761.6623079834048soccer<|endoftext|>cercer, substitution, The Second Half, team FC Porto Player, minute 22 = The substitution
+
+
+
+Success_rate: 1.0
+Perplexity: 698.0716332560614soccer<|endoftext|>cercer, substitution, The Second Half, team FC Porto Player's Club = Substitution.
+
+
+
+Success_rate: 1.0
+Perplexity: 476.52860277743827
+###############################

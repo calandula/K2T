@@ -1,0 +1,360 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cer, score, players, right-back and fourth minute substitution, Raheem Sterling, team
+
+Success_rate: 1.0
+Perplexity: 142.0072706074555
+Time_needed: 22.502886295318604
+Success_length: 0.6
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, players, minute 20 = The game ends for fifth minute at 20th minute
+
+Success_rate: 1.0
+Perplexity: 379.88803189600475
+Time_needed: 27.80335807800293
+Success_length: 0.75
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The Player, team Manchester City, minute 41 = The sixth substitution has been
+
+Success_rate: 1.0
+Perplexity: 683.4627041033376
+Time_needed: 31.594859838485718
+Success_length: 0.85
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>cercer, score, players, team Manchester City right back Roberto Firmin Fourth, team Manchester City
+
+Success_rate: 1.0
+Perplexity: 480.5941153851189
+Time_needed: 29.821941614151
+Success_length: 0.8
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>cer Yellow card, Player A, team Manchester City box office = Player A fourth yellow card was deserved
+
+Success_rate: 1.0
+Perplexity: 742.3638147617605
+Time_needed: 30.65918517112732
+Success_length: 0.8
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>cer, red card, Player, team Boxer = Player from Box fifth-minute penalty! Felix
+
+Success_rate: 1.0
+Perplexity: 989.802828530841
+Time_needed: 28.323446035385132
+Success_length: 0.75
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Player A, minute 20 pass, left player, team Player A,
+
+Success_rate: 1.0
+Perplexity: 153.60835060444376
+Time_needed: 28.811047077178955
+Success_length: 0.75
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Second Half, minute 27 = The sixth substitution has been made
+
+Success_rate: 1.0
+Perplexity: 748.8997555710746
+Time_needed: 31.346567392349243
+Success_length: 0.8
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, minute 7, minute 7 = Patrick at 7th minute Leonardo at 7th
+
+Success_rate: 1.0
+Perplexity: 325.88336934076267
+Time_needed: 10.727874279022217
+Success_length: 0.3
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>cer, score, team Manchester City minute 63 = GOAL at 63rd minute! Sergio Aguero
+
+Success_rate: 1.0
+Perplexity: 613.9949631983724
+Time_needed: 14.562113046646118
+Success_length: 0.4
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Real Madrid = Player Nolito with a yellow card is shown a
+
+Success_rate: 1.0
+Perplexity: 466.93215446207114
+Time_needed: 18.388001441955566
+Success_length: 0.5
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, team Real Madrid, minute 5 = Player A from Real seventh minute substitution at
+
+Success_rate: 1.0
+Perplexity: 893.4153360475315
+Time_needed: 31.41413974761963
+Success_length: 0.8
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>cercer Red card for players Ander Herrera, Heung-Min Son, team Valencia, minute
+
+Success_rate: 1.0
+Perplexity: 243.76702638871078
+Time_needed: 13.158241271972656
+Success_length: 0.3
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Paris SG left-back Passan area, 0:1, minute
+
+Success_rate: 1.0
+Perplexity: 521.3944827628447
+Time_needed: 26.378507137298584
+Success_length: 0.7
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>cercer, foul, team Barcelona, minute 27 = Player foul at 27th fifth minute. That
+
+Success_rate: 1.0
+Perplexity: 1057.783630721712
+Time_needed: 32.93261504173279
+Success_length: 0.85
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>cercer, start, team Real Madrid, second half, 2, 0 = Goal! at 2
+
+Success_rate: 1.0
+Perplexity: 297.201347631466
+Time_needed: 20.327601432800293
+Success_length: 0.55
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>cer, team Atalanta end of second half, 2, 0 = Goal! at 2nd
+
+Success_rate: 1.0
+Perplexity: 251.8130633865514
+Time_needed: 18.44247269630432
+Success_length: 0.5
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>cer, score, Enda Kenny, team second half, 1, 1 = Enda Kenny from
+
+Success_rate: 1.0
+Perplexity: 231.4543513157671
+Time_needed: 20.159576892852783
+Success_length: 0.55
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, begin, match, first half, team Sevilla, minute 1 = End of first
+
+Success_rate: 1.0
+Perplexity: 339.68757384559876
+Time_needed: 16.361940622329712
+Success_length: 0.45
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>cer, score, Marco Passan, team Bayern Munich Player, minute 80 = Goal! at 80
+
+Success_rate: 1.0
+Perplexity: 919.3216443670412
+Time_needed: 20.683793544769287
+Success_length: 0.5
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, players, team Real Madrid, minute 8 = Substitution eighteenth eighteenth eighteenth seventeenth
+
+Success_rate: 1.0
+Perplexity: 1184.8275597757552
+Time_needed: 37.42484140396118
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, right side, team Real Madrid = box-to-box right-hand
+
+Success_rate: 1.0
+Perplexity: 109.5059754784588
+Time_needed: 18.790194988250732
+Success_length: 0.65
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>cercer, goal, team Liverpool, minute 20 = Player from Liverpool fires the rebound onto the top
+
+Success_rate: 1.0
+Perplexity: 551.0582575861562
+Time_needed: 14.611688137054443
+Success_length: 0.3
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, players, team Tottenham = Substitution. Moussa Dembele from Tottenham
+
+Success_rate: 1.0
+Perplexity: 236.06395051019337
+Time_needed: 16.975770950317383
+Success_length: 0.3
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>cer, score, team Bayern Munich, 2 Player, team Bayern Munich, minute 14 = Goal at
+
+Success_rate: 1.0
+Perplexity: 308.89199819726457
+Time_needed: 15.991031408309937
+Success_length: 0.25
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The, team Real Madrid Fourth minute substitution. Antonio Conte from Real Madrid
+
+Success_rate: 1.0
+Perplexity: 389.8048646812627
+Time_needed: 22.22849416732788
+Success_length: 0.6
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>cer, red card, David Ospina, team FC Porto, minute 69 = David O
+
+Success_rate: 1.0
+Perplexity: 274.0147858452779
+Time_needed: 6.886268615722656
+Success_length: 0.2
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|>cer Yellow card, The, team FC Porto, minute 104 = Yellow card at 104th minute
+
+Success_rate: 1.0
+Perplexity: 1119.1072632451246
+Time_needed: 4.9809839725494385
+Success_length: 0.15
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>cercer, penalty, first half, team Inter, minute 51 = Substitution at 51st minute
+
+Success_rate: 1.0
+Perplexity: 520.435443025318
+Time_needed: 13.05715537071228
+Success_length: 0.35
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>cercer, substitution, The Second Half, team FC Porto Player, minute 111 = The substitution
+
+Success_rate: 1.0
+Perplexity: 887.2272909161131
+Time_needed: 25.91366934776306
+Success_length: 0.7
+

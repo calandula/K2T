@@ -1,0 +1,360 @@
+Keywords: 
+score player right fourth minute 
+
+Final sequence: 
+
+<|endoftext|>13th minute David Silva scores with a brilliant player pass from right side of the fourth-man goal
+
+Success_rate: 1.0
+Perplexity: 165.55065961696488
+Time_needed: 32.249805212020874
+Success_length: 0.85
+
+Keywords: 
+foul player minute fifth 
+
+Final sequence: 
+
+<|endoftext|>I had a foul play that I didn't expect players to make minute. The fifth-minute substitution
+
+Success_rate: 1.0
+Perplexity: 66.96737181918083
+Time_needed: 31.81227993965149
+Success_length: 0.85
+
+Keywords: 
+substitution player sixth minute 
+
+Final sequence: 
+
+<|endoftext|>This substitution has been made at 16th minute. Gabriel Jesus from Player A is on sixth minute.
+
+Success_rate: 1.0
+Perplexity: 183.058185906048
+Time_needed: 33.764843702316284
+Success_length: 0.9
+
+Keywords: 
+score player right fourth 
+
+Final sequence: 
+
+<|endoftext|>Player scorers from the right side of the pitch celebrate after fourth-minute goal! Denis Cherys
+
+Success_rate: 1.0
+Perplexity: 96.18910790081047
+Time_needed: 24.122625589370728
+Success_length: 0.65
+
+Keywords: 
+yellow card player box fourth 
+
+Final sequence: 
+
+<|endoftext|>The yellow card was deserved at 63rd minute players box. The tackle by fourth-choice Marco Re
+
+Success_rate: 1.0
+Perplexity: 393.6885790639999
+Time_needed: 29.927460432052612
+Success_length: 0.8
+
+Keywords: 
+red card player box fifth 
+
+Final sequence: 
+
+<|endoftext|>Red card for player who boxed in a tackle by fifth-minute substitute Manu Bolor from
+
+Success_rate: 1.0
+Perplexity: 309.0558294236646
+Time_needed: 22.294552087783813
+Success_length: 0.6
+
+Keywords: 
+goal player pass left player 
+
+Final sequence: 
+
+<|endoftext|>On a goal-scoring chance from players like Passan left the pitch and players like Raheem
+
+Success_rate: 1.0
+Perplexity: 91.3691012037954
+Time_needed: 27.10215401649475
+Success_length: 0.8
+
+Keywords: 
+substitution sixth minute second half 
+
+Final sequence: 
+
+<|endoftext|>In the second half of the substitution, Mateo Kovac sixth minute substitute Gonzalo Higuain
+
+Success_rate: 1.0
+Perplexity: 66.65694296593196
+Time_needed: 26.049018621444702
+Success_length: 0.7
+
+Keywords: 
+foul minute 
+
+Final sequence: 
+
+<|endoftext|>For the second foul on the pitch, minutely from Jesus Mateu Lahoz in the box,
+
+Success_rate: 1.0
+Perplexity: 310.4949889997992
+Time_needed: 17.91271948814392
+Success_length: 0.45
+
+Keywords: 
+score minute 
+
+Final sequence: 
+
+<|endoftext|>Striker Marlos scores from close range after minute-two goal. His header ricochets
+
+Success_rate: 1.0
+Perplexity: 84.30869124192368
+Time_needed: 20.27250337600708
+Success_length: 0.55
+
+Keywords: 
+penalty player team 
+
+Final sequence: 
+
+<|endoftext|>More players are being brought on penalty kicks as teams are forced to make tactical changes. Takashi
+
+Success_rate: 1.0
+Perplexity: 83.54592180445906
+Time_needed: 18.42095923423767
+Success_length: 0.5
+
+Keywords: 
+penalty player team minute seventh 
+
+Final sequence: 
+
+<|endoftext|>The penalty is duly shown by players from teams with a minute left in the seventh minute.<|endoftext|>American
+
+Success_rate: 1.0
+Perplexity: 103.72406202021212
+Time_needed: 31.405580043792725
+Success_length: 0.8
+
+Keywords: 
+red card player 
+
+Final sequence: 
+
+<|endoftext|>Some players are red carded at 85th minute. To add insult to injury at 85th minute
+
+Success_rate: 1.0
+Perplexity: 51.719684378723876
+Time_needed: 8.839196681976318
+Success_length: 0.25
+
+Keywords: 
+goal left pass area 
+
+Final sequence: 
+
+<|endoftext|>One goal in the left side of the goal passes to the area and Luis Suarez from Barcelona from Liverpool
+
+Success_rate: 1.0
+Perplexity: 125.95138701546448
+Time_needed: 24.241276502609253
+Success_length: 0.65
+
+Keywords: 
+foul team player fifth 
+
+Final sequence: 
+
+<|endoftext|>out of the foul by the team-mate and players from the second half fifth minute. The goal
+
+Success_rate: 1.0
+Perplexity: 84.38852903080138
+Time_needed: 29.92922878265381
+Success_length: 0.8
+
+Keywords: 
+start second half 
+
+Final sequence: 
+
+<|endoftext|>Start of second half. Thomas is not able to continue because of injury. Olivier Giroud from Paris
+
+Success_rate: 1.0
+Perplexity: 83.71720048600827
+Time_needed: 7.01467490196228
+Success_length: 0.2
+
+Keywords: 
+end second half team 
+
+Final sequence: 
+
+<|endoftext|>A half-time substitution has been made at Endeavour at second team. Maximilian S
+
+Success_rate: 1.0
+Perplexity: 88.63701282923333
+Time_needed: 28.334728479385376
+Success_length: 0.75
+
+Keywords: 
+score end second half 
+
+Final sequence: 
+
+<|endoftext|>Match Score: 1:1 End of second half. Sergio Busquets makes no mistake with a
+
+Success_rate: 1.0
+Perplexity: 51.8699697665344
+Time_needed: 18.383290767669678
+Success_length: 0.5
+
+Keywords: 
+begin match first half 
+
+Final sequence: 
+
+<|endoftext|>What is the first pitch like for the second half? What will begin to match up with the opponent
+
+Success_rate: 1.0
+Perplexity: 42.64315399010542
+Time_needed: 29.927336931228638
+Success_length: 0.8
+
+Keywords: 
+score pass player 
+
+Final sequence: 
+
+<|endoftext|>3rd minute score! Pass players from Manchester United, Chelsea and Liverpool from outside the box show great
+
+Success_rate: 1.0
+Perplexity: 99.60363632868909
+Time_needed: 18.40419578552246
+Success_length: 0.35
+
+Keywords: 
+substitution player seventeenth minute 
+
+Final sequence: 
+
+<|endoftext|>on substitution at 8th minute. A player from Bayern Munich is brought on eighteenth eighteenth eighteenth eighteenth seventeenth
+
+Success_rate: 1.0
+Perplexity: 677.5524567023818
+Time_needed: 37.59198474884033
+Success_length: 1.0
+
+Keywords: 
+penalty right side box 
+
+Final sequence: 
+
+<|endoftext|>a penalty is awarded to right side of the box at 120th minute. Raheem Sterling from
+
+Success_rate: 1.0
+Perplexity: 74.79729085451527
+Time_needed: 17.041325092315674
+Success_length: 0.5
+
+Keywords: 
+goal player 
+
+Final sequence: 
+
+<|endoftext|>The goal is finally being scored and players celebrate inside the box. Moussa Dembele from Marse
+
+Success_rate: 1.0
+Perplexity: 69.2753129185865
+Time_needed: 14.753197193145752
+Success_length: 0.4
+
+Keywords: 
+penalty player 
+
+Final sequence: 
+
+<|endoftext|>is about to witness a penalty from the referee after players interrupted the game so that a substitution could be
+
+Success_rate: 1.0
+Perplexity: 80.1185753011241
+Time_needed: 16.94742250442505
+Success_length: 0.45
+
+Keywords: 
+score player 
+
+Final sequence: 
+
+<|endoftext|>1st minute score! The players celebrate and Dimitri Payet from Manchester City goes into the book
+
+Success_rate: 1.0
+Perplexity: 147.52716905554576
+Time_needed: 12.153969764709473
+Success_length: 0.35
+
+Keywords: 
+substitution fourth minute 
+
+Final sequence: 
+
+<|endoftext|>If you are a substitution at 31st minute, it is time for fourth-string Jesus Navas
+
+Success_rate: 1.0
+Perplexity: 106.80948504401988
+Time_needed: 28.038427591323853
+Success_length: 0.75
+
+Keywords: 
+red card 
+
+Final sequence: 
+
+<|endoftext|>Red card. And a yellow it is. Sergio Aguero from Barcelona isn't happy with the decision
+
+Success_rate: 1.0
+Perplexity: 89.85164177009612
+Time_needed: 3.0580954551696777
+Success_length: 0.1
+
+Keywords: 
+yellow card 
+
+Final sequence: 
+
+<|endoftext|> yellow card was deserved at 33rd minute. The tackle by Valentino Rossi from Inter wasn't precise
+
+Success_rate: 1.0
+Perplexity: 282.7784731522564
+Time_needed: 3.0974411964416504
+Success_length: 0.1
+
+Keywords: 
+penalty first half 
+
+Final sequence: 
+
+<|endoftext|>if the penalty is not first-time it is half-time. Philippe Coutinho from Liverpool is
+
+Success_rate: 1.0
+Perplexity: 62.95071408975467
+Time_needed: 20.447272777557373
+Success_length: 0.55
+
+Keywords: 
+substitution second half player 
+
+Final sequence: 
+
+<|endoftext|>landing substitution at 66th minute. Second half time players are allowed time for a substitution. Marcel
+
+Success_rate: 1.0
+Perplexity: 213.2926521365838
+Time_needed: 26.641807317733765
+Success_length: 0.6
+

@@ -788,7 +788,7 @@ if __name__ == '__main__':
     
     ### Create model
     model = GPT2LMHeadModel.from_pretrained(args.model)
-    tokenizer = GPT2Tokenizer.from_pretrained(args.model)
+    tokenizer = GPT2Tokenizer.from_pretrained('gpt2-large')
     model.eval()   #Sets model to evaluation mode
     model.to('cuda')
 
